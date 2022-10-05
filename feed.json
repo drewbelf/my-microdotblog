@@ -7,19 +7,55 @@
 	"items": [
 		
 			{
+				"id": "http://drewbelf.micro.blog/2022/10/05/this-is-too.html",
+				
+				"content_html": "<p>This is too good: <a href=\"https://www.youtube.com/watch?v=a22c8NPNOPI\">Nicole Kidman AMC Ad - SNL</a></p>\n",
+				"content_text": "This is too good: [Nicole Kidman AMC Ad - SNL](https://www.youtube.com/watch?v=a22c8NPNOPI)\n",
+				"date_published": "2022-10-05T10:58:59-04:00",
+				"url": "https://now.andrewbelfield.com/2022/10/05/this-is-too.html",
+				"tags": ["watching"]
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2022/09/26/currently-reading-christs.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780888444240\">Christ&rsquo;s Two Wills in Scholastic Thought: The Christology of Aquinas and Its Historical Contexts</a> by Corey L. Barnes 📚</p>\n",
+				"content_text": "Currently reading: [Christ's Two Wills in Scholastic Thought: The Christology of Aquinas and Its Historical Contexts](https://micro.blog/books/9780888444240) by Corey L. Barnes 📚\n",
+				"date_published": "2022-09-26T10:01:32-04:00",
+				"url": "https://now.andrewbelfield.com/2022/09/26/currently-reading-christs.html",
+				"tags": ["reading","theology"]
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2022/09/26/currently-reading-the.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780374721107\">The Dawn of Everything: A New History of Humanity</a> by David Graeber and David Wengrow 📚 Returning to this, after having read the first half about a year ago, on audiobook through Libby.</p>\n",
+				"content_text": "Currently reading: [The Dawn of Everything: A New History of Humanity](https://micro.blog/books/9780374721107) by David Graeber and David Wengrow 📚 Returning to this, after having read the first half about a year ago, on audiobook through Libby.\n",
+				"date_published": "2022-09-26T07:23:07-04:00",
+				"url": "https://now.andrewbelfield.com/2022/09/26/currently-reading-the.html",
+				"tags": ["reading"]
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2022/09/25/currently-reading-from.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780226062044\">From Dissertation to Book</a> by William Germano 📚</p>\n",
+				"content_text": "Currently reading: [From Dissertation to Book](https://micro.blog/books/9780226062044) by William Germano 📚\n",
+				"date_published": "2022-09-25T22:41:00-04:00",
+				"url": "https://now.andrewbelfield.com/2022/09/25/currently-reading-from.html",
+				"tags": ["reading"]
+			},
+			{
 				"id": "http://drewbelf.micro.blog/2022/09/24/currently-reading-religion.html",
 				
-				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780231545792\">Religion and Film</a> by S. B. Plate 📚</p>\n",
-				"content_text": "Currently reading: [Religion and Film](https://micro.blog/books/9780231545792) by S. B. Plate 📚\n",
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780231545792\">Religion and Film: Cinema and the Recreation of the World</a> by S. B. Plate 📚</p>\n",
+				"content_text": "Currently reading: [Religion and Film: Cinema and the Recreation of the World](https://micro.blog/books/9780231545792) by S. B. Plate 📚\n",
 				"date_published": "2022-09-24T11:07:44-04:00",
 				"url": "https://now.andrewbelfield.com/2022/09/24/currently-reading-religion.html",
-				"tags": ["reading"]
+				"tags": ["reading","watching"]
 			},
 			{
 				"id": "http://drewbelf.micro.blog/2022/09/18/enthusiastic-dog-owners.html",
 				
 				"content_html": "<p>Enthusiastic dog owners at Letchworth State Park</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Enthusiastic dog owners at Letchworth State Park\n\n<img src=\"uploads/2022/ae6b186866.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n",
+				"content_text": "Enthusiastic dog owners at Letchworth State Park\n\n<img src=\"https://now.andrewbelfield.com/uploads/2022/ae6b186866.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n",
 				"date_published": "2022-09-18T17:04:04-04:00",
 				"url": "https://now.andrewbelfield.com/2022/09/18/enthusiastic-dog-owners.html",
 				"tags": ["film","travel"]
