@@ -7,10 +7,54 @@
 	"items": [
 		
 			{
+				"id": "http://drewbelf.micro.blog/2022/11/17/now-playing-me.html",
+				
+				"content_html": "<p>Now playing: <a href=\"https://www.youtube.com/watch?v=6T5zc36sAIE\">Me &amp; My Dog</a> (boygenius live on WFUV, 2018) 🎵</p>\n",
+				"content_text": "Now playing: [Me & My Dog](https://www.youtube.com/watch?v=6T5zc36sAIE) (boygenius live on WFUV, 2018) 🎵\n",
+				"date_published": "2022-11-17T15:49:01-05:00",
+				"url": "https://now.andrewbelfield.com/2022/11/17/now-playing-me.html",
+				"tags": ["music"]
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2022/11/16/the-opening-to.html",
+				
+				"content_html": "<p>The opening to Merriam-Webster&rsquo;s guide on <a href=\"https://www.merriam-webster.com/words-at-play/when-to-use-that-and-which\">when to use &lsquo;that&rsquo; and when to use &lsquo;which&rsquo;</a> is incredible:</p>\n<blockquote>\n<p>Do you suffer from low self-esteem? Do you have anxiety, or difficulty making decisions? Do you find yourself unable to decide whether you should use that or which when composing a sentence? In the event that you answered “yes” to either of the first two questions you have our sympathies, but as a dictionary we can offer little else. However, if the source of your trouble is the issue of that and which we may be of some small assistance.</p>\n</blockquote>\n",
+				"content_text": "The opening to Merriam-Webster's guide on [when to use 'that' and when to use 'which'](https://www.merriam-webster.com/words-at-play/when-to-use-that-and-which) is incredible:\r\n\r\n> Do you suffer from low self-esteem? Do you have anxiety, or difficulty making decisions? Do you find yourself unable to decide whether you should use that or which when composing a sentence? In the event that you answered “yes” to either of the first two questions you have our sympathies, but as a dictionary we can offer little else. However, if the source of your trouble is the issue of that and which we may be of some small assistance.\n",
+				"date_published": "2022-11-16T08:13:50-05:00",
+				"url": "https://now.andrewbelfield.com/2022/11/16/the-opening-to.html",
+				"tags": ["reading"]
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2022/11/15/now-playing-carrie.html",
+				
+				"content_html": "<p>Now playing: <a href=\"https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS?si=f8iJDw8CSrSgRQDkXMNXvA\">Carrie &amp; Lowell</a> (Sufjan Stevens, 2015) 🎵 I used to think I was a Sufjan Stevens fan, but really I think I just like this album and his <a href=\"https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA?si=lXDY1ozRQnWNeMGd8g4QWQ\">Seven Swans</a></p>\n",
+				"content_text": "Now playing: [Carrie & Lowell](https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS?si=f8iJDw8CSrSgRQDkXMNXvA) (Sufjan Stevens, 2015) 🎵 I used to think I was a Sufjan Stevens fan, but really I think I just like this album and his [Seven Swans](https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA?si=lXDY1ozRQnWNeMGd8g4QWQ)\n",
+				"date_published": "2022-11-15T11:40:27-05:00",
+				"url": "https://now.andrewbelfield.com/2022/11/15/now-playing-carrie.html",
+				"tags": ["music"]
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2022/11/14/afterword-to-wading.html",
+				
+				"content_html": "<p>Afterword to <em>Wading in Wasit-High Water: The Lyrics of Fleet Foxes</em> | Robin Pecknold | <a href=\"https://www.rollingstone.com/music/music-features/fleet-foxes-lyrics-robin-pecknold-songwriting-1234622228/amp/\">rollingstone.com</a></p>\n",
+				"content_text": "Afterword to *Wading in Wasit-High Water: The Lyrics of Fleet Foxes* | Robin Pecknold | [rollingstone.com](https://www.rollingstone.com/music/music-features/fleet-foxes-lyrics-robin-pecknold-songwriting-1234622228/amp/)\n",
+				"date_published": "2022-11-14T10:58:03-05:00",
+				"url": "https://now.andrewbelfield.com/2022/11/14/afterword-to-wading.html",
+				"tags": ["reading","music"]
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2022/11/13/this-is-not.html",
+				
+				"content_html": "<p>(This is not a black and white photo.)</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "(This is not a black and white photo.)\n\n<img src=\"https://now.andrewbelfield.com/uploads/2022/591e5fedb5.jpg\" width=\"600\" height=\"451\" alt=\"Gray landscape\">\n",
+				"date_published": "2022-11-13T17:38:06-05:00",
+				"url": "https://now.andrewbelfield.com/2022/11/13/this-is-not.html"
+			},
+			{
 				"id": "http://drewbelf.micro.blog/2022/11/13/snow-in-upstate.html",
 				
-				"content_html": "<p>Snow in upstate NY</p>\n",
-				"content_text": "Snow in upstate NY\n",
+				"content_html": "<p>Snow in upstate NY</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Snow in upstate NY\n\n<img src=\"uploads/2022/1505df807d.jpg\" width=\"600\" height=\"451\" alt=\"Snowy day\" />\n",
 				"date_published": "2022-11-13T11:32:47-05:00",
 				"url": "https://now.andrewbelfield.com/2022/11/13/snow-in-upstate.html"
 			},
@@ -18,7 +62,7 @@
 				"id": "http://drewbelf.micro.blog/2022/11/12/the-first-loaf.html",
 				
 				"content_html": "<p>The first loaf of sourdough I&rsquo;ve baked in almost a year. I&rsquo;m not entirely satisfied with the rise, but it was nice to bake again 🍞</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The first loaf of sourdough I've baked in almost a year. I'm not entirely satisfied with the rise, but it was nice to bake again 🍞\n\n<img src=\"uploads/2022/66d0de406d.jpg\" width=\"600\" height=\"451\" alt=\"A loaf of sourdough bread\">\n",
+				"content_text": "The first loaf of sourdough I've baked in almost a year. I'm not entirely satisfied with the rise, but it was nice to bake again 🍞\n\n<img src=\"https://now.andrewbelfield.com/uploads/2022/66d0de406d.jpg\" width=\"600\" height=\"451\" alt=\"A loaf of sourdough bread\">\n",
 				"date_published": "2022-11-12T15:23:41-05:00",
 				"url": "https://now.andrewbelfield.com/2022/11/12/the-first-loaf.html",
 				"tags": ["breads"]
@@ -821,7 +865,7 @@
 				"id": "http://drewbelf.micro.blog/2022/06/29/somewhere-between-miami.html",
 				
 				"content_html": "<p>Somewhere between Miami and San Salvador</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Somewhere between Miami and San Salvador\n\n<img src=\"uploads/2022/fe470c0f55.jpg\" width=\"600\" height=\"599\" alt=\"View from an airplane\" />\n",
+				"content_text": "Somewhere between Miami and San Salvador\n\n<img src=\"https://now.andrewbelfield.com/uploads/2022/fe470c0f55.jpg\" width=\"600\" height=\"599\" alt=\"View from an airplane\" />\n",
 				"date_published": "2022-06-29T21:08:05-05:00",
 				"url": "https://now.andrewbelfield.com/2022/06/29/somewhere-between-miami.html",
 				"tags": ["travel"]
@@ -875,7 +919,7 @@
 				"id": "http://drewbelf.micro.blog/2022/06/23/one-of-the.html",
 				
 				"content_html": "<p>One of the peculiarities of writing a dissertation during 2020–21 was the lack of library access. I was fortunate in owning many of the materials I needed, and the library staff at Boston College did what they could to make their collection available to us. Still, I&rsquo;m glad to have more regular access to a library again (and one as good as the Franciscan Institute&rsquo;s in Friedsam Memorial Library!).</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "One of the peculiarities of writing a dissertation during 2020–21 was the lack of library access. I was fortunate in owning many of the materials I needed, and the library staff at Boston College did what they could to make their collection available to us. Still, I'm glad to have more regular access to a library again (and one as good as the Franciscan Institute's in Friedsam Memorial Library!).\n\n<img src=\"uploads/2022/f14d18c7d2.jpg\" width=\"600\" height=\"599\" alt=\"A line of books\" />\n",
+				"content_text": "One of the peculiarities of writing a dissertation during 2020–21 was the lack of library access. I was fortunate in owning many of the materials I needed, and the library staff at Boston College did what they could to make their collection available to us. Still, I'm glad to have more regular access to a library again (and one as good as the Franciscan Institute's in Friedsam Memorial Library!).\n\n<img src=\"https://now.andrewbelfield.com/uploads/2022/f14d18c7d2.jpg\" width=\"600\" height=\"599\" alt=\"A line of books\" />\n",
 				"date_published": "2022-06-23T14:15:06-05:00",
 				"url": "https://now.andrewbelfield.com/2022/06/23/one-of-the.html",
 				"tags": ["reading","theology"]
