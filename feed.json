@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://drewbelf.micro.blog/2023/02/14/finished-reading-metamorphoses.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780525505990\">Metamorphoses</a> by Ovid (translated by Stephanie McCarter) 📚</p>\n",
+				"content_text": "Finished reading: [Metamorphoses](https://micro.blog/books/9780525505990) by Ovid (translated by Stephanie McCarter) 📚\n",
+				"date_published": "2023-02-14T22:59:47-05:00",
+				"url": "https://blog.andrewbelfield.com/2023/02/14/finished-reading-metamorphoses.html",
+				"tags": ["reading"]
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2023/02/14/now-playing-wet.html",
+				
+				"content_html": "<p>Now playing: <a href=\"https://songwhip.com/wetleg/wet-leg\">Wet Leg</a> (Wet Leg, 2022) 🎵</p>\n",
+				"content_text": "Now playing: [Wet Leg](https://songwhip.com/wetleg/wet-leg) (Wet Leg, 2022) 🎵\n",
+				"date_published": "2023-02-14T10:27:33-05:00",
+				"url": "https://blog.andrewbelfield.com/2023/02/14/now-playing-wet.html",
+				"tags": ["music"]
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2023/02/13/i-swear-paramore.html",
+				
+				"content_html": "<p>I swear, Paramore does not put out a bad album. I really loved <a href=\"https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF?si=ZmemtrQNT626cXjv021eaw\">their self-titled album</a> and I thought <em><a href=\"https://en.wikipedia.org/wiki/After_Laughter\">After Laughter</a></em>, though not so much to my taste, was good too. But <em><a href=\"https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB?si=BgLqUC5tSPKLLfyNjxZplg\">This Is Why</a></em> is at least as good as anything they&rsquo;ve ever put out.</p>\n",
+				"content_text": "I swear, Paramore does not put out a bad album. I really loved [their self-titled album](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF?si=ZmemtrQNT626cXjv021eaw) and I thought *[After Laughter](https://en.wikipedia.org/wiki/After_Laughter)*, though not so much to my taste, was good too. But *[This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB?si=BgLqUC5tSPKLLfyNjxZplg)* is at least as good as anything they've ever put out.\n",
+				"date_published": "2023-02-13T13:56:50-05:00",
+				"url": "https://blog.andrewbelfield.com/2023/02/13/i-swear-paramore.html",
+				"tags": ["music"]
+			},
+			{
 				"id": "http://drewbelf.micro.blog/2023/02/06/from-the-title.html",
 				
 				"content_html": "<p>From the title page of a used copy of Herbert McCabe&rsquo;s <em>God Still Matters</em></p>\n<!-- raw HTML omitted -->\n",
