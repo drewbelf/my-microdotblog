@@ -7,6 +7,32 @@
 	"items": [
 		
 			{
+				"id": "http://drewbelf.micro.blog/2023/03/01/keeping-my-boots.html",
+				
+				"content_html": "<p>Keeping my boots <strong>secure</strong> with multiple knots (I need new laces)</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Keeping my boots **secure** with multiple knots (I need new laces)\n\n<img src=\"uploads/2023/fa18f47303.jpg\" width=\"451\" height=\"600\" alt=\"Broken boot laces secured with multiple knots\">\n",
+				"date_published": "2023-03-01T12:00:05-05:00",
+				"url": "https://blog.andrewbelfield.com/2023/03/01/keeping-my-boots.html"
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2023/02/28/now-playing-sgt.html",
+				
+				"content_html": "<p>Now playing: <a href=\"https://songwhip.com/the-beatles/sgt-peppers-lonely-hearts-club-band-remastered\">Sgt. Pepper&rsquo;s Lonely Hearts Club Band</a> (The Beatles, 1967) 🎵 My favorite Beatles album is still Revolver, but Sgt. Pepper&rsquo;s is quickly climbing my rankings</p>\n",
+				"content_text": "Now playing: [Sgt. Pepper's Lonely Hearts Club Band](https://songwhip.com/the-beatles/sgt-peppers-lonely-hearts-club-band-remastered) (The Beatles, 1967) 🎵 My favorite Beatles album is still Revolver, but Sgt. Pepper's is quickly climbing my rankings\n",
+				"date_published": "2023-02-28T10:38:07-05:00",
+				"url": "https://blog.andrewbelfield.com/2023/02/28/now-playing-sgt.html",
+				"tags": ["music"]
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2023/02/26/finished-reading-bare.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781587681929\">Bare Ruined Choirs: Doubt, Prophecy, and Radical Religion</a> by Garry Wills 📚</p>\n<blockquote>\n<p>So Rome is always dying (partially) from head down, while being (in part) resurrected from feet up. New forms of life have come from unexpected places&mdash;from Athanasius at local councils, Benedict in the monasteries, Albertus and Thomas in the universities, Francis of Assisi in the lanes and roads, Ignatius alone with a penitent making <em>The Spiritual Exercises</em>, Xavier and Ricci out at the rim of the world, Acton and Newman in pamphlets and journals.</p>\n<p>These stirrings of life are not normally inspired, or even approved, by officials. Their leaders were held suspect, their teachings suppressed. Reformers could count themselves lucky if they were only silenced (like Abelard and Newman), condemned (like Erasmus and Wyclif), exiled by church authorities (like Athanasius and Chrysostom), or jailed by them (like St. John of the Cross and St. Ignatius of Loyola)&mdash;after all, St. Joan and Savonarola and John Hus were tortured and killed by them. But it has always been the task of the prophetic church, despite officials opposed to its opposition, to redeem the kingly church. Peter needs Paul&mdash;as Pope Innocent needed St. Francis, Pope Urban needed St. Catherine, or Pope Paul III needed Ignatius. As Paul VI needs Dan Berrigan. The Christian message is not authenticated from a throne.</p>\n</blockquote>\n",
+				"content_text": "Finished reading: [Bare Ruined Choirs: Doubt, Prophecy, and Radical Religion](https://micro.blog/books/9781587681929) by Garry Wills 📚\r\n\r\n> So Rome is always dying (partially) from head down, while being (in part) resurrected from feet up. New forms of life have come from unexpected places---from Athanasius at local councils, Benedict in the monasteries, Albertus and Thomas in the universities, Francis of Assisi in the lanes and roads, Ignatius alone with a penitent making *The Spiritual Exercises*, Xavier and Ricci out at the rim of the world, Acton and Newman in pamphlets and journals.\r\n> \r\n> These stirrings of life are not normally inspired, or even approved, by officials. Their leaders were held suspect, their teachings suppressed. Reformers could count themselves lucky if they were only silenced (like Abelard and Newman), condemned (like Erasmus and Wyclif), exiled by church authorities (like Athanasius and Chrysostom), or jailed by them (like St. John of the Cross and St. Ignatius of Loyola)---after all, St. Joan and Savonarola and John Hus were tortured and killed by them. But it has always been the task of the prophetic church, despite officials opposed to its opposition, to redeem the kingly church. Peter needs Paul---as Pope Innocent needed St. Francis, Pope Urban needed St. Catherine, or Pope Paul III needed Ignatius. As Paul VI needs Dan Berrigan. The Christian message is not authenticated from a throne.\n",
+				"date_published": "2023-02-26T13:35:38-05:00",
+				"url": "https://blog.andrewbelfield.com/2023/02/26/finished-reading-bare.html",
+				"tags": ["reading","theology","justice"]
+			},
+			{
 				"id": "http://drewbelf.micro.blog/2023/02/23/one-of-my.html",
 				
 				"content_html": "<p>One of my favorite little displays in my office (I know I should have posted this yesterday for Ash Wednesday).</p>\n<!-- raw HTML omitted -->\n",
