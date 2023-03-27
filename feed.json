@@ -7,10 +7,62 @@
 	"items": [
 		
 			{
+				"id": "http://drewbelf.micro.blog/2023/03/26/my-instrument-with.html",
+				
+				"content_html": "<p>My <a href=\"https://challenges.micro.blog/2023/03/25/the-prompt-for.html\">instrument</a> with a cool stained glass window–inspired strap I found on eBay</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "My [instrument](https://challenges.micro.blog/2023/03/25/the-prompt-for.html) with a cool stained glass window–inspired strap I found on eBay\n\n<img src=\"uploads/2023/13f488a167.jpg\" width=\"451\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-03-26T21:47:24-04:00",
+				"url": "https://blog.andrewbelfield.com/2023/03/26/my-instrument-with.html"
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2023/03/25/herbs-rather-than.html",
+				
+				"content_html": "<p>Herbs rather than <a href=\"https://challenges.micro.blog/2023/03/24/the-prompt-for.html\">spice</a>, but still, pretty close.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Herbs rather than [spice](https://challenges.micro.blog/2023/03/24/the-prompt-for.html), but still, pretty close.\n\n<img src=\"uploads/2023/8222cedfd0.jpg\" width=\"600\" height=\"599\" alt=\"\">\n",
+				"date_published": "2023-03-25T22:30:00-04:00",
+				"url": "https://blog.andrewbelfield.com/2023/03/25/herbs-rather-than.html"
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2023/03/24/the-court-at.html",
+				
+				"content_html": "<p>The <a href=\"https://challenges.micro.blog/2023/03/23/the-prompt-for.html\">court</a> at Saint Isidore&rsquo;s College in Rome, home of the <a href=\"https://www.quaracchi.org/en/about/\">Quaracchi archives</a>. I&rsquo;ll be at Saint Isidore&rsquo;s again this summer for a research workshop on eschatology in the theology of Alexander of Hales</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The [court](https://challenges.micro.blog/2023/03/23/the-prompt-for.html) at Saint Isidore's College in Rome, home of the [Quaracchi archives](https://www.quaracchi.org/en/about/). I'll be at Saint Isidore's again this summer for a research workshop on eschatology in the theology of Alexander of Hales\n\n<img src=\"uploads/2023/e878942c7d.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2023-03-24T16:00:02-04:00",
+				"url": "https://blog.andrewbelfield.com/2023/03/24/the-court-at.html",
+				"tags": ["theology","travel"]
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2023/03/23/finished-reading-christianity.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781626980303\">Christianity in a Nutshell</a> by Leonardo Boff 📚 well there&rsquo;s little <a href=\"https://challenges.micro.blog/2023/03/22/the-prompt-for.html\">chance</a> I&rsquo;ll be using this book in my 101 class—it&rsquo;s a little too obscure and a lot too idiosyncratic for an intro class, I think</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Finished reading: [Christianity in a Nutshell](https://micro.blog/books/9781626980303) by Leonardo Boff 📚 well there's little [chance](https://challenges.micro.blog/2023/03/22/the-prompt-for.html) I'll be using this book in my 101 class—it's a little too obscure and a lot too idiosyncratic for an intro class, I think\n\n<img src=\"uploads/2023/92fa201288.jpg\" width=\"451\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-03-23T21:04:32-04:00",
+				"url": "https://blog.andrewbelfield.com/2023/03/23/finished-reading-christianity.html",
+				"tags": ["reading","theology","teaching"]
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2023/03/23/i-forgot-to.html",
+				
+				"content_html": "<p>I forgot to post that I watched <a href=\"https://youtu.be/pD0mFhMqDCE\">Women Talking</a> (Sarah Polley, 2022) the other night. I found it a deeply affecting reflection on the possibility and difficulty of forgiveness. It ranks (I think) in my top 5 for Oscar Best Picture nominees. 📽️</p>\n",
+				"content_text": "I forgot to post that I watched [Women Talking](https://youtu.be/pD0mFhMqDCE) (Sarah Polley, 2022) the other night. I found it a deeply affecting reflection on the possibility and difficulty of forgiveness. It ranks (I think) in my top 5 for Oscar Best Picture nominees. 📽️\n",
+				"date_published": "2023-03-23T16:36:47-04:00",
+				"url": "https://blog.andrewbelfield.com/2023/03/23/i-forgot-to.html",
+				"tags": ["watching"]
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2023/03/22/i-know-spiders.html",
+				
+				"content_html": "<p>I know spiders are not technically <a href=\"https://challenges.micro.blog/2023/03/21/the-prompt-for.html\">insects</a>, but I think this is the best I can do today. Shot on Superia X-tra 400.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I know spiders are not technically [insects](https://challenges.micro.blog/2023/03/21/the-prompt-for.html), but I think this is the best I can do today. Shot on Superia X-tra 400.\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2023/729eeaf3d7.jpg\" width=\"600\" height=\"397\" alt=\"\">\n",
+				"date_published": "2023-03-22T14:35:31-04:00",
+				"url": "https://blog.andrewbelfield.com/2023/03/22/i-know-spiders.html",
+				"tags": ["travel"]
+			},
+			{
 				"id": "http://drewbelf.micro.blog/2023/03/21/tiny-campfire-in.html",
 				
 				"content_html": "<p><a href=\"https://challenges.micro.blog/2023/03/20/the-prompt-for.html\">Tiny</a> campfire in Glacier National Forest.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[Tiny](https://challenges.micro.blog/2023/03/20/the-prompt-for.html) campfire in Glacier National Forest.\n\n<img src=\"uploads/2023/bab44d126a.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"content_text": "[Tiny](https://challenges.micro.blog/2023/03/20/the-prompt-for.html) campfire in Glacier National Forest.\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2023/bab44d126a.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
 				"date_published": "2023-03-21T21:41:23-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/03/21/tiny-campfire-in.html",
 				"tags": ["travel"]
@@ -45,7 +97,7 @@
 				"id": "http://drewbelf.micro.blog/2023/03/19/one-challenge-of.html",
 				
 				"content_html": "<p>One challenge of an <a href=\"https://challenges.micro.blog/2023/03/18/the-prompt-for.html\">analog</a> note-taking system: no notebook can compare to the searchability and indexing of a digital system. I use small symbols (*, †, ‡, etc.) with arrows at the bottom of the page to indicate where I&rsquo;ll find more pages with notes on a related topic.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "One challenge of an [analog](https://challenges.micro.blog/2023/03/18/the-prompt-for.html) note-taking system: no notebook can compare to the searchability and indexing of a digital system. I use small symbols (*, †, ‡, etc.) with arrows at the bottom of the page to indicate where I'll find more pages with notes on a related topic.\n\n<img src=\"uploads/2023/85710e6b9a.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "One challenge of an [analog](https://challenges.micro.blog/2023/03/18/the-prompt-for.html) note-taking system: no notebook can compare to the searchability and indexing of a digital system. I use small symbols (*, †, ‡, etc.) with arrows at the bottom of the page to indicate where I'll find more pages with notes on a related topic.\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2023/85710e6b9a.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-03-19T13:41:11-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/03/19/one-challenge-of.html"
 			},
