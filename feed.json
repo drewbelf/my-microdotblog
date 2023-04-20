@@ -7,10 +7,63 @@
 	"items": [
 		
 			{
+				"id": "http://drewbelf.micro.blog/2023/04/20/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780061947353\">The Great Divorce</a> by C. S. Lewis 📚</p>\n",
+				"content_text": "Finished reading: [The Great Divorce](https://micro.blog/books/9780061947353) by C. S. Lewis 📚\n",
+				"date_published": "2023-04-20T11:14:22-04:00",
+				"url": "https://blog.andrewbelfield.com/2023/04/20/finished-reading-the.html",
+				"tags": ["reading","theology","teaching"]
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2023/04/17/currently-reading-the.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780061947353\">The Great Divorce</a> by C. S. Lewis 📚 I&rsquo;ve read this several times now, but I&rsquo;m doing a quick reread in preparation for teaching with it in about a week.</p>\n",
+				"content_text": "Currently reading: [The Great Divorce](https://micro.blog/books/9780061947353) by C. S. Lewis 📚 I've read this several times now, but I'm doing a quick reread in preparation for teaching with it in about a week.\n",
+				"date_published": "2023-04-17T15:01:05-04:00",
+				"url": "https://blog.andrewbelfield.com/2023/04/17/currently-reading-the.html",
+				"tags": ["reading","theology","teaching"]
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2023/04/16/friedsam-memorial-library.html",
+				
+				"content_html": "<p>Friedsam Memorial Library (<a href=\"http://archives.sbu.edu/studentpages/buildings/Friedsam%20Memorial%20Library.htm\">archives.sbu.edu</a>). Shot on Kodak ColorPlus 200.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Friedsam Memorial Library ([archives.sbu.edu](http://archives.sbu.edu/studentpages/buildings/Friedsam%20Memorial%20Library.htm)). Shot on Kodak ColorPlus 200.\n\n<img src=\"uploads/2023/ba8adf1137.jpg\" width=\"600\" height=\"397\" alt=\"\">\n",
+				"date_published": "2023-04-16T10:47:14-04:00",
+				"url": "https://blog.andrewbelfield.com/2023/04/16/friedsam-memorial-library.html",
+				"tags": ["film"]
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2023/04/15/walter-kasper-on.html",
+				
+				"content_html": "<p>Walter Kasper on theodicy:</p>\n<blockquote>\n<p>Given the terrible experiences of the twentieth century the question arises unavoidably: How can God stand by and watch all this? How could he allow it? There is no easy answer to this question. Like Job we can only keep silence (cf. Job 42). The christology of the Church Fathers shows the direction in which to look for a possible answer. It starts from the Apostle Paul&rsquo;s Letter to the Philippians. There Paul speaks of <em>kenosis</em>, that is, the self-emptying of one who was in the form of God (Phil. 2.5&ndash;11). On the basis of this saying, the Church Fathers developed their <em>kenosis</em> christology. It says: God did not just stand by and watch human misery. He does not sit motionlessly enthroned over a world full of horror. He himself also became involved in humiliation, suffering and death, even unjust death, in order to be near us in such extreme situations, so that where all hope is lost he can give us hope and a share in his divine life.</p>\n</blockquote>\n",
+				"content_text": "Walter Kasper on theodicy:\n\n> Given the terrible experiences of the twentieth century the question arises unavoidably: How can God stand by and watch all this? How could he allow it? There is no easy answer to this question. Like Job we can only keep silence (cf. Job 42). The christology of the Church Fathers shows the direction in which to look for a possible answer. It starts from the Apostle Paul's Letter to the Philippians. There Paul speaks of *kenosis*, that is, the self-emptying of one who was in the form of God (Phil. 2.5--11). On the basis of this saying, the Church Fathers developed their *kenosis* christology. It says: God did not just stand by and watch human misery. He does not sit motionlessly enthroned over a world full of horror. He himself also became involved in humiliation, suffering and death, even unjust death, in order to be near us in such extreme situations, so that where all hope is lost he can give us hope and a share in his divine life.\n",
+				"date_published": "2023-04-15T14:33:09-04:00",
+				"url": "https://blog.andrewbelfield.com/2023/04/15/walter-kasper-on.html"
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2023/04/15/currently-reading-jesus.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780567077592\">Jesus the Christ</a> by Walter Kasper 📚 I&rsquo;m very excited about this one</p>\n",
+				"content_text": "Currently reading: [Jesus the Christ](https://micro.blog/books/9780567077592) by Walter Kasper 📚 I'm very excited about this one\n",
+				"date_published": "2023-04-15T14:12:01-04:00",
+				"url": "https://blog.andrewbelfield.com/2023/04/15/currently-reading-jesus.html",
+				"tags": ["reading","theology"]
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2023/04/14/after-a-few.html",
+				
+				"content_html": "<p>After a few weeks away (consumed with grading) it&rsquo;s good to be back to research.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "After a few weeks away (consumed with grading) it's good to be back to research.\n\n<img src=\"uploads/2023/9ce14116f1.jpg\" width=\"600\" height=\"599\" alt=\"\">\n",
+				"date_published": "2023-04-14T08:50:02-04:00",
+				"url": "https://blog.andrewbelfield.com/2023/04/14/after-a-few.html",
+				"tags": ["reading","theology"]
+			},
+			{
 				"id": "http://drewbelf.micro.blog/2023/04/13/cuba-elementary-school.html",
 				
-				"content_html": "<p>Cuba Elementary School, shot on Kodak ColorPlus 200, shot on Pentax K1000.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Cuba Elementary School, shot on Kodak ColorPlus 200, shot on Pentax K1000.\n\n<img src=\"uploads/2023/ccdc34abed.jpg\" width=\"600\" height=\"397\" alt=\"\"><img src=\"uploads/2023/f197b40c72.jpg\" width=\"600\" height=\"397\" alt=\"\"><img src=\"uploads/2023/95c18cc847.jpg\" width=\"600\" height=\"397\" alt=\"\"><img src=\"uploads/2023/ea437cfa50.jpg\" width=\"397\" height=\"600\" alt=\"\"><img src=\"uploads/2023/e5fe43c3cd.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
+				"content_html": "<p>Cuba Elementary School, shot on Kodak ColorPlus 200 with my Pentax K1000.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Cuba Elementary School, shot on Kodak ColorPlus 200 with my Pentax K1000.\n\n<img src=\"uploads/2023/ccdc34abed.jpg\" width=\"600\" height=\"397\" alt=\"\"><img src=\"uploads/2023/f197b40c72.jpg\" width=\"600\" height=\"397\" alt=\"\"><img src=\"uploads/2023/95c18cc847.jpg\" width=\"600\" height=\"397\" alt=\"\"><img src=\"uploads/2023/ea437cfa50.jpg\" width=\"397\" height=\"600\" alt=\"\"><img src=\"uploads/2023/e5fe43c3cd.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
 				"date_published": "2023-04-13T10:00:00-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/04/13/cuba-elementary-school.html",
 				"tags": ["film"]
