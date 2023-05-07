@@ -7,6 +7,50 @@
 	"items": [
 		
 			{
+				"id": "http://drewbelf.micro.blog/2023/05/06/good-day-for.html",
+				
+				"content_html": "<p>Good day for a yard sale &amp; cookout.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Good day for a yard sale & cookout.\n\n<img src=\"uploads/2023/24ac3e811d.jpg\" width=\"600\" height=\"451\" alt=\"\">\n",
+				"date_published": "2023-05-06T20:00:24-04:00",
+				"url": "https://blog.andrewbelfield.com/2023/05/06/good-day-for.html"
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2023/05/06/currently-reading-warmth.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780143136538\">Warmth: Coming of Age at the End of Our World</a> by Daniel Sherrell 📚</p>\n",
+				"content_text": "Currently reading: [Warmth: Coming of Age at the End of Our World](https://micro.blog/books/9780143136538) by Daniel Sherrell 📚\n",
+				"date_published": "2023-05-06T09:38:27-04:00",
+				"url": "https://blog.andrewbelfield.com/2023/05/06/currently-reading-warmth.html",
+				"tags": ["reading"]
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2023/05/05/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780739469675\">The Year of Magical Thinking</a> by Joan Didion 📚</p>\n",
+				"content_text": "Finished reading: [The Year of Magical Thinking](https://micro.blog/books/9780739469675) by Joan Didion 📚\n",
+				"date_published": "2023-05-05T17:48:46-04:00",
+				"url": "https://blog.andrewbelfield.com/2023/05/05/finished-reading-the.html",
+				"tags": ["reading"]
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2023/05/04/currently-reading-the.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781786893307\">The Chronology of Water</a> by Lidia Yuknavitch 📚</p>\n",
+				"content_text": "Currently reading: [The Chronology of Water](https://micro.blog/books/9781786893307) by Lidia Yuknavitch 📚\n",
+				"date_published": "2023-05-04T14:52:11-04:00",
+				"url": "https://blog.andrewbelfield.com/2023/05/04/currently-reading-the.html",
+				"tags": ["reading"]
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2023/05/03/the-dune-part.html",
+				
+				"content_html": "<p><a href=\"https://www.youtube.com/watch?v=Way9Dexny3w\">The DUNE Part Two trailer</a> is great; I&rsquo;m especially excited at how it seems to set up Paul&rsquo;s character arc. I really hope we get a <em>Dune Messiah</em> movie &hellip; 📽️</p>\n",
+				"content_text": "[The DUNE Part Two trailer](https://www.youtube.com/watch?v=Way9Dexny3w) is great; I'm especially excited at how it seems to set up Paul's character arc. I really hope we get a *Dune Messiah* movie ... 📽️\n",
+				"date_published": "2023-05-03T17:06:22-04:00",
+				"url": "https://blog.andrewbelfield.com/2023/05/03/the-dune-part.html",
+				"tags": ["watching"]
+			},
+			{
 				"id": "http://drewbelf.micro.blog/2023/05/01/finished-reading-again.html",
 				
 				"content_html": "<p>Finished reading (again): <a href=\"https://micro.blog/books/9780061947353\">The Great Divorce</a> by C. S. Lewis 📚 Lots of good material to discuss in class tomorrow: love &amp; pity, Sarah Smith &amp; the Dwarf-Ghost (&amp; his Tragedian), George MacDonald&rsquo;s universalism, &amp;c.</p>\n",
@@ -27,8 +71,8 @@
 			{
 				"id": "http://drewbelf.micro.blog/2023/04/30/i-quoted-day.html",
 				
-				"content_html": "<p><a href=\"https://blog.andrewbelfield.com/2023/04/30/dorothy-day-on.html\">I quoted Day too hastily</a>; this conclusion to her piece, paraphrasing George Bernanos, is stunning.</p>\n<blockquote>\n<p>“Every particle of Christ’s divine charity is today more precious for your security—for your security, I say—than all the atom bombs in all the stockpiles.” It is by the works of mercy that we shall be judged.</p>\n</blockquote>\n",
-				"content_text": "[I quoted Day too hastily](https://blog.andrewbelfield.com/2023/04/30/dorothy-day-on.html); this conclusion to her piece, paraphrasing George Bernanos, is stunning.\n\n> “Every particle of Christ’s divine charity is today more precious for your security—for your security, I say—than all the atom bombs in all the stockpiles.” It is by the works of mercy that we shall be judged.\n",
+				"content_html": "<p><a href=\"https://blog.andrewbelfield.com/2023/04/30/dorothy-day-on.html\">I quoted Day too hastily</a>; this conclusion to her piece, paraphrasing George Bernanos &amp; written in 1949, at the beginnings of the nuclear arms race, holds true even today.</p>\n<blockquote>\n<p>“Every particle of Christ’s divine charity is today more precious for your security—for your security, I say—than all the atom bombs in all the stockpiles.” It is by the works of mercy that we shall be judged.</p>\n</blockquote>\n",
+				"content_text": "[I quoted Day too hastily](https://blog.andrewbelfield.com/2023/04/30/dorothy-day-on.html); this conclusion to her piece, paraphrasing George Bernanos & written in 1949, at the beginnings of the nuclear arms race, holds true even today.\n\n> “Every particle of Christ’s divine charity is today more precious for your security—for your security, I say—than all the atom bombs in all the stockpiles.” It is by the works of mercy that we shall be judged.\n",
 				"date_published": "2023-04-30T10:41:24-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/04/30/i-quoted-day.html",
 				"tags": ["reading","theology","justice"]
@@ -36,8 +80,8 @@
 			{
 				"id": "http://drewbelf.micro.blog/2023/04/30/dorothy-day-on.html",
 				
-				"content_html": "<p>Dorothy Day <a href=\"https://www.commonwealmagazine.org/scandal-works-mercy\">on the scandalous character of the works of mercy</a></p>\n<blockquote>\n<p>THE WORKS OF mercy are a wonderful stimulus to our growth in faith as well as in love. Our faith is taxed to the utmost and so grows through this strain put upon it. It is pruned again and again, and springs up bearing much fruit. For anyone starting to live literally the words of the Fathers of the Church, “the bread you retain belongs to the hungry, the dress you lock up is the property of the naked,” “what is superfluous for one’s need is to be regarded as plunder if one retains it for one’s self ,” there is always a trial ahead. “Our faith, more precious than gold, must be tried as though by fire.” Here is a letter we received today. “I took a gentleman seemingly in need of spiritual and temporal guidance into my home on a Sunday afternoon. Let him have a nap on my bed, went through the want ads with him, made coffee and sandwiches for him, and when he left, I found my wallet had gone also.”</p>\n</blockquote>\n",
-				"content_text": "Dorothy Day [on the scandalous character of the works of mercy](https://www.commonwealmagazine.org/scandal-works-mercy)\n\n> THE WORKS OF mercy are a wonderful stimulus to our growth in faith as well as in love. Our faith is taxed to the utmost and so grows through this strain put upon it. It is pruned again and again, and springs up bearing much fruit. For anyone starting to live literally the words of the Fathers of the Church, “the bread you retain belongs to the hungry, the dress you lock up is the property of the naked,” “what is superfluous for one’s need is to be regarded as plunder if one retains it for one’s self ,” there is always a trial ahead. “Our faith, more precious than gold, must be tried as though by fire.” Here is a letter we received today. “I took a gentleman seemingly in need of spiritual and temporal guidance into my home on a Sunday afternoon. Let him have a nap on my bed, went through the want ads with him, made coffee and sandwiches for him, and when he left, I found my wallet had gone also.”\n",
+				"content_html": "<p>Dorothy Day <a href=\"https://www.commonwealmagazine.org/scandal-works-mercy\">on the scandalous character of the works of mercy</a></p>\n<blockquote>\n<p>The works of mercy are a wonderful stimulus to our growth in faith as well as in love. Our faith is taxed to the utmost and so grows through this strain put upon it. It is pruned again and again, and springs up bearing much fruit. For anyone starting to live literally the words of the Fathers of the Church, “the bread you retain belongs to the hungry, the dress you lock up is the property of the naked,” “what is superfluous for one’s need is to be regarded as plunder if one retains it for one’s self,” there is always a trial ahead. “Our faith, more precious than gold, must be tried as though by fire.” Here is a letter we received today. “I took a gentleman seemingly in need of spiritual and temporal guidance into my home on a Sunday afternoon. Let him have a nap on my bed, went through the want ads with him, made coffee and sandwiches for him, and when he left, I found my wallet had gone also.”</p>\n</blockquote>\n<p>Her words call to mind, for me, the words attributed to St. Vincent de Paul (I have not been able to verify whether they are indeed his):</p>\n<blockquote>\n<p>You will find out that Charity is a heavy burden to carry, heavier than the kettle of soup and the full basket. But you will keep your gentleness and your smile. It is not enough to give soup and bread. This the rich can do. You are the servant of the poor, always smiling and good-humored. They are your masters, terribly sensitive and exacting master you will see and the uglier and the dirtier they will be, the more unjust and insulting, the more love you must give them. It is only for your love alone that the poor will forgive you the bread you give to them.</p>\n</blockquote>\n",
+				"content_text": "Dorothy Day [on the scandalous character of the works of mercy](https://www.commonwealmagazine.org/scandal-works-mercy)\n\n> The works of mercy are a wonderful stimulus to our growth in faith as well as in love. Our faith is taxed to the utmost and so grows through this strain put upon it. It is pruned again and again, and springs up bearing much fruit. For anyone starting to live literally the words of the Fathers of the Church, “the bread you retain belongs to the hungry, the dress you lock up is the property of the naked,” “what is superfluous for one’s need is to be regarded as plunder if one retains it for one’s self,” there is always a trial ahead. “Our faith, more precious than gold, must be tried as though by fire.” Here is a letter we received today. “I took a gentleman seemingly in need of spiritual and temporal guidance into my home on a Sunday afternoon. Let him have a nap on my bed, went through the want ads with him, made coffee and sandwiches for him, and when he left, I found my wallet had gone also.”\n\nHer words call to mind, for me, the words attributed to St. Vincent de Paul (I have not been able to verify whether they are indeed his):\n\n> You will find out that Charity is a heavy burden to carry, heavier than the kettle of soup and the full basket. But you will keep your gentleness and your smile. It is not enough to give soup and bread. This the rich can do. You are the servant of the poor, always smiling and good-humored. They are your masters, terribly sensitive and exacting master you will see and the uglier and the dirtier they will be, the more unjust and insulting, the more love you must give them. It is only for your love alone that the poor will forgive you the bread you give to them.\n",
 				"date_published": "2023-04-30T10:38:20-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/04/30/dorothy-day-on.html",
 				"tags": ["reading","theology","justice"]
@@ -64,7 +108,7 @@
 				"id": "http://drewbelf.micro.blog/2023/04/29/163321.html",
 				
 				"content_html": "<p>Kodak Gold 200</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Kodak Gold 200\n\n<img src=\"uploads/2023/60ef0aa53f.jpg\" width=\"600\" height=\"397\" alt=\"\">\n",
+				"content_text": "Kodak Gold 200\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2023/60ef0aa53f.jpg\" width=\"600\" height=\"397\" alt=\"\">\n",
 				"date_published": "2023-04-29T16:33:21-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/04/29/163321.html",
 				"tags": ["film"]
