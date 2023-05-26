@@ -7,6 +7,104 @@
 	"items": [
 		
 			{
+				"id": "http://drewbelf.micro.blog/2023/05/25/the-stack-of.html",
+				
+				"content_html": "<p>The stack of books on my desk grows comically tall.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The stack of books on my desk grows comically tall.\n\n<img src=\"uploads/2023/34f3c94a48.jpg\" width=\"451\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-05-25T20:32:18-04:00",
+				"url": "https://blog.andrewbelfield.com/2023/05/25/the-stack-of.html",
+				"tags": ["reading"]
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2023/05/24/philipp-rosemann-let.html",
+				
+				"content_html": "<p>Philipp Rosemann:</p>\n<blockquote>\n<p>Let me draw upon the register of contemporary philosophy to explain: if Heidegger is correct that the key to a thinker&rsquo;s ideas lies in &ldquo;that which, in what is said, remains unsaid&rdquo; (<em>das im Sagen Ungesagte</em>)&mdash;in unarticulated, sometimes even unthought presuppositions underpinning an entire intellectual edifice&mdash;then it may not only be legitimate but crucial to read a work from its margins, from between its lines.</p>\n</blockquote>\n",
+				"content_text": "Philipp Rosemann:\n\n> Let me draw upon the register of contemporary philosophy to explain: if Heidegger is correct that the key to a thinker's ideas lies in \"that which, in what is said, remains unsaid\" (*das im Sagen Ungesagte*)---in unarticulated, sometimes even unthought presuppositions underpinning an entire intellectual edifice---then it may not only be legitimate but crucial to read a work from its margins, from between its lines.\n",
+				"date_published": "2023-05-24T11:25:21-04:00",
+				"url": "https://blog.andrewbelfield.com/2023/05/24/philipp-rosemann-let.html",
+				"tags": ["reading","theology"]
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2023/05/24/currently-reading-the.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781531500030\">The Beauty of the Trinity: A Reading of the Summa Halensis</a> by Justin Shaun Coyle 📚</p>\n",
+				"content_text": "Currently reading: [The Beauty of the Trinity: A Reading of the Summa Halensis](https://micro.blog/books/9781531500030) by Justin Shaun Coyle 📚\n",
+				"date_published": "2023-05-24T11:13:16-04:00",
+				"url": "https://blog.andrewbelfield.com/2023/05/24/currently-reading-the.html",
+				"tags": ["reading","theology"]
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2023/05/23/finished-reading-warmth.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780143136538\">Warmth: Coming of Age at the End of Our World</a> by Daniel Sherrell 📚</p>\n",
+				"content_text": "Finished reading: [Warmth: Coming of Age at the End of Our World](https://micro.blog/books/9780143136538) by Daniel Sherrell 📚\n",
+				"date_published": "2023-05-23T22:49:26-04:00",
+				"url": "https://blog.andrewbelfield.com/2023/05/23/finished-reading-warmth.html",
+				"tags": ["reading"]
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2023/05/22/currently-reading-poverty.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781570752957\">Poverty and Joy: The Franciscan Tradition</a> by William Short, OFM 📚 I&rsquo;m considering this as a required text for the intro course I teach (&ldquo;The Way of Francis and Clare&rdquo;)</p>\n",
+				"content_text": "Currently reading: [Poverty and Joy: The Franciscan Tradition](https://micro.blog/books/9781570752957) by William Short, OFM 📚 I'm considering this as a required text for the intro course I teach (\"The Way of Francis and Clare\")\n",
+				"date_published": "2023-05-22T12:46:07-04:00",
+				"url": "https://blog.andrewbelfield.com/2023/05/22/currently-reading-poverty.html",
+				"tags": ["reading","theology","teaching"]
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2023/05/21/213911.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "\n\n<img src=\"https://drewbelf-tweets.micro.blog/uploads/2023/6970ad8133.jpg\" width=\"600\" height=\"451\" alt=\"\">\n",
+				"date_published": "2023-05-21T21:39:11-04:00",
+				"url": "https://blog.andrewbelfield.com/2023/05/21/213911.html"
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2023/05/21/finished-reading-faith.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780824519223\">Faith beyond Resentment: Fragments Catholic and Gay</a> by James Alison 📚</p>\n",
+				"content_text": "Finished reading: [Faith beyond Resentment: Fragments Catholic and Gay](https://micro.blog/books/9780824519223) by James Alison 📚\n",
+				"date_published": "2023-05-21T15:16:49-04:00",
+				"url": "https://blog.andrewbelfield.com/2023/05/21/finished-reading-faith.html",
+				"tags": ["reading","theology"]
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2023/05/20/currently-reading-the.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780802714541\">The Spy Who Came in From the Cold</a> by John le Carré 📚</p>\n",
+				"content_text": "Currently reading: [The Spy Who Came in From the Cold](https://micro.blog/books/9780802714541) by John le Carré 📚\n",
+				"date_published": "2023-05-20T16:40:40-04:00",
+				"url": "https://blog.andrewbelfield.com/2023/05/20/currently-reading-the.html",
+				"tags": ["reading"]
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2023/05/20/a-week-from.html",
+				
+				"content_html": "<p>A week from today I&rsquo;ll be <a href=\"https://blog.andrewbelfield.com/2023/04/06/ive-just-booked.html\">on my way to Rome</a> for a small conference on last things (<em>de novissimis</em>) in the theology of Alexander of Hales, plus a few days for sightseeing. I&rsquo;m most excited for an overnight trip to Assisi&mdash;I&rsquo;ve never been!</p>\n",
+				"content_text": "A week from today I'll be [on my way to Rome](https://blog.andrewbelfield.com/2023/04/06/ive-just-booked.html) for a small conference on last things (*de novissimis*) in the theology of Alexander of Hales, plus a few days for sightseeing. I'm most excited for an overnight trip to Assisi---I've never been!\n",
+				"date_published": "2023-05-20T10:37:43-04:00",
+				"url": "https://blog.andrewbelfield.com/2023/05/20/a-week-from.html",
+				"tags": ["theology","travel"]
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2023/05/19/killers-of-the.html",
+				
+				"content_html": "<p><a href=\"https://youtu.be/EG0si5bSd6I\">Killers of the Flower Moon</a> looks so good 📽️</p>\n",
+				"content_text": "[Killers of the Flower Moon](https://youtu.be/EG0si5bSd6I) looks so good 📽️\n",
+				"date_published": "2023-05-19T19:36:57-04:00",
+				"url": "https://blog.andrewbelfield.com/2023/05/19/killers-of-the.html",
+				"tags": ["watching"]
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2023/05/19/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781786893307\">The Chronology of Water</a> by Lidia Yuknavitch 📚 This is a deeply affecting memoir; I especially like how motifs of swimming and water flow throughout the book. I wish I had read it instead of listening to the audiobook. The audiobook narrator read in a very performative style, almost like it was a stage production, at times even shouting the words. That approach may have suited Yuknavitch&rsquo;s writing style, but I found it consistently distracting and occasionally even irritating.</p>\n",
+				"content_text": "Finished reading: [The Chronology of Water](https://micro.blog/books/9781786893307) by Lidia Yuknavitch 📚 This is a deeply affecting memoir; I especially like how motifs of swimming and water flow throughout the book. I wish I had read it instead of listening to the audiobook. The audiobook narrator read in a very performative style, almost like it was a stage production, at times even shouting the words. That approach may have suited Yuknavitch's writing style, but I found it consistently distracting and occasionally even irritating.\n",
+				"date_published": "2023-05-19T16:18:45-04:00",
+				"url": "https://blog.andrewbelfield.com/2023/05/19/finished-reading-the.html",
+				"tags": ["reading"]
+			},
+			{
 				"id": "http://drewbelf.micro.blog/2023/05/19/im-paying-very.html",
 				
 				"content_html": "<p>I&rsquo;m paying very little attention to early reviews of the new Indiana Jones movie—I want to see it with only the trailer in mind—but I couldn&rsquo;t help but see that the premiere at Cannes got a lukewarm reception. I&rsquo;m not too bothered; I wouldn&rsquo;t think Cannes is the right audience for this movie. 📽️</p>\n",
