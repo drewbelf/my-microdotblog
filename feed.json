@@ -7,11 +7,56 @@
 	"items": [
 		
 			{
+				"id": "http://drewbelf.micro.blog/2023/05/31/il-papa-if.html",
+				
+				"content_html": "<p>Il Papa! (If you squint you can see him.)</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Il Papa! (If you squint you can see him.)\n\n<img src=\"uploads/2023/d946d5bfed.jpg\" width=\"600\" height=\"451\" alt=\"\">\n",
+				"date_published": "2023-05-31T09:39:27+02:00",
+				"url": "https://blog.andrewbelfield.com/2023/05/31/il-papa-if.html",
+				"tags": ["travel"]
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2023/05/30/light-beams-in.html",
+				
+				"content_html": "<p>Light beams in Santa Maria del Popolo</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Light beams in Santa Maria del Popolo\n\n<img src=\"https://drewbelf-tweets.micro.blog/uploads/2023/4bcfb2a980.jpg\" width=\"600\" height=\"451\" alt=\"\">\n",
+				"date_published": "2023-05-30T13:01:21+02:00",
+				"url": "https://blog.andrewbelfield.com/2023/05/30/light-beams-in.html",
+				"tags": ["travel"]
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2023/05/29/currently-reading-a.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781250236210\">A Psalm for the Wild-Built</a> by Becky Chambers 📚</p>\n",
+				"content_text": "Currently reading: [A Psalm for the Wild-Built](https://micro.blog/books/9781250236210) by Becky Chambers 📚\n",
+				"date_published": "2023-05-29T16:21:04+02:00",
+				"url": "https://blog.andrewbelfield.com/2023/05/29/currently-reading-a.html",
+				"tags": ["reading"]
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2023/05/26/just-in-time.html",
+				
+				"content_html": "<p>Just in time to leave for Rome/Assisi, tomorrow, I got a little Francis of Assisi sticker for my water bottle.</p>\n<!-- raw HTML omitted -->\n<p>I love Brother Bird perched on his arm, the stigmata on his hands folded in prayer, &amp; especially the patchwork of his habit.</p>\n",
+				"content_text": "Just in time to leave for Rome/Assisi, tomorrow, I got a little Francis of Assisi sticker for my water bottle.\n\n<img src=\"uploads/2023/7bdce6aecb.jpg\" width=\"451\" height=\"600\" alt=\"A minimalist sticker of Saint Francis of Assisi on a clear, Nalgene water bottle\">\n\nI love Brother Bird perched on his arm, the stigmata on his hands folded in prayer, & especially the patchwork of his habit.\n",
+				"date_published": "2023-05-27T02:36:40+02:00",
+				"url": "https://blog.andrewbelfield.com/2023/05/26/just-in-time.html",
+				"tags": ["travel"]
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2023/05/26/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781531500030\">The Beauty of the Trinity: A Reading of the Summa Halensis</a> by Justin Shaun Coyle 📚</p>\n",
+				"content_text": "Finished reading: [The Beauty of the Trinity: A Reading of the Summa Halensis](https://micro.blog/books/9781531500030) by Justin Shaun Coyle 📚\n",
+				"date_published": "2023-05-27T01:55:21+02:00",
+				"url": "https://blog.andrewbelfield.com/2023/05/26/finished-reading-the.html",
+				"tags": ["reading","theology"]
+			},
+			{
 				"id": "http://drewbelf.micro.blog/2023/05/25/the-stack-of.html",
 				
 				"content_html": "<p>The stack of books on my desk grows comically tall.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "The stack of books on my desk grows comically tall.\n\n<img src=\"uploads/2023/34f3c94a48.jpg\" width=\"451\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-05-25T20:32:18-04:00",
+				"date_published": "2023-05-26T02:32:18+02:00",
 				"url": "https://blog.andrewbelfield.com/2023/05/25/the-stack-of.html",
 				"tags": ["reading"]
 			},
@@ -20,7 +65,7 @@
 				
 				"content_html": "<p>Philipp Rosemann:</p>\n<blockquote>\n<p>Let me draw upon the register of contemporary philosophy to explain: if Heidegger is correct that the key to a thinker&rsquo;s ideas lies in &ldquo;that which, in what is said, remains unsaid&rdquo; (<em>das im Sagen Ungesagte</em>)&mdash;in unarticulated, sometimes even unthought presuppositions underpinning an entire intellectual edifice&mdash;then it may not only be legitimate but crucial to read a work from its margins, from between its lines.</p>\n</blockquote>\n",
 				"content_text": "Philipp Rosemann:\n\n> Let me draw upon the register of contemporary philosophy to explain: if Heidegger is correct that the key to a thinker's ideas lies in \"that which, in what is said, remains unsaid\" (*das im Sagen Ungesagte*)---in unarticulated, sometimes even unthought presuppositions underpinning an entire intellectual edifice---then it may not only be legitimate but crucial to read a work from its margins, from between its lines.\n",
-				"date_published": "2023-05-24T11:25:21-04:00",
+				"date_published": "2023-05-24T17:25:21+02:00",
 				"url": "https://blog.andrewbelfield.com/2023/05/24/philipp-rosemann-let.html",
 				"tags": ["reading","theology"]
 			},
@@ -29,7 +74,7 @@
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781531500030\">The Beauty of the Trinity: A Reading of the Summa Halensis</a> by Justin Shaun Coyle 📚</p>\n",
 				"content_text": "Currently reading: [The Beauty of the Trinity: A Reading of the Summa Halensis](https://micro.blog/books/9781531500030) by Justin Shaun Coyle 📚\n",
-				"date_published": "2023-05-24T11:13:16-04:00",
+				"date_published": "2023-05-24T17:13:16+02:00",
 				"url": "https://blog.andrewbelfield.com/2023/05/24/currently-reading-the.html",
 				"tags": ["reading","theology"]
 			},
@@ -56,7 +101,7 @@
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "\n\n<img src=\"https://drewbelf-tweets.micro.blog/uploads/2023/6970ad8133.jpg\" width=\"600\" height=\"451\" alt=\"\">\n",
-				"date_published": "2023-05-21T21:39:11-04:00",
+				"date_published": "2023-05-22T03:39:11+02:00",
 				"url": "https://blog.andrewbelfield.com/2023/05/21/213911.html"
 			},
 			{
@@ -82,7 +127,7 @@
 				
 				"content_html": "<p>A week from today I&rsquo;ll be <a href=\"https://blog.andrewbelfield.com/2023/04/06/ive-just-booked.html\">on my way to Rome</a> for a small conference on last things (<em>de novissimis</em>) in the theology of Alexander of Hales, plus a few days for sightseeing. I&rsquo;m most excited for an overnight trip to Assisi&mdash;I&rsquo;ve never been!</p>\n",
 				"content_text": "A week from today I'll be [on my way to Rome](https://blog.andrewbelfield.com/2023/04/06/ive-just-booked.html) for a small conference on last things (*de novissimis*) in the theology of Alexander of Hales, plus a few days for sightseeing. I'm most excited for an overnight trip to Assisi---I've never been!\n",
-				"date_published": "2023-05-20T10:37:43-04:00",
+				"date_published": "2023-05-20T16:37:43+02:00",
 				"url": "https://blog.andrewbelfield.com/2023/05/20/a-week-from.html",
 				"tags": ["theology","travel"]
 			},
