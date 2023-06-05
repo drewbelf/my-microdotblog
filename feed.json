@@ -7,10 +7,82 @@
 	"items": [
 		
 			{
+				"id": "http://drewbelf.micro.blog/2023/06/05/after-about-a.html",
+				
+				"content_html": "<p>After about a week in Rome (with an overnight to Assisi in the middle), Jacqueline and I are headed home. Here we are in Assisi, with the Basilica of St. Clare in the background.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "After about a week in Rome (with an overnight to Assisi in the middle), Jacqueline and I are headed home. Here we are in Assisi, with the Basilica of St. Clare in the background.\n\n<img src=\"uploads/2023/fe6f41140d.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-06-05T14:06:28+02:00",
+				"url": "https://blog.andrewbelfield.com/2023/06/05/after-about-a.html",
+				"tags": ["travel"]
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2023/06/04/flying-buttresses-supporting.html",
+				
+				"content_html": "<p>Flying buttresses supporting the walls of the Basilica of St. Clare</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Flying buttresses supporting the walls of the Basilica of St. Clare\n\n<img src=\"uploads/2023/128071d217.jpg\" width=\"600\" height=\"451\" alt=\"Two large brick arches, attached to the wall of a cathedral\">\n",
+				"date_published": "2023-06-04T19:31:38+02:00",
+				"url": "https://blog.andrewbelfield.com/2023/06/04/flying-buttresses-supporting.html",
+				"tags": ["travel"]
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2023/06/04/a-view-of.html",
+				
+				"content_html": "<p>A view of Basilica di San Francesco d’Assisi from Via Cardinale Raffaele Merry del Var.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "A view of Basilica di San Francesco d’Assisi from Via Cardinale Raffaele Merry del Var.\n\n<img src=\"https://drewbelf-tweets.micro.blog/uploads/2023/c5fd6ebbfd.jpg\" width=\"451\" height=\"600\" alt=\"In the foreground, brick buildings covered in greenery and white flowers; the road bends slightly to the left, drawing the eye to the limestone basilica in the distance.\">\n",
+				"date_published": "2023-06-04T11:29:47+02:00",
+				"url": "https://blog.andrewbelfield.com/2023/06/04/a-view-of.html",
+				"tags": ["travel"]
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2023/06/02/finished-reading-a.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781250236210\">A Psalm for the Wild-Built</a> by Becky Chambers 📚</p>\n",
+				"content_text": "Finished reading: [A Psalm for the Wild-Built](https://micro.blog/books/9781250236210) by Becky Chambers 📚\n",
+				"date_published": "2023-06-02T19:44:11+02:00",
+				"url": "https://blog.andrewbelfield.com/2023/06/02/finished-reading-a.html",
+				"tags": ["reading"]
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2023/06/02/the-basilica-di.html",
+				
+				"content_html": "<p>The Basilica di Santa Chiara, slightly obscured by trees. While the upper church of the Basilica di San Francesco is, I think, my favorite place in Assisi, overall I think I prefer the architecture of Clare&rsquo;s basilica to Francis&rsquo;s.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The Basilica di Santa Chiara, slightly obscured by trees. While the upper church of the Basilica di San Francesco is, I think, my favorite place in Assisi, overall I think I prefer the architecture of Clare's basilica to Francis's.\n\n<img src=\"uploads/2023/bb51137b9c.jpg\" width=\"600\" height=\"451\" alt=\"A pink- and white-striped gothic cathedral, its walls supported by flying buttresses in the lower left hand corner, slightly obscured by trees branches and leaves in the upper right hand corner.\">\n",
+				"date_published": "2023-06-02T18:22:22+02:00",
+				"url": "https://blog.andrewbelfield.com/2023/06/02/the-basilica-di.html",
+				"tags": ["travel"]
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2023/06/02/fresco-inside-the.html",
+				
+				"content_html": "<p>Fresco inside the Chapel of Santa Clara inside the Church of San Damiano</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Fresco inside the Chapel of Santa Clara inside the Church of San Damiano\n\n<img src=\"https://drewbelf-tweets.micro.blog/uploads/2023/523141de7e.jpg\" width=\"600\" height=\"451\" alt=\"\">\n",
+				"date_published": "2023-06-02T12:38:36+02:00",
+				"url": "https://blog.andrewbelfield.com/2023/06/02/fresco-inside-the.html",
+				"tags": ["travel"]
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2023/06/01/assisi.html",
+				
+				"content_html": "<p>Basilica di San Francesco d&rsquo;Assisi</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Basilica di San Francesco d'Assisi\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2023/5d477baaf7.jpg\" width=\"600\" height=\"451\" alt=\"White limestone church & bell tower agains deep blue sky\">\n",
+				"date_published": "2023-06-01T13:19:50+02:00",
+				"url": "https://blog.andrewbelfield.com/2023/06/01/assisi.html",
+				"tags": ["travel"]
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2023/05/31/a-view-from.html",
+				
+				"content_html": "<p>A view from St. Peter&rsquo;s Square</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "A view from St. Peter's Square\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2023/596544d029.jpg\" width=\"600\" height=\"451\" alt=\"\">\n",
+				"date_published": "2023-05-31T10:23:45+02:00",
+				"url": "https://blog.andrewbelfield.com/2023/05/31/a-view-from.html",
+				"tags": ["travel"]
+			},
+			{
 				"id": "http://drewbelf.micro.blog/2023/05/31/il-papa-if.html",
 				
 				"content_html": "<p>Il Papa! (If you squint you can see him.)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Il Papa! (If you squint you can see him.)\n\n<img src=\"uploads/2023/d946d5bfed.jpg\" width=\"600\" height=\"451\" alt=\"\">\n",
+				"content_text": "Il Papa! (If you squint you can see him.)\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2023/d946d5bfed.jpg\" width=\"600\" height=\"451\" alt=\"\">\n",
 				"date_published": "2023-05-31T09:39:27+02:00",
 				"url": "https://blog.andrewbelfield.com/2023/05/31/il-papa-if.html",
 				"tags": ["travel"]
@@ -37,7 +109,7 @@
 				"id": "http://drewbelf.micro.blog/2023/05/26/just-in-time.html",
 				
 				"content_html": "<p>Just in time to leave for Rome/Assisi, tomorrow, I got a little Francis of Assisi sticker for my water bottle.</p>\n<!-- raw HTML omitted -->\n<p>I love Brother Bird perched on his arm, the stigmata on his hands folded in prayer, &amp; especially the patchwork of his habit.</p>\n",
-				"content_text": "Just in time to leave for Rome/Assisi, tomorrow, I got a little Francis of Assisi sticker for my water bottle.\n\n<img src=\"uploads/2023/7bdce6aecb.jpg\" width=\"451\" height=\"600\" alt=\"A minimalist sticker of Saint Francis of Assisi on a clear, Nalgene water bottle\">\n\nI love Brother Bird perched on his arm, the stigmata on his hands folded in prayer, & especially the patchwork of his habit.\n",
+				"content_text": "Just in time to leave for Rome/Assisi, tomorrow, I got a little Francis of Assisi sticker for my water bottle.\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2023/7bdce6aecb.jpg\" width=\"451\" height=\"600\" alt=\"A minimalist sticker of Saint Francis of Assisi on a clear, Nalgene water bottle\">\n\nI love Brother Bird perched on his arm, the stigmata on his hands folded in prayer, & especially the patchwork of his habit.\n",
 				"date_published": "2023-05-27T02:36:40+02:00",
 				"url": "https://blog.andrewbelfield.com/2023/05/26/just-in-time.html",
 				"tags": ["travel"]
@@ -47,7 +119,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781531500030\">The Beauty of the Trinity: A Reading of the Summa Halensis</a> by Justin Shaun Coyle 📚</p>\n",
 				"content_text": "Finished reading: [The Beauty of the Trinity: A Reading of the Summa Halensis](https://micro.blog/books/9781531500030) by Justin Shaun Coyle 📚\n",
-				"date_published": "2023-05-27T01:55:21+02:00",
+				"date_published": "2023-05-26T19:55:21-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/05/26/finished-reading-the.html",
 				"tags": ["reading","theology"]
 			},
@@ -55,8 +127,8 @@
 				"id": "http://drewbelf.micro.blog/2023/05/25/the-stack-of.html",
 				
 				"content_html": "<p>The stack of books on my desk grows comically tall.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The stack of books on my desk grows comically tall.\n\n<img src=\"uploads/2023/34f3c94a48.jpg\" width=\"451\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-05-26T02:32:18+02:00",
+				"content_text": "The stack of books on my desk grows comically tall.\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2023/34f3c94a48.jpg\" width=\"451\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-05-25T20:32:18-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/05/25/the-stack-of.html",
 				"tags": ["reading"]
 			},
@@ -65,7 +137,7 @@
 				
 				"content_html": "<p>Philipp Rosemann:</p>\n<blockquote>\n<p>Let me draw upon the register of contemporary philosophy to explain: if Heidegger is correct that the key to a thinker&rsquo;s ideas lies in &ldquo;that which, in what is said, remains unsaid&rdquo; (<em>das im Sagen Ungesagte</em>)&mdash;in unarticulated, sometimes even unthought presuppositions underpinning an entire intellectual edifice&mdash;then it may not only be legitimate but crucial to read a work from its margins, from between its lines.</p>\n</blockquote>\n",
 				"content_text": "Philipp Rosemann:\n\n> Let me draw upon the register of contemporary philosophy to explain: if Heidegger is correct that the key to a thinker's ideas lies in \"that which, in what is said, remains unsaid\" (*das im Sagen Ungesagte*)---in unarticulated, sometimes even unthought presuppositions underpinning an entire intellectual edifice---then it may not only be legitimate but crucial to read a work from its margins, from between its lines.\n",
-				"date_published": "2023-05-24T17:25:21+02:00",
+				"date_published": "2023-05-24T11:25:21-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/05/24/philipp-rosemann-let.html",
 				"tags": ["reading","theology"]
 			},
@@ -74,7 +146,7 @@
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781531500030\">The Beauty of the Trinity: A Reading of the Summa Halensis</a> by Justin Shaun Coyle 📚</p>\n",
 				"content_text": "Currently reading: [The Beauty of the Trinity: A Reading of the Summa Halensis](https://micro.blog/books/9781531500030) by Justin Shaun Coyle 📚\n",
-				"date_published": "2023-05-24T17:13:16+02:00",
+				"date_published": "2023-05-24T11:13:16-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/05/24/currently-reading-the.html",
 				"tags": ["reading","theology"]
 			},
@@ -101,7 +173,7 @@
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "\n\n<img src=\"https://drewbelf-tweets.micro.blog/uploads/2023/6970ad8133.jpg\" width=\"600\" height=\"451\" alt=\"\">\n",
-				"date_published": "2023-05-22T03:39:11+02:00",
+				"date_published": "2023-05-21T21:39:11-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/05/21/213911.html"
 			},
 			{
@@ -127,7 +199,7 @@
 				
 				"content_html": "<p>A week from today I&rsquo;ll be <a href=\"https://blog.andrewbelfield.com/2023/04/06/ive-just-booked.html\">on my way to Rome</a> for a small conference on last things (<em>de novissimis</em>) in the theology of Alexander of Hales, plus a few days for sightseeing. I&rsquo;m most excited for an overnight trip to Assisi&mdash;I&rsquo;ve never been!</p>\n",
 				"content_text": "A week from today I'll be [on my way to Rome](https://blog.andrewbelfield.com/2023/04/06/ive-just-booked.html) for a small conference on last things (*de novissimis*) in the theology of Alexander of Hales, plus a few days for sightseeing. I'm most excited for an overnight trip to Assisi---I've never been!\n",
-				"date_published": "2023-05-20T16:37:43+02:00",
+				"date_published": "2023-05-20T10:37:43-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/05/20/a-week-from.html",
 				"tags": ["theology","travel"]
 			},
