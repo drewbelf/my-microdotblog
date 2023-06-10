@@ -7,11 +7,47 @@
 	"items": [
 		
 			{
+				"id": "http://drewbelf.micro.blog/2023/06/10/developing-a-paper.html",
+				
+				"content_html": "<p>Developing a paper I presented <a href=\"https://blog.andrewbelfield.com/2022/10/25/this-past-weekend.html\">at PMR last October</a> on the christologies of the early Franciscan school and Albert the Great. I didn&rsquo;t think today was going to be a very productive research day, but as it turns out I think I&rsquo;ve actually just figured out my argument!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Developing a paper I presented [at PMR last October](https://blog.andrewbelfield.com/2022/10/25/this-past-weekend.html) on the christologies of the early Franciscan school and Albert the Great. I didn't think today was going to be a very productive research day, but as it turns out I think I've actually just figured out my argument!\n\n<img src=\"https://drewbelf-tweets.micro.blog/uploads/2023/1d47a0d34c.jpg\" width=\"600\" height=\"451\" alt=\"Notes scrawled messily on the pages of a staple-bound notebook.\">\n",
+				"date_published": "2023-06-10T12:58:09-04:00",
+				"url": "https://blog.andrewbelfield.com/2023/06/10/developing-a-paper.html",
+				"tags": ["theology"]
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2023/06/09/currently-reading-a.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781937512934\">A History of My Brief Body</a> by Billy-Ray Belcourt 📚</p>\n",
+				"content_text": "Currently reading: [A History of My Brief Body](https://micro.blog/books/9781937512934) by Billy-Ray Belcourt 📚\n",
+				"date_published": "2023-06-09T22:27:58-04:00",
+				"url": "https://blog.andrewbelfield.com/2023/06/09/currently-reading-a.html",
+				"tags": ["reading"]
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2023/06/08/currently-reading-st.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781626981089\">St. Francis and the Foolishness of God</a> by Marie Dennis, Joseph Nangle, Cynthia Moe-Lobeda, &amp; Stuart Taylor 📚</p>\n",
+				"content_text": "Currently reading: [St. Francis and the Foolishness of God](https://micro.blog/books/9781626981089) by Marie Dennis, Joseph Nangle, Cynthia Moe-Lobeda, & Stuart Taylor 📚\n",
+				"date_published": "2023-06-08T18:37:46-04:00",
+				"url": "https://blog.andrewbelfield.com/2023/06/08/currently-reading-st.html",
+				"tags": ["reading","theology","teaching"]
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2023/06/07/finished-reading-poverty.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781570752957\">Poverty and Joy: The Franciscan Tradition</a> by William Short, OFM 📚</p>\n",
+				"content_text": "Finished reading: [Poverty and Joy: The Franciscan Tradition](https://micro.blog/books/9781570752957) by William Short, OFM 📚\n",
+				"date_published": "2023-06-07T12:59:00-04:00",
+				"url": "https://blog.andrewbelfield.com/2023/06/07/finished-reading-poverty.html",
+				"tags": ["reading","theology","teaching"]
+			},
+			{
 				"id": "http://drewbelf.micro.blog/2023/06/05/after-about-a.html",
 				
 				"content_html": "<p>After about a week in Rome (with an overnight to Assisi in the middle), Jacqueline and I are headed home. Here we are in Assisi, with the Basilica of St. Clare in the background.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "After about a week in Rome (with an overnight to Assisi in the middle), Jacqueline and I are headed home. Here we are in Assisi, with the Basilica of St. Clare in the background.\n\n<img src=\"uploads/2023/fe6f41140d.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2023-06-05T14:06:28+02:00",
+				"date_published": "2023-06-05T08:06:28-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/06/05/after-about-a.html",
 				"tags": ["travel"]
 			},
@@ -20,7 +56,7 @@
 				
 				"content_html": "<p>Flying buttresses supporting the walls of the Basilica of St. Clare</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Flying buttresses supporting the walls of the Basilica of St. Clare\n\n<img src=\"uploads/2023/128071d217.jpg\" width=\"600\" height=\"451\" alt=\"Two large brick arches, attached to the wall of a cathedral\">\n",
-				"date_published": "2023-06-04T19:31:38+02:00",
+				"date_published": "2023-06-04T13:31:38-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/06/04/flying-buttresses-supporting.html",
 				"tags": ["travel"]
 			},
@@ -29,7 +65,7 @@
 				
 				"content_html": "<p>A view of Basilica di San Francesco d’Assisi from Via Cardinale Raffaele Merry del Var.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "A view of Basilica di San Francesco d’Assisi from Via Cardinale Raffaele Merry del Var.\n\n<img src=\"https://drewbelf-tweets.micro.blog/uploads/2023/c5fd6ebbfd.jpg\" width=\"451\" height=\"600\" alt=\"In the foreground, brick buildings covered in greenery and white flowers; the road bends slightly to the left, drawing the eye to the limestone basilica in the distance.\">\n",
-				"date_published": "2023-06-04T11:29:47+02:00",
+				"date_published": "2023-06-04T05:29:47-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/06/04/a-view-of.html",
 				"tags": ["travel"]
 			},
@@ -38,7 +74,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781250236210\">A Psalm for the Wild-Built</a> by Becky Chambers 📚</p>\n",
 				"content_text": "Finished reading: [A Psalm for the Wild-Built](https://micro.blog/books/9781250236210) by Becky Chambers 📚\n",
-				"date_published": "2023-06-02T19:44:11+02:00",
+				"date_published": "2023-06-02T13:44:11-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/06/02/finished-reading-a.html",
 				"tags": ["reading"]
 			},
@@ -47,7 +83,7 @@
 				
 				"content_html": "<p>The Basilica di Santa Chiara, slightly obscured by trees. While the upper church of the Basilica di San Francesco is, I think, my favorite place in Assisi, overall I think I prefer the architecture of Clare&rsquo;s basilica to Francis&rsquo;s.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "The Basilica di Santa Chiara, slightly obscured by trees. While the upper church of the Basilica di San Francesco is, I think, my favorite place in Assisi, overall I think I prefer the architecture of Clare's basilica to Francis's.\n\n<img src=\"uploads/2023/bb51137b9c.jpg\" width=\"600\" height=\"451\" alt=\"A pink- and white-striped gothic cathedral, its walls supported by flying buttresses in the lower left hand corner, slightly obscured by trees branches and leaves in the upper right hand corner.\">\n",
-				"date_published": "2023-06-02T18:22:22+02:00",
+				"date_published": "2023-06-02T12:22:22-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/06/02/the-basilica-di.html",
 				"tags": ["travel"]
 			},
@@ -56,7 +92,7 @@
 				
 				"content_html": "<p>Fresco inside the Chapel of Santa Clara inside the Church of San Damiano</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Fresco inside the Chapel of Santa Clara inside the Church of San Damiano\n\n<img src=\"https://drewbelf-tweets.micro.blog/uploads/2023/523141de7e.jpg\" width=\"600\" height=\"451\" alt=\"\">\n",
-				"date_published": "2023-06-02T12:38:36+02:00",
+				"date_published": "2023-06-02T06:38:36-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/06/02/fresco-inside-the.html",
 				"tags": ["travel"]
 			},
