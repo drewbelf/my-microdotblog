@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://drewbelf.micro.blog/2023/06/22/the-grotto-at.html",
+				
+				"content_html": "<p>The Grotto at Siena College</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The Grotto at Siena College\n\n<img src=\"uploads/2023/df6da75b5c.jpg\" width=\"600\" height=\"451\" alt=\"A small cave built from stones, for prayer and contemplation.\">\n",
+				"date_published": "2023-06-22T09:47:26-04:00",
+				"url": "https://blog.andrewbelfield.com/2023/06/22/the-grotto-at.html",
+				"tags": ["travel"]
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2023/06/20/from-last-sunday.html",
+				
+				"content_html": "<p>From last Sunday afternoon at Allegany State Park</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "From last Sunday afternoon at Allegany State Park\n\n<img src=\"uploads/2023/image.jpg\" width=\"600\" height=\"451\" alt=\"A row of Adirondack chairs in the foreground; a few trees, a lake, & some hills in the background.\">\n",
+				"date_published": "2023-06-20T16:15:39-04:00",
+				"url": "https://blog.andrewbelfield.com/2023/06/20/from-last-sunday.html"
+			},
+			{
 				"id": "http://drewbelf.micro.blog/2023/06/14/finished-reading-creation.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781626982666\">Creation and the Cross: The Mercy of God for a Planet in Peril</a> by Elizabeth A. Johnson 📚</p>\n<p>I admire the aim here: to produce a theology that considers how Jesus&rsquo;s life, death, &amp; resurrection are good news for the whole cosmos, particularly in the context of ecological crisis. &amp; while I don&rsquo;t disagree with some of the conclusions (presented chiefly in book 6), ironically the particularity of Jesus&rsquo;s life (natal &amp; risen) &amp; his death don&rsquo;t seem to determine the conclusions as much as the work&rsquo;s title might lead one to expect.</p>\n<p>More frustrating is the hostility toward Anselm of Canterbury &amp; his satisfaction theory. It seems to me Johnson could have attended more carefully to Anselm&rsquo;s method (<em>remoto Christi</em> does not necessarily mean <em>remoto fidei</em>) &amp; the scope of <em>Cur Deus homo</em>; I also think her treatment of satisfaction theory actually reads later theories (especially penal substitutionary atonement) back into Anselm. I&rsquo;m not sure what accounts for this superficial reading; perhaps engaging more up-to-date scholarship could have helped better situate Anselm in his proper context (more Benedictine monastic than feudal).</p>\n<p>The treatment of Anselm is disappointing not only because it misrepresents him, but also because I actually think Anselm could be a resource for Johnson&rsquo;s project here. His concerns are not identical to hers, of course&mdash;we wouldn&rsquo;t expect them to be&mdash;but the themes of mercy and cosmic setting-aright are decisive for Anselm. I think a more generous and productive reading of Anselm is possible.</p>\n",
@@ -91,7 +108,7 @@
 				"id": "http://drewbelf.micro.blog/2023/06/05/after-about-a.html",
 				
 				"content_html": "<p>After about a week in Rome (with an overnight to Assisi in the middle), Jacqueline and I are headed home. Here we are in Assisi, with the Basilica of St. Clare in the background.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "After about a week in Rome (with an overnight to Assisi in the middle), Jacqueline and I are headed home. Here we are in Assisi, with the Basilica of St. Clare in the background.\n\n<img src=\"uploads/2023/fe6f41140d.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "After about a week in Rome (with an overnight to Assisi in the middle), Jacqueline and I are headed home. Here we are in Assisi, with the Basilica of St. Clare in the background.\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2023/fe6f41140d.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-06-05T08:06:28-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/06/05/after-about-a.html",
 				"tags": ["travel"]
@@ -100,7 +117,7 @@
 				"id": "http://drewbelf.micro.blog/2023/06/04/flying-buttresses-supporting.html",
 				
 				"content_html": "<p>Flying buttresses supporting the walls of the Basilica of St. Clare</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Flying buttresses supporting the walls of the Basilica of St. Clare\n\n<img src=\"uploads/2023/128071d217.jpg\" width=\"600\" height=\"451\" alt=\"Two large brick arches, attached to the wall of a cathedral\">\n",
+				"content_text": "Flying buttresses supporting the walls of the Basilica of St. Clare\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2023/128071d217.jpg\" width=\"600\" height=\"451\" alt=\"Two large brick arches, attached to the wall of a cathedral\">\n",
 				"date_published": "2023-06-04T13:31:38-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/06/04/flying-buttresses-supporting.html",
 				"tags": ["travel"]
@@ -200,7 +217,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781531500030\">The Beauty of the Trinity: A Reading of the Summa Halensis</a> by Justin Shaun Coyle 📚</p>\n",
 				"content_text": "Finished reading: [The Beauty of the Trinity: A Reading of the Summa Halensis](https://micro.blog/books/9781531500030) by Justin Shaun Coyle 📚\n",
-				"date_published": "2023-05-27T01:55:21+02:00",
+				"date_published": "2023-05-26T19:55:21-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/05/26/finished-reading-the.html",
 				"tags": ["reading","theology"]
 			},
@@ -209,7 +226,7 @@
 				
 				"content_html": "<p>The stack of books on my desk grows comically tall.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "The stack of books on my desk grows comically tall.\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2023/34f3c94a48.jpg\" width=\"451\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-05-26T02:32:18+02:00",
+				"date_published": "2023-05-25T20:32:18-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/05/25/the-stack-of.html",
 				"tags": ["reading"]
 			},
@@ -218,7 +235,7 @@
 				
 				"content_html": "<p>Philipp Rosemann:</p>\n<blockquote>\n<p>Let me draw upon the register of contemporary philosophy to explain: if Heidegger is correct that the key to a thinker&rsquo;s ideas lies in &ldquo;that which, in what is said, remains unsaid&rdquo; (<em>das im Sagen Ungesagte</em>)&mdash;in unarticulated, sometimes even unthought presuppositions underpinning an entire intellectual edifice&mdash;then it may not only be legitimate but crucial to read a work from its margins, from between its lines.</p>\n</blockquote>\n",
 				"content_text": "Philipp Rosemann:\n\n> Let me draw upon the register of contemporary philosophy to explain: if Heidegger is correct that the key to a thinker's ideas lies in \"that which, in what is said, remains unsaid\" (*das im Sagen Ungesagte*)---in unarticulated, sometimes even unthought presuppositions underpinning an entire intellectual edifice---then it may not only be legitimate but crucial to read a work from its margins, from between its lines.\n",
-				"date_published": "2023-05-24T17:25:21+02:00",
+				"date_published": "2023-05-24T11:25:21-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/05/24/philipp-rosemann-let.html",
 				"tags": ["reading","theology"]
 			},
@@ -227,7 +244,7 @@
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781531500030\">The Beauty of the Trinity: A Reading of the Summa Halensis</a> by Justin Shaun Coyle 📚</p>\n",
 				"content_text": "Currently reading: [The Beauty of the Trinity: A Reading of the Summa Halensis](https://micro.blog/books/9781531500030) by Justin Shaun Coyle 📚\n",
-				"date_published": "2023-05-24T17:13:16+02:00",
+				"date_published": "2023-05-24T11:13:16-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/05/24/currently-reading-the.html",
 				"tags": ["reading","theology"]
 			},
@@ -254,7 +271,7 @@
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "\n\n<img src=\"https://drewbelf-tweets.micro.blog/uploads/2023/6970ad8133.jpg\" width=\"600\" height=\"451\" alt=\"\">\n",
-				"date_published": "2023-05-22T03:39:11+02:00",
+				"date_published": "2023-05-21T21:39:11-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/05/21/213911.html"
 			},
 			{
@@ -280,7 +297,7 @@
 				
 				"content_html": "<p>A week from today I&rsquo;ll be <a href=\"https://blog.andrewbelfield.com/2023/04/06/ive-just-booked.html\">on my way to Rome</a> for a small conference on last things (<em>de novissimis</em>) in the theology of Alexander of Hales, plus a few days for sightseeing. I&rsquo;m most excited for an overnight trip to Assisi&mdash;I&rsquo;ve never been!</p>\n",
 				"content_text": "A week from today I'll be [on my way to Rome](https://blog.andrewbelfield.com/2023/04/06/ive-just-booked.html) for a small conference on last things (*de novissimis*) in the theology of Alexander of Hales, plus a few days for sightseeing. I'm most excited for an overnight trip to Assisi---I've never been!\n",
-				"date_published": "2023-05-20T16:37:43+02:00",
+				"date_published": "2023-05-20T10:37:43-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/05/20/a-week-from.html",
 				"tags": ["theology","travel"]
 			},
