@@ -7,6 +7,51 @@
 	"items": [
 		
 			{
+				"id": "http://drewbelf.micro.blog/2023/07/03/currently-reading-the.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781952826245\">The Philosophy of St. Bonaventure</a> by Étienne Gilson 📚</p>\n",
+				"content_text": "Currently reading: [The Philosophy of St. Bonaventure](https://micro.blog/books/9781952826245) by Étienne Gilson 📚\n",
+				"date_published": "2023-07-03T10:34:35-04:00",
+				"url": "https://blog.andrewbelfield.com/2023/07/03/currently-reading-the.html",
+				"tags": ["reading","theology","philosophy","teaching"]
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2023/07/01/seeing-asteroid-city.html",
+				
+				"content_html": "<p>Seeing Asteroid City at North Park Theatre in Buffalo 📽️</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Seeing Asteroid City at North Park Theatre in Buffalo 📽️\n\n<img src=\"uploads/2023/b2dca211c8.jpg\" width=\"600\" height=\"451\" alt=\"Movie theater in an Art Deco style\">\n",
+				"date_published": "2023-07-01T16:30:54-04:00",
+				"url": "https://blog.andrewbelfield.com/2023/07/01/seeing-asteroid-city.html",
+				"tags": ["watching"]
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2023/06/30/finished-reading-clare.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780812248173\">Clare of Assisi and the Thirteenth-Century Church</a> by Catherine M. Mooney 📚</p>\n",
+				"content_text": "Finished reading: [Clare of Assisi and the Thirteenth-Century Church](https://micro.blog/books/9780812248173) by Catherine M. Mooney 📚\n",
+				"date_published": "2023-06-30T16:34:29-04:00",
+				"url": "https://blog.andrewbelfield.com/2023/06/30/finished-reading-clare.html",
+				"tags": ["reading","theology","teaching"]
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2023/06/29/the-second-trailer.html",
+				
+				"content_html": "<p>The <a href=\"https://youtu.be/wM3PGU3dnao\">second trailer for DUNE</a> looks just as <a href=\"https://blog.andrewbelfield.com/2023/05/03/the-dune-part.html\">good as the first</a>, for much the same reasons. 📽️</p>\n",
+				"content_text": "The [second trailer for DUNE](https://youtu.be/wM3PGU3dnao) looks just as [good as the first](https://blog.andrewbelfield.com/2023/05/03/the-dune-part.html), for much the same reasons. 📽️\n",
+				"date_published": "2023-06-29T15:13:31-04:00",
+				"url": "https://blog.andrewbelfield.com/2023/06/29/the-second-trailer.html",
+				"tags": ["watching"]
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2023/06/28/currently-reading-clare.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780812248173\">Clare of Assisi and the Thirteenth-Century Church</a> by Catherine M. Mooney 📚</p>\n",
+				"content_text": "Currently reading: [Clare of Assisi and the Thirteenth-Century Church](https://micro.blog/books/9780812248173) by Catherine M. Mooney 📚\n",
+				"date_published": "2023-06-28T10:14:36-04:00",
+				"url": "https://blog.andrewbelfield.com/2023/06/28/currently-reading-clare.html",
+				"tags": ["reading","theology","teaching"]
+			},
+			{
 				"id": "http://drewbelf.micro.blog/2023/06/27/finished-reading-st.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781626981089\">St. Francis and the Foolishness of God</a> by Marie Dennis, Joseph Nangle, Cynthia Moe-Lobeda, &amp; Stuart Taylor 📚</p>\n<p>While I really like portions of this book, I don&rsquo;t think I&rsquo;ll be assigning the entire text when I <a href=\"https://blog.andrewbelfield.com/2023/06/23/on-teaching-francis.html\">teach my 101 course</a>. It assumes too much knowledge about Christianity &amp; the gospel (&amp; Francis, really) for an intro course. Better suited for use in a parish, I think.</p>\n",
@@ -135,7 +180,7 @@
 				"id": "http://drewbelf.micro.blog/2023/06/05/after-about-a.html",
 				
 				"content_html": "<p>After about a week in Rome (with an overnight to Assisi in the middle), Jacqueline and I are headed home. Here we are in Assisi, with the Basilica of St. Clare in the background.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "After about a week in Rome (with an overnight to Assisi in the middle), Jacqueline and I are headed home. Here we are in Assisi, with the Basilica of St. Clare in the background.\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2023/fe6f41140d.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "After about a week in Rome (with an overnight to Assisi in the middle), Jacqueline and I are headed home. Here we are in Assisi, with the Basilica of St. Clare in the background.\n\n<img src=\"uploads/2023/fe6f41140d.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-06-05T08:06:28-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/06/05/after-about-a.html",
 				"tags": ["travel"]
@@ -144,7 +189,7 @@
 				"id": "http://drewbelf.micro.blog/2023/06/04/flying-buttresses-supporting.html",
 				
 				"content_html": "<p>Flying buttresses supporting the walls of the Basilica of St. Clare</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Flying buttresses supporting the walls of the Basilica of St. Clare\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2023/128071d217.jpg\" width=\"600\" height=\"451\" alt=\"Two large brick arches, attached to the wall of a cathedral\">\n",
+				"content_text": "Flying buttresses supporting the walls of the Basilica of St. Clare\n\n<img src=\"uploads/2023/128071d217.jpg\" width=\"600\" height=\"451\" alt=\"Two large brick arches, attached to the wall of a cathedral\">\n",
 				"date_published": "2023-06-04T13:31:38-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/06/04/flying-buttresses-supporting.html",
 				"tags": ["travel"]
@@ -171,7 +216,7 @@
 				"id": "http://drewbelf.micro.blog/2023/06/02/the-basilica-di.html",
 				
 				"content_html": "<p>The Basilica di Santa Chiara, slightly obscured by trees. While the upper church of the Basilica di San Francesco is, I think, my favorite place in Assisi, overall I think I prefer the architecture of Clare&rsquo;s basilica to Francis&rsquo;s.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The Basilica di Santa Chiara, slightly obscured by trees. While the upper church of the Basilica di San Francesco is, I think, my favorite place in Assisi, overall I think I prefer the architecture of Clare's basilica to Francis's.\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2023/bb51137b9c.jpg\" width=\"600\" height=\"451\" alt=\"A pink- and white-striped gothic cathedral, its walls supported by flying buttresses in the lower left hand corner, slightly obscured by trees branches and leaves in the upper right hand corner.\">\n",
+				"content_text": "The Basilica di Santa Chiara, slightly obscured by trees. While the upper church of the Basilica di San Francesco is, I think, my favorite place in Assisi, overall I think I prefer the architecture of Clare's basilica to Francis's.\n\n<img src=\"uploads/2023/bb51137b9c.jpg\" width=\"600\" height=\"451\" alt=\"A pink- and white-striped gothic cathedral, its walls supported by flying buttresses in the lower left hand corner, slightly obscured by trees branches and leaves in the upper right hand corner.\">\n",
 				"date_published": "2023-06-02T12:22:22-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/06/02/the-basilica-di.html",
 				"tags": ["travel"]
@@ -189,7 +234,7 @@
 				"id": "http://drewbelf.micro.blog/2023/06/01/assisi.html",
 				
 				"content_html": "<p>Basilica di San Francesco d&rsquo;Assisi</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Basilica di San Francesco d'Assisi\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2023/5d477baaf7.jpg\" width=\"600\" height=\"451\" alt=\"White limestone church & bell tower agains deep blue sky\">\n",
+				"content_text": "Basilica di San Francesco d'Assisi\n\n<img src=\"uploads/2023/5d477baaf7.jpg\" width=\"600\" height=\"451\" alt=\"White limestone church & bell tower agains deep blue sky\">\n",
 				"date_published": "2023-06-01T07:19:50-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/06/01/assisi.html",
 				"tags": ["travel"]
@@ -198,7 +243,7 @@
 				"id": "http://drewbelf.micro.blog/2023/05/31/a-view-from.html",
 				
 				"content_html": "<p>A view from St. Peter&rsquo;s Square</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A view from St. Peter's Square\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2023/596544d029.jpg\" width=\"600\" height=\"451\" alt=\"\">\n",
+				"content_text": "A view from St. Peter's Square\n\n<img src=\"uploads/2023/596544d029.jpg\" width=\"600\" height=\"451\" alt=\"\">\n",
 				"date_published": "2023-05-31T04:23:45-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/05/31/a-view-from.html",
 				"tags": ["travel"]
@@ -207,7 +252,7 @@
 				"id": "http://drewbelf.micro.blog/2023/05/31/il-papa-if.html",
 				
 				"content_html": "<p>Il Papa! (If you squint you can see him.)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Il Papa! (If you squint you can see him.)\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2023/d946d5bfed.jpg\" width=\"600\" height=\"451\" alt=\"\">\n",
+				"content_text": "Il Papa! (If you squint you can see him.)\n\n<img src=\"uploads/2023/d946d5bfed.jpg\" width=\"600\" height=\"451\" alt=\"\">\n",
 				"date_published": "2023-05-31T03:39:27-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/05/31/il-papa-if.html",
 				"tags": ["travel"]
@@ -234,7 +279,7 @@
 				"id": "http://drewbelf.micro.blog/2023/05/26/just-in-time.html",
 				
 				"content_html": "<p>Just in time to leave for Rome/Assisi, tomorrow, I got a little Francis of Assisi sticker for my water bottle.</p>\n<!-- raw HTML omitted -->\n<p>I love Brother Bird perched on his arm, the stigmata on his hands folded in prayer, &amp; especially the patchwork of his habit.</p>\n",
-				"content_text": "Just in time to leave for Rome/Assisi, tomorrow, I got a little Francis of Assisi sticker for my water bottle.\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2023/7bdce6aecb.jpg\" width=\"451\" height=\"600\" alt=\"A minimalist sticker of Saint Francis of Assisi on a clear, Nalgene water bottle\">\n\nI love Brother Bird perched on his arm, the stigmata on his hands folded in prayer, & especially the patchwork of his habit.\n",
+				"content_text": "Just in time to leave for Rome/Assisi, tomorrow, I got a little Francis of Assisi sticker for my water bottle.\n\n<img src=\"uploads/2023/7bdce6aecb.jpg\" width=\"451\" height=\"600\" alt=\"A minimalist sticker of Saint Francis of Assisi on a clear, Nalgene water bottle\">\n\nI love Brother Bird perched on his arm, the stigmata on his hands folded in prayer, & especially the patchwork of his habit.\n",
 				"date_published": "2023-05-26T20:36:40-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/05/26/just-in-time.html",
 				"tags": ["travel"]
@@ -252,7 +297,7 @@
 				"id": "http://drewbelf.micro.blog/2023/05/25/the-stack-of.html",
 				
 				"content_html": "<p>The stack of books on my desk grows comically tall.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The stack of books on my desk grows comically tall.\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2023/34f3c94a48.jpg\" width=\"451\" height=\"600\" alt=\"\">\n",
+				"content_text": "The stack of books on my desk grows comically tall.\n\n<img src=\"uploads/2023/34f3c94a48.jpg\" width=\"451\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-05-25T20:32:18-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/05/25/the-stack-of.html",
 				"tags": ["reading"]
@@ -385,7 +430,7 @@
 				"id": "http://drewbelf.micro.blog/2023/05/14/fr-dan-reilly.html",
 				
 				"content_html": "<p>Fr. Dan Reilly, of the Franciscan friar community at <a href=\"https://mountainonline.org/\">Mt. Irenaeus</a>, <a href=\"https://mountainonline.org/st-bonaventure-university-to-honor-fr-dan-riley-at-163rd-commencement/\">receives a Doctorate of Humane Letters, <em>causa honoris</em>,</a> at the 163rd annual commencement exercise at St. Bonaventure University.</p>\n<!-- raw HTML omitted -->\n<p>(That&rsquo;s a cutout of himself to his left.)</p>\n",
-				"content_text": "Fr. Dan Reilly, of the Franciscan friar community at [Mt. Irenaeus](https://mountainonline.org/), [receives a Doctorate of Humane Letters, *causa honoris*,](https://mountainonline.org/st-bonaventure-university-to-honor-fr-dan-riley-at-163rd-commencement/) at the 163rd annual commencement exercise at St. Bonaventure University.\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2023/45bff8609a.jpg\" width=\"600\" height=\"451\" alt=\"\">\n\n(That's a cutout of himself to his left.)\n",
+				"content_text": "Fr. Dan Reilly, of the Franciscan friar community at [Mt. Irenaeus](https://mountainonline.org/), [receives a Doctorate of Humane Letters, *causa honoris*,](https://mountainonline.org/st-bonaventure-university-to-honor-fr-dan-riley-at-163rd-commencement/) at the 163rd annual commencement exercise at St. Bonaventure University.\n\n<img src=\"uploads/2023/45bff8609a.jpg\" width=\"600\" height=\"451\" alt=\"\">\n\n(That's a cutout of himself to his left.)\n",
 				"date_published": "2023-05-14T12:03:31-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/05/14/fr-dan-reilly.html"
 			},
@@ -402,7 +447,7 @@
 				"id": "http://drewbelf.micro.blog/2023/05/09/newly-acquired-from.html",
 				
 				"content_html": "<p>Newly acquired from <a href=\"https://revolverrecordsinc.com/\">Revolver Records</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Newly acquired from [Revolver Records](https://revolverrecordsinc.com/)\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2023/888dcf7c97.jpg\" width=\"600\" height=\"451\" alt=\"\">\n",
+				"content_text": "Newly acquired from [Revolver Records](https://revolverrecordsinc.com/)\n\n<img src=\"uploads/2023/888dcf7c97.jpg\" width=\"600\" height=\"451\" alt=\"\">\n",
 				"date_published": "2023-05-09T10:40:56-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/05/09/newly-acquired-from.html"
 			},
@@ -410,7 +455,7 @@
 				"id": "http://drewbelf.micro.blog/2023/05/06/good-day-for.html",
 				
 				"content_html": "<p>Good day for a yard sale &amp; cookout.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Good day for a yard sale & cookout.\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2023/24ac3e811d.jpg\" width=\"600\" height=\"451\" alt=\"\">\n",
+				"content_text": "Good day for a yard sale & cookout.\n\n<img src=\"uploads/2023/24ac3e811d.jpg\" width=\"600\" height=\"451\" alt=\"\">\n",
 				"date_published": "2023-05-06T20:00:24-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/05/06/good-day-for.html"
 			},
@@ -508,7 +553,7 @@
 				"id": "http://drewbelf.micro.blog/2023/04/29/163321.html",
 				
 				"content_html": "<p>Kodak Gold 200</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Kodak Gold 200\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2023/60ef0aa53f.jpg\" width=\"600\" height=\"397\" alt=\"\">\n",
+				"content_text": "Kodak Gold 200\n\n<img src=\"uploads/2023/60ef0aa53f.jpg\" width=\"600\" height=\"397\" alt=\"\">\n",
 				"date_published": "2023-04-29T16:33:21-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/04/29/163321.html",
 				"tags": ["film"]
@@ -553,7 +598,7 @@
 				"id": "http://drewbelf.micro.blog/2023/04/25/we-recently-received.html",
 				
 				"content_html": "<p>We recently received print copies of volume 80 of <em>Franciscan Studies</em>&mdash;the first volume I&rsquo;ve edited the book reviews for. By the time I was invited to the role this volume&rsquo;s reviews were already lined up, but I&rsquo;m really excited for the reviews I have slated for next year&rsquo;s volume.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "We recently received print copies of volume 80 of *Franciscan Studies*---the first volume I've edited the book reviews for. By the time I was invited to the role this volume's reviews were already lined up, but I'm really excited for the reviews I have slated for next year's volume.\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2023/f0e5e2b824.jpg\" width=\"600\" height=\"599\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/57396/2023/c9e636c6f7.jpg\" width=\"600\" height=\"599\" alt=\"\">\n",
+				"content_text": "We recently received print copies of volume 80 of *Franciscan Studies*---the first volume I've edited the book reviews for. By the time I was invited to the role this volume's reviews were already lined up, but I'm really excited for the reviews I have slated for next year's volume.\n\n<img src=\"uploads/2023/f0e5e2b824.jpg\" width=\"600\" height=\"599\" alt=\"\"><img src=\"uploads/2023/c9e636c6f7.jpg\" width=\"600\" height=\"599\" alt=\"\">\n",
 				"date_published": "2023-04-25T15:04:02-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/04/25/we-recently-received.html",
 				"tags": ["reading","theology"]
@@ -562,7 +607,7 @@
 				"id": "http://drewbelf.micro.blog/2023/04/23/shot-on-fujicolor.html",
 				
 				"content_html": "<p>Fence in the morning fog. Shot on Fujicolor C200.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Fence in the morning fog. Shot on Fujicolor C200.\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2023/b3f275df6e.jpg\" width=\"600\" height=\"397\" alt=\"\">\n",
+				"content_text": "Fence in the morning fog. Shot on Fujicolor C200.\n\n<img src=\"uploads/2023/b3f275df6e.jpg\" width=\"600\" height=\"397\" alt=\"\">\n",
 				"date_published": "2023-04-23T15:13:43-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/04/23/shot-on-fujicolor.html",
 				"tags": ["film"]
@@ -625,7 +670,7 @@
 				"id": "http://drewbelf.micro.blog/2023/04/16/friedsam-memorial-library.html",
 				
 				"content_html": "<p>Friedsam Memorial Library (<a href=\"http://archives.sbu.edu/studentpages/buildings/Friedsam%20Memorial%20Library.htm\">archives.sbu.edu</a>). Shot on Kodak ColorPlus 200.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Friedsam Memorial Library ([archives.sbu.edu](http://archives.sbu.edu/studentpages/buildings/Friedsam%20Memorial%20Library.htm)). Shot on Kodak ColorPlus 200.\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2023/ba8adf1137.jpg\" width=\"600\" height=\"397\" alt=\"\">\n",
+				"content_text": "Friedsam Memorial Library ([archives.sbu.edu](http://archives.sbu.edu/studentpages/buildings/Friedsam%20Memorial%20Library.htm)). Shot on Kodak ColorPlus 200.\n\n<img src=\"uploads/2023/ba8adf1137.jpg\" width=\"600\" height=\"397\" alt=\"\">\n",
 				"date_published": "2023-04-16T10:47:14-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/04/16/friedsam-memorial-library.html",
 				"tags": ["film"]
@@ -651,7 +696,7 @@
 				"id": "http://drewbelf.micro.blog/2023/04/14/after-a-few.html",
 				
 				"content_html": "<p>After a few weeks away (consumed with grading) it&rsquo;s good to be back to research.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "After a few weeks away (consumed with grading) it's good to be back to research.\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2023/9ce14116f1.jpg\" width=\"600\" height=\"599\" alt=\"\">\n",
+				"content_text": "After a few weeks away (consumed with grading) it's good to be back to research.\n\n<img src=\"uploads/2023/9ce14116f1.jpg\" width=\"600\" height=\"599\" alt=\"\">\n",
 				"date_published": "2023-04-14T08:50:02-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/04/14/after-a-few.html",
 				"tags": ["reading","theology"]
@@ -660,7 +705,7 @@
 				"id": "http://drewbelf.micro.blog/2023/04/13/cuba-elementary-school.html",
 				
 				"content_html": "<p>Cuba Elementary School, shot on Kodak ColorPlus 200 with my Pentax K1000.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Cuba Elementary School, shot on Kodak ColorPlus 200 with my Pentax K1000.\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2023/ccdc34abed.jpg\" width=\"600\" height=\"397\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/57396/2023/f197b40c72.jpg\" width=\"600\" height=\"397\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/57396/2023/95c18cc847.jpg\" width=\"600\" height=\"397\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/57396/2023/ea437cfa50.jpg\" width=\"397\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/57396/2023/e5fe43c3cd.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
+				"content_text": "Cuba Elementary School, shot on Kodak ColorPlus 200 with my Pentax K1000.\n\n<img src=\"uploads/2023/ccdc34abed.jpg\" width=\"600\" height=\"397\" alt=\"\"><img src=\"uploads/2023/f197b40c72.jpg\" width=\"600\" height=\"397\" alt=\"\"><img src=\"uploads/2023/95c18cc847.jpg\" width=\"600\" height=\"397\" alt=\"\"><img src=\"uploads/2023/ea437cfa50.jpg\" width=\"397\" height=\"600\" alt=\"\"><img src=\"uploads/2023/e5fe43c3cd.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
 				"date_published": "2023-04-13T10:00:00-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/04/13/cuba-elementary-school.html",
 				"tags": ["film"]
@@ -669,7 +714,7 @@
 				"id": "http://drewbelf.micro.blog/2023/04/11/ilford-hp.html",
 				
 				"content_html": "<p>A few frames from a recent roll of Ilford HP5+, shot on my Canonet QL17 GIII.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "A few frames from a recent roll of Ilford HP5+, shot on my Canonet QL17 GIII.\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2023/482750017b.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/57396/2023/525f889996.jpg\" width=\"600\" height=\"397\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/57396/2023/ce394eba94.jpg\" width=\"397\" height=\"600\" alt=\"\">\n",
+				"content_text": "A few frames from a recent roll of Ilford HP5+, shot on my Canonet QL17 GIII.\n\n<img src=\"uploads/2023/482750017b.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2023/525f889996.jpg\" width=\"600\" height=\"397\" alt=\"\"><img src=\"uploads/2023/ce394eba94.jpg\" width=\"397\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-04-11T20:49:06-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/04/11/ilford-hp.html",
 				"tags": ["film"]
@@ -713,7 +758,7 @@
 				"id": "http://drewbelf.micro.blog/2023/04/08/what-is-happening.html",
 				
 				"content_html": "<blockquote>\n<p><a href=\"https://www.vatican.va/spirit/documents/spirit_20010414_omelia-sabato-santo_en.html\">What is happening?</a> Today there is a great silence over the earth, a great silence, and stillness, a great silence because the King sleeps; the earth was in terror and was still, because God slept in the flesh and raised up those who were sleeping from the ages. God has died in the flesh, and the underworld has trembled.</p>\n<p>Truly he goes to seek out our first parent like a lost sheep; he wishes to visit those who sit in darkness and in the shadow of death. He goes to free the prisoner Adam and his fellow-prisoner Eve from their pains, he who is God, and Adam&rsquo;s son.</p>\n</blockquote>\n<!-- raw HTML omitted -->\n",
-				"content_text": "> [What is happening?](https://www.vatican.va/spirit/documents/spirit_20010414_omelia-sabato-santo_en.html) Today there is a great silence over the earth, a great silence, and stillness, a great silence because the King sleeps; the earth was in terror and was still, because God slept in the flesh and raised up those who were sleeping from the ages. God has died in the flesh, and the underworld has trembled.\n> \n> Truly he goes to seek out our first parent like a lost sheep; he wishes to visit those who sit in darkness and in the shadow of death. He goes to free the prisoner Adam and his fellow-prisoner Eve from their pains, he who is God, and Adam's son.\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2023/07d612ce2b.jpg\" width=\"541\" height=\"600\" alt=\"Fra Angelico's Harrowing of Hell\">\n",
+				"content_text": "> [What is happening?](https://www.vatican.va/spirit/documents/spirit_20010414_omelia-sabato-santo_en.html) Today there is a great silence over the earth, a great silence, and stillness, a great silence because the King sleeps; the earth was in terror and was still, because God slept in the flesh and raised up those who were sleeping from the ages. God has died in the flesh, and the underworld has trembled.\n> \n> Truly he goes to seek out our first parent like a lost sheep; he wishes to visit those who sit in darkness and in the shadow of death. He goes to free the prisoner Adam and his fellow-prisoner Eve from their pains, he who is God, and Adam's son.\n\n<img src=\"uploads/2023/07d612ce2b.jpg\" width=\"541\" height=\"600\" alt=\"Fra Angelico's Harrowing of Hell\">\n",
 				"date_published": "2023-04-08T09:28:23-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/04/08/what-is-happening.html",
 				"tags": ["theology","justice"]
@@ -722,7 +767,7 @@
 				"id": "http://drewbelf.micro.blog/2023/04/06/ive-just-booked.html",
 				
 				"content_html": "<p>I&rsquo;ve just booked airline tickets for a research workshop in Rome this summer. I was last in Rome in 2018 (also for a research workshop), &amp; I had only a few days on that trip. But this time I&rsquo;ll be staying about a week. I can&rsquo;t wait!</p>\n<p>Pictured here from my last trip to Rome are (left to right) Boyd Taylor Coolman (my Doktorvater), Aaron Gies (current colleague at St. Bonaventure University), Justin Shaun Coyle, Katie Wrisley Shelby, Robin Landrith (three classmates from BC), &amp; Stephen Brown (a giant among historical theologians of the medieval period).</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I've just booked airline tickets for a research workshop in Rome this summer. I was last in Rome in 2018 (also for a research workshop), & I had only a few days on that trip. But this time I'll be staying about a week. I can't wait!\n\nPictured here from my last trip to Rome are (left to right) Boyd Taylor Coolman (my Doktorvater), Aaron Gies (current colleague at St. Bonaventure University), Justin Shaun Coyle, Katie Wrisley Shelby, Robin Landrith (three classmates from BC), & Stephen Brown (a giant among historical theologians of the medieval period).\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2023/5ca50e6d31.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "I've just booked airline tickets for a research workshop in Rome this summer. I was last in Rome in 2018 (also for a research workshop), & I had only a few days on that trip. But this time I'll be staying about a week. I can't wait!\n\nPictured here from my last trip to Rome are (left to right) Boyd Taylor Coolman (my Doktorvater), Aaron Gies (current colleague at St. Bonaventure University), Justin Shaun Coyle, Katie Wrisley Shelby, Robin Landrith (three classmates from BC), & Stephen Brown (a giant among historical theologians of the medieval period).\n\n<img src=\"uploads/2023/5ca50e6d31.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-04-06T10:35:21-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/04/06/ive-just-booked.html",
 				"tags": ["theology","travel"]
@@ -731,7 +776,7 @@
 				"id": "http://drewbelf.micro.blog/2023/04/04/175805.html",
 				
 				"content_html": "<p>🎵</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "🎵\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2023/0dcc42b884.jpg\" width=\"451\" height=\"600\" alt=\"\">\n",
+				"content_text": "🎵\n\n<img src=\"uploads/2023/0dcc42b884.jpg\" width=\"451\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-04-04T17:58:05-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/04/04/175805.html",
 				"tags": ["music"]
@@ -749,7 +794,7 @@
 				"id": "http://drewbelf.micro.blog/2023/04/03/preparing-for-class.html",
 				
 				"content_html": "<p>Preparing for class tomorrow with yesterday&rsquo;s Orioles game on in the background ⚾</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Preparing for class tomorrow with yesterday's Orioles game on in the background ⚾\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2023/abd54c777d.jpg\" width=\"600\" height=\"451\" alt=\"\">\n",
+				"content_text": "Preparing for class tomorrow with yesterday's Orioles game on in the background ⚾\n\n<img src=\"uploads/2023/abd54c777d.jpg\" width=\"600\" height=\"451\" alt=\"\">\n",
 				"date_published": "2023-04-03T15:37:11-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/04/03/preparing-for-class.html"
 			},
@@ -793,7 +838,7 @@
 				"id": "http://drewbelf.micro.blog/2023/03/30/subway-window-as.html",
 				
 				"content_html": "<p>Subway window as <a href=\"https://challenges.micro.blog/2023/03/29/the-prompt-for.html\">mirror</a>. I took this picture during my first year of doctoral studies (in 2018) on the last train of the B line, on my way to work the circulation desk night shift (3–8 a.m.) at Boston College&rsquo;s library.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Subway window as [mirror](https://challenges.micro.blog/2023/03/29/the-prompt-for.html). I took this picture during my first year of doctoral studies (in 2018) on the last train of the B line, on my way to work the circulation desk night shift (3–8 a.m.) at Boston College's library.\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2023/926f497e60.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Subway window as [mirror](https://challenges.micro.blog/2023/03/29/the-prompt-for.html). I took this picture during my first year of doctoral studies (in 2018) on the last train of the B line, on my way to work the circulation desk night shift (3–8 a.m.) at Boston College's library.\n\n<img src=\"uploads/2023/926f497e60.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-03-30T13:02:33-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/03/30/subway-window-as.html"
 			},
@@ -801,7 +846,7 @@
 				"id": "http://drewbelf.micro.blog/2023/03/30/fenway-park-september.html",
 				
 				"content_html": "<p>Fenway Park (September 2019), from the student discount seats</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Fenway Park (September 2019), from the student discount seats\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2023/d17fba3393.jpg\" width=\"600\" height=\"400\" alt=\"Fenway Park in black and white, with a view from right field\">\n",
+				"content_text": "Fenway Park (September 2019), from the student discount seats\n\n<img src=\"uploads/2023/d17fba3393.jpg\" width=\"600\" height=\"400\" alt=\"Fenway Park in black and white, with a view from right field\">\n",
 				"date_published": "2023-03-30T11:00:00-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/03/30/fenway-park-september.html",
 				"tags": ["travel"]
@@ -810,7 +855,7 @@
 				"id": "http://drewbelf.micro.blog/2023/03/29/light-slices-wall.html",
 				
 				"content_html": "<p>Light <a href=\"https://challenges.micro.blog/2023/03/28/the-prompt-for.html\">slice</a>s wall</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Light [slice](https://challenges.micro.blog/2023/03/28/the-prompt-for.html)s wall\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2023/167693ca4b.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "Light [slice](https://challenges.micro.blog/2023/03/28/the-prompt-for.html)s wall\n\n<img src=\"uploads/2023/167693ca4b.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2023-03-29T22:07:45-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/03/29/light-slices-wall.html"
 			},
@@ -845,7 +890,7 @@
 				"id": "http://drewbelf.micro.blog/2023/03/28/201518.html",
 				
 				"content_html": "<p>With today&rsquo;s prompt being <a href=\"https://challenges.micro.blog/2023/03/27/the-prompt-for.html\">prompt</a>, I&rsquo;m treating it like a wild card. This is a somewhat dilapidated bridge seen from a trail not far from my home. Shot on Ilford HP5+.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "With today's prompt being [prompt](https://challenges.micro.blog/2023/03/27/the-prompt-for.html), I'm treating it like a wild card. This is a somewhat dilapidated bridge seen from a trail not far from my home. Shot on Ilford HP5+.\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2023/0ecc902d9b.jpg\" width=\"600\" height=\"397\" alt=\"\">\n",
+				"content_text": "With today's prompt being [prompt](https://challenges.micro.blog/2023/03/27/the-prompt-for.html), I'm treating it like a wild card. This is a somewhat dilapidated bridge seen from a trail not far from my home. Shot on Ilford HP5+.\n\n<img src=\"uploads/2023/0ecc902d9b.jpg\" width=\"600\" height=\"397\" alt=\"\">\n",
 				"date_published": "2023-03-28T20:15:18-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/03/28/201518.html"
 			},
@@ -853,7 +898,7 @@
 				"id": "http://drewbelf.micro.blog/2023/03/27/deception-pass-bridge.html",
 				
 				"content_html": "<p>Deception Pass Bridge, which <a href=\"https://challenges.micro.blog/2023/03/26/the-prompt-for.html\">support</a>s the cars crossing the river. (A stretch, I know, but it&rsquo;s late &amp; this is the best I can think of right now.)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Deception Pass Bridge, which [support](https://challenges.micro.blog/2023/03/26/the-prompt-for.html)s the cars crossing the river. (A stretch, I know, but it's late & this is the best I can think of right now.)\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2023/6fd19a447b.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"content_text": "Deception Pass Bridge, which [support](https://challenges.micro.blog/2023/03/26/the-prompt-for.html)s the cars crossing the river. (A stretch, I know, but it's late & this is the best I can think of right now.)\n\n<img src=\"uploads/2023/6fd19a447b.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
 				"date_published": "2023-03-27T23:15:07-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/03/27/deception-pass-bridge.html",
 				"tags": ["travel"]
@@ -862,7 +907,7 @@
 				"id": "http://drewbelf.micro.blog/2023/03/26/my-instrument-with.html",
 				
 				"content_html": "<p>My <a href=\"https://challenges.micro.blog/2023/03/25/the-prompt-for.html\">instrument</a> with a cool stained glass window–inspired strap I found on eBay</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My [instrument](https://challenges.micro.blog/2023/03/25/the-prompt-for.html) with a cool stained glass window–inspired strap I found on eBay\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2023/13f488a167.jpg\" width=\"451\" height=\"600\" alt=\"\">\n",
+				"content_text": "My [instrument](https://challenges.micro.blog/2023/03/25/the-prompt-for.html) with a cool stained glass window–inspired strap I found on eBay\n\n<img src=\"uploads/2023/13f488a167.jpg\" width=\"451\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-03-26T21:47:24-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/03/26/my-instrument-with.html"
 			},
@@ -870,7 +915,7 @@
 				"id": "http://drewbelf.micro.blog/2023/03/25/herbs-rather-than.html",
 				
 				"content_html": "<p>Herbs rather than <a href=\"https://challenges.micro.blog/2023/03/24/the-prompt-for.html\">spice</a>, but still, pretty close.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Herbs rather than [spice](https://challenges.micro.blog/2023/03/24/the-prompt-for.html), but still, pretty close.\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2023/8222cedfd0.jpg\" width=\"600\" height=\"599\" alt=\"\">\n",
+				"content_text": "Herbs rather than [spice](https://challenges.micro.blog/2023/03/24/the-prompt-for.html), but still, pretty close.\n\n<img src=\"uploads/2023/8222cedfd0.jpg\" width=\"600\" height=\"599\" alt=\"\">\n",
 				"date_published": "2023-03-25T22:30:00-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/03/25/herbs-rather-than.html"
 			},
@@ -878,7 +923,7 @@
 				"id": "http://drewbelf.micro.blog/2023/03/24/the-court-at.html",
 				
 				"content_html": "<p>The <a href=\"https://challenges.micro.blog/2023/03/23/the-prompt-for.html\">court</a> at Saint Isidore&rsquo;s College in Rome, home of the <a href=\"https://www.quaracchi.org/en/about/\">Quaracchi archives</a>. I&rsquo;ll be at Saint Isidore&rsquo;s again this summer for a research workshop on eschatology in the theology of Alexander of Hales</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The [court](https://challenges.micro.blog/2023/03/23/the-prompt-for.html) at Saint Isidore's College in Rome, home of the [Quaracchi archives](https://www.quaracchi.org/en/about/). I'll be at Saint Isidore's again this summer for a research workshop on eschatology in the theology of Alexander of Hales\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2023/e878942c7d.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "The [court](https://challenges.micro.blog/2023/03/23/the-prompt-for.html) at Saint Isidore's College in Rome, home of the [Quaracchi archives](https://www.quaracchi.org/en/about/). I'll be at Saint Isidore's again this summer for a research workshop on eschatology in the theology of Alexander of Hales\n\n<img src=\"uploads/2023/e878942c7d.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2023-03-24T16:00:02-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/03/24/the-court-at.html",
 				"tags": ["theology","travel"]
@@ -887,7 +932,7 @@
 				"id": "http://drewbelf.micro.blog/2023/03/23/finished-reading-christianity.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781626980303\">Christianity in a Nutshell</a> by Leonardo Boff 📚 well there&rsquo;s little <a href=\"https://challenges.micro.blog/2023/03/22/the-prompt-for.html\">chance</a> I&rsquo;ll be using this book in my 101 class—it&rsquo;s a little too obscure and a lot too idiosyncratic for an intro class, I think</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Finished reading: [Christianity in a Nutshell](https://micro.blog/books/9781626980303) by Leonardo Boff 📚 well there's little [chance](https://challenges.micro.blog/2023/03/22/the-prompt-for.html) I'll be using this book in my 101 class—it's a little too obscure and a lot too idiosyncratic for an intro class, I think\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2023/92fa201288.jpg\" width=\"451\" height=\"600\" alt=\"\">\n",
+				"content_text": "Finished reading: [Christianity in a Nutshell](https://micro.blog/books/9781626980303) by Leonardo Boff 📚 well there's little [chance](https://challenges.micro.blog/2023/03/22/the-prompt-for.html) I'll be using this book in my 101 class—it's a little too obscure and a lot too idiosyncratic for an intro class, I think\n\n<img src=\"uploads/2023/92fa201288.jpg\" width=\"451\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-03-23T21:04:32-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/03/23/finished-reading-christianity.html",
 				"tags": ["reading","theology","teaching"]
@@ -905,7 +950,7 @@
 				"id": "http://drewbelf.micro.blog/2023/03/22/i-know-spiders.html",
 				
 				"content_html": "<p>I know spiders are not technically <a href=\"https://challenges.micro.blog/2023/03/21/the-prompt-for.html\">insects</a>, but I think this is the best I can do today. Shot on Superia X-tra 400.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I know spiders are not technically [insects](https://challenges.micro.blog/2023/03/21/the-prompt-for.html), but I think this is the best I can do today. Shot on Superia X-tra 400.\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2023/729eeaf3d7.jpg\" width=\"600\" height=\"397\" alt=\"\">\n",
+				"content_text": "I know spiders are not technically [insects](https://challenges.micro.blog/2023/03/21/the-prompt-for.html), but I think this is the best I can do today. Shot on Superia X-tra 400.\n\n<img src=\"uploads/2023/729eeaf3d7.jpg\" width=\"600\" height=\"397\" alt=\"\">\n",
 				"date_published": "2023-03-22T14:35:31-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/03/22/i-know-spiders.html",
 				"tags": ["travel"]
@@ -914,7 +959,7 @@
 				"id": "http://drewbelf.micro.blog/2023/03/21/tiny-campfire-in.html",
 				
 				"content_html": "<p><a href=\"https://challenges.micro.blog/2023/03/20/the-prompt-for.html\">Tiny</a> campfire in Glacier National Forest.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[Tiny](https://challenges.micro.blog/2023/03/20/the-prompt-for.html) campfire in Glacier National Forest.\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2023/bab44d126a.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"content_text": "[Tiny](https://challenges.micro.blog/2023/03/20/the-prompt-for.html) campfire in Glacier National Forest.\n\n<img src=\"uploads/2023/bab44d126a.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
 				"date_published": "2023-03-21T21:41:23-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/03/21/tiny-campfire-in.html",
 				"tags": ["travel"]
@@ -932,7 +977,7 @@
 				"id": "http://drewbelf.micro.blog/2023/03/20/unfortunately-our-sole.html",
 				
 				"content_html": "<p>Unfortunately our sole <a href=\"https://challenges.micro.blog/2023/03/19/the-prompt-for.html\">houseplant</a>, an orchid, is not doing well after a recent repotting.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Unfortunately our sole [houseplant](https://challenges.micro.blog/2023/03/19/the-prompt-for.html), an orchid, is not doing well after a recent repotting.\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2023/02375856de.jpg\" width=\"451\" height=\"600\" alt=\"\">\n",
+				"content_text": "Unfortunately our sole [houseplant](https://challenges.micro.blog/2023/03/19/the-prompt-for.html), an orchid, is not doing well after a recent repotting.\n\n<img src=\"uploads/2023/02375856de.jpg\" width=\"451\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-03-20T18:16:11-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/03/20/unfortunately-our-sole.html"
 			},
@@ -949,7 +994,7 @@
 				"id": "http://drewbelf.micro.blog/2023/03/19/one-challenge-of.html",
 				
 				"content_html": "<p>One challenge of an <a href=\"https://challenges.micro.blog/2023/03/18/the-prompt-for.html\">analog</a> note-taking system: no notebook can compare to the searchability and indexing of a digital system. I use small symbols (*, †, ‡, etc.) with arrows at the bottom of the page to indicate where I&rsquo;ll find more pages with notes on a related topic.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "One challenge of an [analog](https://challenges.micro.blog/2023/03/18/the-prompt-for.html) note-taking system: no notebook can compare to the searchability and indexing of a digital system. I use small symbols (*, †, ‡, etc.) with arrows at the bottom of the page to indicate where I'll find more pages with notes on a related topic.\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2023/85710e6b9a.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "One challenge of an [analog](https://challenges.micro.blog/2023/03/18/the-prompt-for.html) note-taking system: no notebook can compare to the searchability and indexing of a digital system. I use small symbols (*, †, ‡, etc.) with arrows at the bottom of the page to indicate where I'll find more pages with notes on a related topic.\n\n<img src=\"uploads/2023/85710e6b9a.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-03-19T13:41:11-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/03/19/one-challenge-of.html"
 			},
@@ -966,7 +1011,7 @@
 				"id": "http://drewbelf.micro.blog/2023/03/18/not-quite-a.html",
 				
 				"content_html": "<p>Not quite a <a href=\"https://challenges.micro.blog/2023/03/17/the-prompt-for.html\">portico</a>&mdash;more a pronaos? I don&rsquo;t really know architecture&mdash;but I&rsquo;ve always liked this photo of the Lincoln Memorial. From a visit to DC in 2017, when I lived in my favorite city in the US, Baltimore.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Not quite a [portico](https://challenges.micro.blog/2023/03/17/the-prompt-for.html)---more a pronaos? I don't really know architecture---but I've always liked this photo of the Lincoln Memorial. From a visit to DC in 2017, when I lived in my favorite city in the US, Baltimore.\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2023/66da9cd7ec.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "Not quite a [portico](https://challenges.micro.blog/2023/03/17/the-prompt-for.html)---more a pronaos? I don't really know architecture---but I've always liked this photo of the Lincoln Memorial. From a visit to DC in 2017, when I lived in my favorite city in the US, Baltimore.\n\n<img src=\"uploads/2023/66da9cd7ec.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2023-03-18T16:26:11-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/03/18/not-quite-a.html",
 				"tags": ["travel"]
@@ -984,7 +1029,7 @@
 				"id": "http://drewbelf.micro.blog/2023/03/17/im-late-to.html",
 				
 				"content_html": "<p>I&rsquo;m late to the <a href=\"https://challenges.micro.blog/2023/03/16/the-prompt-for.html\">early</a> post, but here&rsquo;s an early sign of spring (from a previous spring—still waiting for signs of spring here).</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I'm late to the [early](https://challenges.micro.blog/2023/03/16/the-prompt-for.html) post, but here's an early sign of spring (from a previous spring—still waiting for signs of spring here).\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2023/8da1bad75d.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "I'm late to the [early](https://challenges.micro.blog/2023/03/16/the-prompt-for.html) post, but here's an early sign of spring (from a previous spring—still waiting for signs of spring here).\n\n<img src=\"uploads/2023/8da1bad75d.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-03-17T16:45:00-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/03/17/im-late-to.html"
 			},
@@ -992,7 +1037,7 @@
 				"id": "http://drewbelf.micro.blog/2023/03/16/not-quite-a.html",
 				
 				"content_html": "<p>Not quite a <a href=\"https://challenges.micro.blog/2023/03/15/200000.html\">road</a>, but a path overlooking the Middle Falls in Letchworth State Park. Shot on (I think) Fujifilm 200</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Not quite a [road](https://challenges.micro.blog/2023/03/15/200000.html), but a path overlooking the Middle Falls in Letchworth State Park. Shot on (I think) Fujifilm 200\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2023/d1f981efe0.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"content_text": "Not quite a [road](https://challenges.micro.blog/2023/03/15/200000.html), but a path overlooking the Middle Falls in Letchworth State Park. Shot on (I think) Fujifilm 200\n\n<img src=\"uploads/2023/d1f981efe0.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
 				"date_published": "2023-03-16T16:51:06-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/03/16/not-quite-a.html",
 				"tags": ["film","travel"]
@@ -1001,7 +1046,7 @@
 				"id": "http://drewbelf.micro.blog/2023/03/15/i-love-seeing.html",
 				
 				"content_html": "<p>I love seeing these old library book cards: a record of who was reading what when. (I would have liked to have found a better picture for today&rsquo;s prompt but I&rsquo;m afraid I don&rsquo;t have the <a href=\"https://challenges.micro.blog/2023/03/14/the-prompt-for.html\">patience</a>.)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I love seeing these old library book cards: a record of who was reading what when. (I would have liked to have found a better picture for today's prompt but I'm afraid I don't have the [patience](https://challenges.micro.blog/2023/03/14/the-prompt-for.html).)\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2023/ef0363b468.jpg\" width=\"451\" height=\"600\" alt=\"\">\n",
+				"content_text": "I love seeing these old library book cards: a record of who was reading what when. (I would have liked to have found a better picture for today's prompt but I'm afraid I don't have the [patience](https://challenges.micro.blog/2023/03/14/the-prompt-for.html).)\n\n<img src=\"uploads/2023/ef0363b468.jpg\" width=\"451\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-03-15T15:27:12-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/03/15/i-love-seeing.html",
 				"tags": ["reading"]
@@ -1010,7 +1055,7 @@
 				"id": "http://drewbelf.micro.blog/2023/03/14/between-gray-seas.html",
 				
 				"content_html": "<p>Between gray seas and gray skies, the <a href=\"https://challenges.micro.blog/2023/03/13/the-prompt-for.html\">horizon</a> nearly disappears. Parsons Beach near Kennebunk, Maine.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Between gray seas and gray skies, the [horizon](https://challenges.micro.blog/2023/03/13/the-prompt-for.html) nearly disappears. Parsons Beach near Kennebunk, Maine.\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2023/54e6d26dd4.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Between gray seas and gray skies, the [horizon](https://challenges.micro.blog/2023/03/13/the-prompt-for.html) nearly disappears. Parsons Beach near Kennebunk, Maine.\n\n<img src=\"uploads/2023/54e6d26dd4.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-03-14T08:10:05-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/03/14/between-gray-seas.html",
 				"tags": ["travel"]
@@ -1027,7 +1072,7 @@
 				"id": "http://drewbelf.micro.blog/2023/03/13/taking-a-cue.html",
 				
 				"content_html": "<p>Taking a cue from <a href=\"https://micro.blog/mbkriegh\">@mbkriegh</a> today for <a href=\"https://challenges.micro.blog/2023/03/12/the-prompt-for.html\">connection</a>: power lines in San Salvador, shot on Superia X-tra 400</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Taking a cue from [@mbkriegh](https://micro.blog/mbkriegh) today for [connection](https://challenges.micro.blog/2023/03/12/the-prompt-for.html): power lines in San Salvador, shot on Superia X-tra 400\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2023/d34b6e99d5.jpg\" width=\"600\" height=\"397\" alt=\"\">\n",
+				"content_text": "Taking a cue from [@mbkriegh](https://micro.blog/mbkriegh) today for [connection](https://challenges.micro.blog/2023/03/12/the-prompt-for.html): power lines in San Salvador, shot on Superia X-tra 400\n\n<img src=\"uploads/2023/d34b6e99d5.jpg\" width=\"600\" height=\"397\" alt=\"\">\n",
 				"date_published": "2023-03-13T09:11:28-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/03/13/taking-a-cue.html"
 			},
@@ -1071,7 +1116,7 @@
 				"id": "http://drewbelf.micro.blog/2023/03/12/shiny-mirror-in.html",
 				
 				"content_html": "<p><a href=\"https://challenges.micro.blog/2023/03/11/the-prompt-for.html\">Shiny</a> mirror in the <a href=\"https://www.mopop.org/\">Museum of Pop Culture</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[Shiny](https://challenges.micro.blog/2023/03/11/the-prompt-for.html) mirror in the [Museum of Pop Culture](https://www.mopop.org/)\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2023/541e857259.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"content_text": "[Shiny](https://challenges.micro.blog/2023/03/11/the-prompt-for.html) mirror in the [Museum of Pop Culture](https://www.mopop.org/)\n\n<img src=\"uploads/2023/541e857259.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
 				"date_published": "2023-03-12T17:54:56-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/03/12/shiny-mirror-in.html",
 				"tags": ["travel"]
@@ -1089,7 +1134,7 @@
 				"id": "http://drewbelf.micro.blog/2023/03/11/not-quite-a.html",
 				
 				"content_html": "<p>Not quite <a href=\"https://www.websters1913.com/words/Gimcrack\">a <em>trivial</em> mechanism</a>, but if a <a href=\"https://challenges.micro.blog/2023/03/10/the-prompt-for.html\">gimcrack</a> is a device, a toy, a pretty thing, then I think this counts.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Not quite [a *trivial* mechanism](https://www.websters1913.com/words/Gimcrack), but if a [gimcrack](https://challenges.micro.blog/2023/03/10/the-prompt-for.html) is a device, a toy, a pretty thing, then I think this counts.\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2023/a494624c88.jpg\" width=\"600\" height=\"599\" alt=\"\">\n",
+				"content_text": "Not quite [a *trivial* mechanism](https://www.websters1913.com/words/Gimcrack), but if a [gimcrack](https://challenges.micro.blog/2023/03/10/the-prompt-for.html) is a device, a toy, a pretty thing, then I think this counts.\n\n<img src=\"uploads/2023/a494624c88.jpg\" width=\"600\" height=\"599\" alt=\"\">\n",
 				"date_published": "2023-03-11T14:01:16-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/03/11/not-quite-a.html"
 			},
@@ -1106,7 +1151,7 @@
 				"id": "http://drewbelf.micro.blog/2023/03/10/one-of-my.html",
 				
 				"content_html": "<p>One of my favorite <a href=\"https://challenges.micro.blog/2023/03/09/the-prompt-for.html\">ritual</a>s for Lent is the <a href=\"https://en.wikipedia.org/wiki/Stations_of_the_Cross\">Stations of the Cross</a>. This sign points to a small trail in <a href=\"http://archives.sbu.edu/memorials/bobs_woods.htm\">Bob&rsquo;s Woods</a> that follows an outdoor Stations of the Cross. Shot on Ilford HP5+.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "One of my favorite [ritual](https://challenges.micro.blog/2023/03/09/the-prompt-for.html)s for Lent is the [Stations of the Cross](https://en.wikipedia.org/wiki/Stations_of_the_Cross). This sign points to a small trail in [Bob's Woods](http://archives.sbu.edu/memorials/bobs_woods.htm) that follows an outdoor Stations of the Cross. Shot on Ilford HP5+.\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2023/5b2449a0a2.jpg\" width=\"600\" height=\"397\" alt=\"\">\n",
+				"content_text": "One of my favorite [ritual](https://challenges.micro.blog/2023/03/09/the-prompt-for.html)s for Lent is the [Stations of the Cross](https://en.wikipedia.org/wiki/Stations_of_the_Cross). This sign points to a small trail in [Bob's Woods](http://archives.sbu.edu/memorials/bobs_woods.htm) that follows an outdoor Stations of the Cross. Shot on Ilford HP5+.\n\n<img src=\"uploads/2023/5b2449a0a2.jpg\" width=\"600\" height=\"397\" alt=\"\">\n",
 				"date_published": "2023-03-10T19:54:12-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/03/10/one-of-my.html",
 				"tags": ["theology","film"]
@@ -1115,7 +1160,7 @@
 				"id": "http://drewbelf.micro.blog/2023/03/09/the-relatively-recently.html",
 				
 				"content_html": "<p>The (relatively recently renovated) chapel at the <a href=\"https://www.geneseeabbey.org/\">Abbey of the Genesee</a>, where the Trappists come <a href=\"https://challenges.micro.blog/2023/03/08/200000.html\">together</a> for prayer and worship.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The (relatively recently renovated) chapel at the [Abbey of the Genesee](https://www.geneseeabbey.org/), where the Trappists come [together](https://challenges.micro.blog/2023/03/08/200000.html) for prayer and worship.\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2023/22297b5114.jpg\" width=\"600\" height=\"451\" alt=\"\">\n",
+				"content_text": "The (relatively recently renovated) chapel at the [Abbey of the Genesee](https://www.geneseeabbey.org/), where the Trappists come [together](https://challenges.micro.blog/2023/03/08/200000.html) for prayer and worship.\n\n<img src=\"uploads/2023/22297b5114.jpg\" width=\"600\" height=\"451\" alt=\"\">\n",
 				"date_published": "2023-03-09T16:21:53-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/03/09/the-relatively-recently.html"
 			},
@@ -1123,7 +1168,7 @@
 				"id": "http://drewbelf.micro.blog/2023/03/08/i-shot-a.html",
 				
 				"content_html": "<p>I shot a roll of Ilford HP5+ the other day on a <a href=\"https://challenges.micro.blog/2023/03/07/the-prompt-for.html\">walk</a> in the woods behind campus. I&rsquo;m not really pleased with any of the photos&mdash;I feel like I&rsquo;m still figuring out black &amp; white&mdash;but I thought this burger ornament was funny, anyway.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I shot a roll of Ilford HP5+ the other day on a [walk](https://challenges.micro.blog/2023/03/07/the-prompt-for.html) in the woods behind campus. I'm not really pleased with any of the photos---I feel like I'm still figuring out black & white---but I thought this burger ornament was funny, anyway.\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2023/16cce54b50.jpg\" width=\"600\" height=\"397\" alt=\"\">\n",
+				"content_text": "I shot a roll of Ilford HP5+ the other day on a [walk](https://challenges.micro.blog/2023/03/07/the-prompt-for.html) in the woods behind campus. I'm not really pleased with any of the photos---I feel like I'm still figuring out black & white---but I thought this burger ornament was funny, anyway.\n\n<img src=\"uploads/2023/16cce54b50.jpg\" width=\"600\" height=\"397\" alt=\"\">\n",
 				"date_published": "2023-03-08T20:55:33-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/03/08/i-shot-a.html",
 				"tags": ["film"]
@@ -1150,7 +1195,7 @@
 				"id": "http://drewbelf.micro.blog/2023/03/07/i-love-these.html",
 				
 				"content_html": "<p>I love these winter days, when the tree branches are not-quite-<a href=\"https://challenges.micro.blog/2023/03/06/the-prompt-for.html\">wholely</a> covered with snow</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I love these winter days, when the tree branches are not-quite-[wholely](https://challenges.micro.blog/2023/03/06/the-prompt-for.html) covered with snow\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2023/ce6420bd26.jpg\" width=\"600\" height=\"451\" alt=\"\">\n",
+				"content_text": "I love these winter days, when the tree branches are not-quite-[wholely](https://challenges.micro.blog/2023/03/06/the-prompt-for.html) covered with snow\n\n<img src=\"uploads/2023/ce6420bd26.jpg\" width=\"600\" height=\"451\" alt=\"\">\n",
 				"date_published": "2023-03-07T08:53:04-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/03/07/i-love-these.html"
 			},
@@ -1167,7 +1212,7 @@
 				"id": "http://drewbelf.micro.blog/2023/03/06/smith-tower-the.html",
 				
 				"content_html": "<p>Smith Tower, the oldest skyscraper in Seattle and the tallest skyscraper on the West Coast until the completion of the Space Needle in 1962. This counts for <a href=\"https://challenges.micro.blog/2023/03/06/reminder-its-day.html\">engineering</a>, right?</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Smith Tower, the oldest skyscraper in Seattle and the tallest skyscraper on the West Coast until the completion of the Space Needle in 1962. This counts for [engineering](https://challenges.micro.blog/2023/03/06/reminder-its-day.html), right?\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2023/a12bc08da8.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"content_text": "Smith Tower, the oldest skyscraper in Seattle and the tallest skyscraper on the West Coast until the completion of the Space Needle in 1962. This counts for [engineering](https://challenges.micro.blog/2023/03/06/reminder-its-day.html), right?\n\n<img src=\"uploads/2023/a12bc08da8.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
 				"date_published": "2023-03-06T14:03:12-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/03/06/smith-tower-the.html",
 				"tags": ["travel"]
@@ -1203,7 +1248,7 @@
 				"id": "http://drewbelf.micro.blog/2023/03/05/tiles-of-stained.html",
 				
 				"content_html": "<p>Tiles of stained glass depicting <a href=\"https://en.wikipedia.org/wiki/Alexander_of_Hales\">Alexander of Hales</a> &amp; <a href=\"https://en.wikipedia.org/wiki/Alexander_of_Hales#Summa_Universae_Theologiae\">his <em>summa</em></a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Tiles of stained glass depicting [Alexander of Hales](https://en.wikipedia.org/wiki/Alexander_of_Hales) & [his *summa*](https://en.wikipedia.org/wiki/Alexander_of_Hales#Summa_Universae_Theologiae)\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2023/a806a12385.jpg\" width=\"600\" height=\"451\" alt=\"Alexander of Hales in profile\">\n",
+				"content_text": "Tiles of stained glass depicting [Alexander of Hales](https://en.wikipedia.org/wiki/Alexander_of_Hales) & [his *summa*](https://en.wikipedia.org/wiki/Alexander_of_Hales#Summa_Universae_Theologiae)\n\n<img src=\"uploads/2023/a806a12385.jpg\" width=\"600\" height=\"451\" alt=\"Alexander of Hales in profile\">\n",
 				"date_published": "2023-03-05T13:45:15-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/03/05/tiles-of-stained.html",
 				"tags": ["theology"]
@@ -1212,7 +1257,7 @@
 				"id": "http://drewbelf.micro.blog/2023/03/04/zip-lines-near.html",
 				
 				"content_html": "<p>Zip lines near (I think) Ahuachapán in El Salvador. Shot last July with my Pentax K1000 on Superia X-tra 400</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Zip lines near (I think) Ahuachapán in El Salvador. Shot last July with my Pentax K1000 on Superia X-tra 400\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2023/acabe50632.jpg\" width=\"600\" height=\"397\" alt=\"Zip lines stretch across blue skies and green vegetation in the Salvadoran countryside\">\n",
+				"content_text": "Zip lines near (I think) Ahuachapán in El Salvador. Shot last July with my Pentax K1000 on Superia X-tra 400\n\n<img src=\"uploads/2023/acabe50632.jpg\" width=\"600\" height=\"397\" alt=\"Zip lines stretch across blue skies and green vegetation in the Salvadoran countryside\">\n",
 				"date_published": "2023-03-04T09:43:50-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/03/04/zip-lines-near.html",
 				"tags": ["film","travel"]
@@ -1221,7 +1266,7 @@
 				"id": "http://drewbelf.micro.blog/2023/03/03/solitude-at-the.html",
 				
 				"content_html": "<p>Solitude at the Abbey of Gethsemani (picture taken summer 2015)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Solitude at the Abbey of Gethsemani (picture taken summer 2015)\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2023/f11424e85f.jpg\" width=\"600\" height=\"398\" alt=\"Sign reads “Monastic Area Do Not Enter”\">\n",
+				"content_text": "Solitude at the Abbey of Gethsemani (picture taken summer 2015)\n\n<img src=\"uploads/2023/f11424e85f.jpg\" width=\"600\" height=\"398\" alt=\"Sign reads “Monastic Area Do Not Enter”\">\n",
 				"date_published": "2023-03-03T09:05:23-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/03/03/solitude-at-the.html"
 			},
@@ -1238,7 +1283,7 @@
 				"id": "http://drewbelf.micro.blog/2023/03/02/took-a-walk.html",
 				
 				"content_html": "<p>Took a walk in the woods behind campus today to enjoy my favorite weather: overcast &amp; cool.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Took a walk in the woods behind campus today to enjoy my favorite weather: overcast & cool.\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2023/866a107c71.jpg\" width=\"600\" height=\"451\" alt=\"Tall trees in front of gray skies.\">\n",
+				"content_text": "Took a walk in the woods behind campus today to enjoy my favorite weather: overcast & cool.\n\n<img src=\"uploads/2023/866a107c71.jpg\" width=\"600\" height=\"451\" alt=\"Tall trees in front of gray skies.\">\n",
 				"date_published": "2023-03-02T12:39:38-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/03/02/took-a-walk.html"
 			},
@@ -1246,7 +1291,7 @@
 				"id": "http://drewbelf.micro.blog/2023/03/01/keeping-my-boots.html",
 				
 				"content_html": "<p>Keeping my boots <strong>secure</strong> with multiple knots (I need new laces)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Keeping my boots **secure** with multiple knots (I need new laces)\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2023/fa18f47303.jpg\" width=\"451\" height=\"600\" alt=\"Broken boot laces secured with multiple knots\">\n",
+				"content_text": "Keeping my boots **secure** with multiple knots (I need new laces)\n\n<img src=\"uploads/2023/fa18f47303.jpg\" width=\"451\" height=\"600\" alt=\"Broken boot laces secured with multiple knots\">\n",
 				"date_published": "2023-03-01T13:00:05-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/03/01/keeping-my-boots.html"
 			},
@@ -1272,7 +1317,7 @@
 				"id": "http://drewbelf.micro.blog/2023/02/23/one-of-my.html",
 				
 				"content_html": "<p>One of my favorite little displays in my office (I know I should have posted this yesterday for Ash Wednesday).</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "One of my favorite little displays in my office (I know I should have posted this yesterday for Ash Wednesday).\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2023/84bfa9366a.jpg\" width=\"600\" height=\"451\" alt=\"A skull on a shelf: memento mori\">\n",
+				"content_text": "One of my favorite little displays in my office (I know I should have posted this yesterday for Ash Wednesday).\n\n<img src=\"uploads/2023/84bfa9366a.jpg\" width=\"600\" height=\"451\" alt=\"A skull on a shelf: memento mori\">\n",
 				"date_published": "2023-02-23T16:13:23-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/02/23/one-of-my.html"
 			},
@@ -1325,7 +1370,7 @@
 				"id": "http://drewbelf.micro.blog/2023/02/15/after-putting-it.html",
 				
 				"content_html": "<p>After putting it off for many months, I finally asked facilities to come mount my chalkboard to my office wall. I&rsquo;ve found it immensely useful to have my projects for the week (left two-thirds) and my longer-term projects (right third) all represented in a single place.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "After putting it off for many months, I finally asked facilities to come mount my chalkboard to my office wall. I've found it immensely useful to have my projects for the week (left two-thirds) and my longer-term projects (right third) all represented in a single place.\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2023/9a6b17ab70.jpg\" width=\"600\" height=\"451\" alt=\"\">\n",
+				"content_text": "After putting it off for many months, I finally asked facilities to come mount my chalkboard to my office wall. I've found it immensely useful to have my projects for the week (left two-thirds) and my longer-term projects (right third) all represented in a single place.\n\n<img src=\"uploads/2023/9a6b17ab70.jpg\" width=\"600\" height=\"451\" alt=\"\">\n",
 				"date_published": "2023-02-15T17:37:51-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/02/15/after-putting-it.html"
 			},
@@ -1360,7 +1405,7 @@
 				"id": "http://drewbelf.micro.blog/2023/02/06/from-the-title.html",
 				
 				"content_html": "<p>From the title page of a used copy of Herbert McCabe&rsquo;s <em>God Still Matters</em></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "From the title page of a used copy of Herbert McCabe's *God Still Matters*\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2023/dc09d94291.jpg\" width=\"600\" height=\"599\" alt=\"Stamped text reads: Dominican Nuns of the Perpetual Rosary. Monastery of the Immaculate Heart of Mary. Lancaster, Pennsylvania 17501. Handwritten above: Novitiate.\">\n",
+				"content_text": "From the title page of a used copy of Herbert McCabe's *God Still Matters*\n\n<img src=\"uploads/2023/dc09d94291.jpg\" width=\"600\" height=\"599\" alt=\"Stamped text reads: Dominican Nuns of the Perpetual Rosary. Monastery of the Immaculate Heart of Mary. Lancaster, Pennsylvania 17501. Handwritten above: Novitiate.\">\n",
 				"date_published": "2023-02-06T21:14:16-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/02/06/from-the-title.html",
 				"tags": ["reading","theology","teaching"]
@@ -1405,7 +1450,7 @@
 				"id": "http://drewbelf.micro.blog/2023/01/28/sancte-thoma-aquinatis.html",
 				
 				"content_html": "<p>Sancte Thoma Aquinatis, ora pro nobis.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Sancte Thoma Aquinatis, ora pro nobis.\n\n<a href=\"https://commons.wikimedia.org/wiki/File:Tommaso_Aquino_-_Francisco_de_Zurbar%C3%A1n.jpg\"><img src=\"https://cdn.uploads.micro.blog/57396/2023/86e5399c28.jpg\" width=\"339\" height=\"600\" alt=\"Detail of The Apotheosis of Saint Thomas Aquinas by Francisco de Zurbarán, 1631\"></a>\n",
+				"content_text": "Sancte Thoma Aquinatis, ora pro nobis.\n\n<a href=\"https://commons.wikimedia.org/wiki/File:Tommaso_Aquino_-_Francisco_de_Zurbar%C3%A1n.jpg\"><img src=\"uploads/2023/86e5399c28.jpg\" width=\"339\" height=\"600\" alt=\"Detail of The Apotheosis of Saint Thomas Aquinas by Francisco de Zurbarán, 1631\"></a>\n",
 				"date_published": "2023-01-28T16:55:55-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/01/28/sancte-thoma-aquinatis.html",
 				"tags": ["theology"]
@@ -1414,7 +1459,7 @@
 				"id": "http://drewbelf.micro.blog/2023/01/28/somewhere-in-vermont.html",
 				
 				"content_html": "<p>Somewhere in Vermont at dusk.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Somewhere in Vermont at dusk.\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2023/e66f920dd9.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"content_text": "Somewhere in Vermont at dusk.\n\n<img src=\"uploads/2023/e66f920dd9.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
 				"date_published": "2023-01-28T16:03:32-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/01/28/somewhere-in-vermont.html",
 				"tags": ["travel"]
@@ -1459,7 +1504,7 @@
 				"id": "http://drewbelf.micro.blog/2023/01/22/i-just-learned.html",
 				
 				"content_html": "<p>I just learned that <a href=\"https://www.dor.org/content/bishop-clark/\">Bishop Matthew Clark</a>, bishop of the diocese of Rochester (my home diocese) between 1979 &amp; 2012, <a href=\"https://www.dor.org/notification-of-the-death-of-bishop-emeritus-matthew-h-clark/\">has passed away</a>. I met him on a couple of occasions; he always struck me as a kind-hearted man &amp; a good pastor. Pictured here are my older brother Chas (right) &amp; younger brother Marty (middle) &amp; me (left) with Bishop Clark, at Marty&rsquo;s confirmation in May 2003. Requiescat in pace.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I just learned that [Bishop Matthew Clark](https://www.dor.org/content/bishop-clark/), bishop of the diocese of Rochester (my home diocese) between 1979 & 2012, [has passed away](https://www.dor.org/notification-of-the-death-of-bishop-emeritus-matthew-h-clark/). I met him on a couple of occasions; he always struck me as a kind-hearted man & a good pastor. Pictured here are my older brother Chas (right) & younger brother Marty (middle) & me (left) with Bishop Clark, at Marty's confirmation in May 2003. Requiescat in pace.\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2023/1bf299f489.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"content_text": "I just learned that [Bishop Matthew Clark](https://www.dor.org/content/bishop-clark/), bishop of the diocese of Rochester (my home diocese) between 1979 & 2012, [has passed away](https://www.dor.org/notification-of-the-death-of-bishop-emeritus-matthew-h-clark/). I met him on a couple of occasions; he always struck me as a kind-hearted man & a good pastor. Pictured here are my older brother Chas (right) & younger brother Marty (middle) & me (left) with Bishop Clark, at Marty's confirmation in May 2003. Requiescat in pace.\n\n<img src=\"uploads/2023/1bf299f489.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
 				"date_published": "2023-01-22T16:09:59-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/01/22/i-just-learned.html"
 			},
@@ -1467,7 +1512,7 @@
 				"id": "http://drewbelf.micro.blog/2023/01/21/im-usually-annoyed.html",
 				
 				"content_html": "<p>I&rsquo;m usually annoyed at powerlines getting in the way of photographs, but I kind of like the effect of these. 🎞️</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I'm usually annoyed at powerlines getting in the way of photographs, but I kind of like the effect of these. 🎞️\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2023/268bf93233.jpg\" width=\"600\" height=\"397\" alt=\"\">\n",
+				"content_text": "I'm usually annoyed at powerlines getting in the way of photographs, but I kind of like the effect of these. 🎞️\n\n<img src=\"uploads/2023/268bf93233.jpg\" width=\"600\" height=\"397\" alt=\"\">\n",
 				"date_published": "2023-01-21T22:49:35-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/01/21/im-usually-annoyed.html",
 				"tags": ["film"]
@@ -1557,7 +1602,7 @@
 				"id": "http://drewbelf.micro.blog/2023/01/10/the-old-card.html",
 				
 				"content_html": "<p>The old card catalog for the Franciscan Institute collection in Friedsam Memorial Library (St. Bonaventure University)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The old card catalog for the Franciscan Institute collection in Friedsam Memorial Library (St. Bonaventure University)\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2023/a9d2adc55e.jpg\" width=\"600\" height=\"451\" alt=\"\">\n",
+				"content_text": "The old card catalog for the Franciscan Institute collection in Friedsam Memorial Library (St. Bonaventure University)\n\n<img src=\"uploads/2023/a9d2adc55e.jpg\" width=\"600\" height=\"451\" alt=\"\">\n",
 				"date_published": "2023-01-10T19:18:41-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/01/10/the-old-card.html"
 			},
@@ -1655,7 +1700,7 @@
 				"id": "http://drewbelf.micro.blog/2023/01/03/new-toy-canon.html",
 				
 				"content_html": "<p>New toy: <a href=\"https://www.cameraquest.com/canql17.htm\">Canon Canonet QL17 GIII</a>. I wanted a compact film camera for travel, &amp; it was down to this or an <a href=\"https://www.kenrockwell.com/olympus/35rc.htm\">Olympus 35 RC</a>. What sold me was the f/1.7 lens. I haven&rsquo;t loaded any film yet, but it feels good in hand &amp; the focusing is very smooth.</p>\n<!-- raw HTML omitted -->\n<p>I love the look of the lens.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "New toy: [Canon Canonet QL17 GIII](https://www.cameraquest.com/canql17.htm). I wanted a compact film camera for travel, & it was down to this or an [Olympus 35 RC](https://www.kenrockwell.com/olympus/35rc.htm). What sold me was the f/1.7 lens. I haven't loaded any film yet, but it feels good in hand & the focusing is very smooth.\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2023/998e9d417a.jpg\" width=\"600\" height=\"451\" alt=\"\">\n\nI love the look of the lens.\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2023/95a0c40d77.jpg\" width=\"600\" height=\"451\" alt=\"\">\n",
+				"content_text": "New toy: [Canon Canonet QL17 GIII](https://www.cameraquest.com/canql17.htm). I wanted a compact film camera for travel, & it was down to this or an [Olympus 35 RC](https://www.kenrockwell.com/olympus/35rc.htm). What sold me was the f/1.7 lens. I haven't loaded any film yet, but it feels good in hand & the focusing is very smooth.\n\n<img src=\"uploads/2023/998e9d417a.jpg\" width=\"600\" height=\"451\" alt=\"\">\n\nI love the look of the lens.\n\n<img src=\"uploads/2023/95a0c40d77.jpg\" width=\"600\" height=\"451\" alt=\"\">\n",
 				"date_published": "2023-01-03T20:37:27-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/01/03/new-toy-canon.html",
 				"tags": ["film"]
@@ -1700,7 +1745,7 @@
 				"id": "http://drewbelf.micro.blog/2022/12/31/this-year-i.html",
 				"title": "Reading in 2022",
 				"content_html": "<p>This year I read 63 books (actually a couple more, as there were some I didn&rsquo;t log), and I tracked my reading with <a href=\"https://www.thestorygraph.com/\">StoryGraph</a>. This graph is so interesting; you can see the effect the fall and spring semesters have on my reading.</p>\n<!-- raw HTML omitted -->\n<p>Some of the more engaging books I read this year include:</p>\n<ul>\n<li><em>Transforming Fire: Imagining Christian Teaching</em>. Mark D. Jordan.</li>\n<li><em>The Argonauts</em>. Maggie Nelson.</li>\n<li><em>How to Be Normal</em>. Phil Christman.</li>\n<li><em>Tradition and Apocalypse: An Essay on the Future of Christian Belief</em>. David Bentley Hart.</li>\n<li><em>Four Thousand Weeks: Time Management for Mortals</em>. Oliver Burkeman.</li>\n<li><em>Females</em>. Andrea Long Chu.</li>\n<li><em>Deification through the Cross: An Eastern Christian Theology of Salvation</em>. Khaled Anatolios.</li>\n<li><em>The Married Man: A Novel</em>. Edmund White.</li>\n<li><em>The Dawn of Everything: A New History of Humanity</em>. David Graeber and David Wengrow.</li>\n<li><em>Believing Three Ways in One God: A Reading of the Apostles’ Creed</em>. Nicholas Lash.</li>\n</ul>\n<p>📚</p>\n",
-				"content_text": "This year I read 63 books (actually a couple more, as there were some I didn't log), and I tracked my reading with [StoryGraph](https://www.thestorygraph.com/). This graph is so interesting; you can see the effect the fall and spring semesters have on my reading.\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2023/a623291c82.jpg\" width=\"571\" height=\"600\" alt=\"\">\n\nSome of the more engaging books I read this year include:\n\n* *Transforming Fire: Imagining Christian Teaching*. Mark D. Jordan.\n* *The Argonauts*. Maggie Nelson.\n* *How to Be Normal*. Phil Christman.\n* *Tradition and Apocalypse: An Essay on the Future of Christian Belief*. David Bentley Hart.\n* *Four Thousand Weeks: Time Management for Mortals*. Oliver Burkeman.\n* *Females*. Andrea Long Chu.\n* *Deification through the Cross: An Eastern Christian Theology of Salvation*. Khaled Anatolios.\n* *The Married Man: A Novel*. Edmund White.\n* *The Dawn of Everything: A New History of Humanity*. David Graeber and David Wengrow.\n* *Believing Three Ways in One God: A Reading of the Apostles’ Creed*. Nicholas Lash.\n\n 📚\n",
+				"content_text": "This year I read 63 books (actually a couple more, as there were some I didn't log), and I tracked my reading with [StoryGraph](https://www.thestorygraph.com/). This graph is so interesting; you can see the effect the fall and spring semesters have on my reading.\n\n<img src=\"uploads/2023/a623291c82.jpg\" width=\"571\" height=\"600\" alt=\"\">\n\nSome of the more engaging books I read this year include:\n\n* *Transforming Fire: Imagining Christian Teaching*. Mark D. Jordan.\n* *The Argonauts*. Maggie Nelson.\n* *How to Be Normal*. Phil Christman.\n* *Tradition and Apocalypse: An Essay on the Future of Christian Belief*. David Bentley Hart.\n* *Four Thousand Weeks: Time Management for Mortals*. Oliver Burkeman.\n* *Females*. Andrea Long Chu.\n* *Deification through the Cross: An Eastern Christian Theology of Salvation*. Khaled Anatolios.\n* *The Married Man: A Novel*. Edmund White.\n* *The Dawn of Everything: A New History of Humanity*. David Graeber and David Wengrow.\n* *Believing Three Ways in One God: A Reading of the Apostles’ Creed*. Nicholas Lash.\n\n 📚\n",
 				"date_published": "2022-12-31T21:34:08-04:00",
 				"url": "https://blog.andrewbelfield.com/2022/12/31/this-year-i.html",
 				"tags": ["reading","longform"]
@@ -1789,7 +1834,7 @@
 				"id": "http://drewbelf.micro.blog/2022/12/24/christmas-eve-povitica.html",
 				
 				"content_html": "<p>Christmas Eve povitica</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Christmas Eve povitica\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2022/f62e63732d.jpg\" width=\"600\" height=\"451\" alt=\"\">\n",
+				"content_text": "Christmas Eve povitica\n\n<img src=\"uploads/2022/f62e63732d.jpg\" width=\"600\" height=\"451\" alt=\"\">\n",
 				"date_published": "2022-12-24T14:44:06-04:00",
 				"url": "https://blog.andrewbelfield.com/2022/12/24/christmas-eve-povitica.html",
 				"tags": ["breads"]
@@ -1897,7 +1942,7 @@
 				"id": "http://drewbelf.micro.blog/2022/12/17/advent-iv.html",
 				
 				"content_html": "<p>Advent IV</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Advent IV\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2022/ab9957d133.jpg\" width=\"600\" height=\"451\" alt=\"\">\n",
+				"content_text": "Advent IV\n\n<img src=\"uploads/2022/ab9957d133.jpg\" width=\"600\" height=\"451\" alt=\"\">\n",
 				"date_published": "2022-12-17T19:22:23-04:00",
 				"url": "https://blog.andrewbelfield.com/2022/12/17/advent-iv.html"
 			},
@@ -1905,7 +1950,7 @@
 				"id": "http://drewbelf.micro.blog/2022/12/17/during-the-last.html",
 				
 				"content_html": "<p>During the last week of Advent the church sings the <a href=\"https://www.usccb.org/prayers/o-antiphons-advent\">O Antiphons</a>; these antiphons, sung with the Magnificat during Vespers, draw upon imagery from Israel&rsquo;s prophetic tradition to express the Christian community&rsquo;s hope for light in darkness. Most people are familiar with the O Antiphons from the hymn <a href=\"https://open.spotify.com/track/6Lub2WGns5ZZbOe3Hbq57m?si=0ba7f38dbe8e4ceb\">O Come, O Come Emmanuel</a>.</p>\n<p>The image here is a portion of a 14th-century calendar (<a href=\"https://www.bl.uk/catalogues/illuminatedmanuscripts/record.asp?MSID=6851&amp;CollID=28&amp;NStart=3277\"><em>BL Egerton</em> 3277, f. 6v</a>); December 16th is marked with &lsquo;O Sapientia&rsquo; . (Apparently <a href=\"https://aclerkofoxford.blogspot.com/2014/12/the-o-antiphons-in-middle-english-to-e.html\">the medieval church in England began the O Antiphons a day early</a>.)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "During the last week of Advent the church sings the [O Antiphons](https://www.usccb.org/prayers/o-antiphons-advent); these antiphons, sung with the Magnificat during Vespers, draw upon imagery from Israel's prophetic tradition to express the Christian community's hope for light in darkness. Most people are familiar with the O Antiphons from the hymn [O Come, O Come Emmanuel](https://open.spotify.com/track/6Lub2WGns5ZZbOe3Hbq57m?si=0ba7f38dbe8e4ceb).\n\nThe image here is a portion of a 14th-century calendar ([*BL Egerton* 3277, f. 6v](https://www.bl.uk/catalogues/illuminatedmanuscripts/record.asp?MSID=6851&CollID=28&NStart=3277)); December 16th is marked with 'O Sapientia' . (Apparently [the medieval church in England began the O Antiphons a day early](https://aclerkofoxford.blogspot.com/2014/12/the-o-antiphons-in-middle-english-to-e.html).)\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2022/dfb4ee64bf.jpg\" width=\"600\" height=\"578\" alt=\"\">\n",
+				"content_text": "During the last week of Advent the church sings the [O Antiphons](https://www.usccb.org/prayers/o-antiphons-advent); these antiphons, sung with the Magnificat during Vespers, draw upon imagery from Israel's prophetic tradition to express the Christian community's hope for light in darkness. Most people are familiar with the O Antiphons from the hymn [O Come, O Come Emmanuel](https://open.spotify.com/track/6Lub2WGns5ZZbOe3Hbq57m?si=0ba7f38dbe8e4ceb).\n\nThe image here is a portion of a 14th-century calendar ([*BL Egerton* 3277, f. 6v](https://www.bl.uk/catalogues/illuminatedmanuscripts/record.asp?MSID=6851&CollID=28&NStart=3277)); December 16th is marked with 'O Sapientia' . (Apparently [the medieval church in England began the O Antiphons a day early](https://aclerkofoxford.blogspot.com/2014/12/the-o-antiphons-in-middle-english-to-e.html).)\n\n<img src=\"uploads/2022/dfb4ee64bf.jpg\" width=\"600\" height=\"578\" alt=\"\">\n",
 				"date_published": "2022-12-17T15:59:53-04:00",
 				"url": "https://blog.andrewbelfield.com/2022/12/17/during-the-last.html",
 				"tags": ["music","theology"]
@@ -1932,7 +1977,7 @@
 				"id": "http://drewbelf.micro.blog/2022/12/15/currently-reading-believing.html",
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780334000891\">Believing Three Ways in One God: A Reading of the Apostles’ Creed</a> by Nicholas Lash 📚</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Currently reading: [Believing Three Ways in One God: A Reading of the Apostles’ Creed](https://micro.blog/books/9780334000891) by Nicholas Lash 📚\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2022/d5e5deabba.jpg\" width=\"451\" height=\"600\" alt=\"\">\n",
+				"content_text": "Currently reading: [Believing Three Ways in One God: A Reading of the Apostles’ Creed](https://micro.blog/books/9780334000891) by Nicholas Lash 📚\n\n<img src=\"uploads/2022/d5e5deabba.jpg\" width=\"451\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-12-15T22:23:16-04:00",
 				"url": "https://blog.andrewbelfield.com/2022/12/15/currently-reading-believing.html",
 				"tags": ["reading","theology"]
@@ -1959,7 +2004,7 @@
 				"id": "http://drewbelf.micro.blog/2022/12/11/advent-iii.html",
 				
 				"content_html": "<p>Advent III</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Advent III\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2022/b108db5e78.jpg\" width=\"600\" height=\"451\" alt=\"\">\n",
+				"content_text": "Advent III\n\n<img src=\"uploads/2022/b108db5e78.jpg\" width=\"600\" height=\"451\" alt=\"\">\n",
 				"date_published": "2022-12-11T17:14:58-04:00",
 				"url": "https://blog.andrewbelfield.com/2022/12/11/advent-iii.html"
 			},
@@ -2003,7 +2048,7 @@
 				"id": "http://drewbelf.micro.blog/2022/12/06/my-bonaventure-bookshelf.html",
 				
 				"content_html": "<p>My Bonaventure bookshelf (following on <a href=\"https://blog.andrewbelfield.com/2022/12/05/fun-question-from.html\">yesterday&rsquo;s post on the authors taking up the most space on my shelves</a>). Bonaventure has an entire shelf to himself (and that&rsquo;s not even counting my digital bookshelves, where Bonaventure is also well represented!). 📚</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My Bonaventure bookshelf (following on [yesterday's post on the authors taking up the most space on my shelves](https://blog.andrewbelfield.com/2022/12/05/fun-question-from.html)). Bonaventure has an entire shelf to himself (and that's not even counting my digital bookshelves, where Bonaventure is also well represented!). 📚\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2022/d59cdd967c.jpg\" width=\"600\" height=\"451\" alt=\"An entire shelf of books by Bonaventure\">\n",
+				"content_text": "My Bonaventure bookshelf (following on [yesterday's post on the authors taking up the most space on my shelves](https://blog.andrewbelfield.com/2022/12/05/fun-question-from.html)). Bonaventure has an entire shelf to himself (and that's not even counting my digital bookshelves, where Bonaventure is also well represented!). 📚\n\n<img src=\"uploads/2022/d59cdd967c.jpg\" width=\"600\" height=\"451\" alt=\"An entire shelf of books by Bonaventure\">\n",
 				"date_published": "2022-12-06T18:38:49-04:00",
 				"url": "https://blog.andrewbelfield.com/2022/12/06/my-bonaventure-bookshelf.html",
 				"tags": ["reading"]
@@ -2021,7 +2066,7 @@
 				"id": "http://drewbelf.micro.blog/2022/12/05/and-the-last.html",
 				
 				"content_html": "<p>And the last week of classes is underway &hellip;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "And the last week of classes is underway ...\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2022/1ea5fdd2f4.jpg\" width=\"600\" height=\"451\" alt=\"Chalkboard detailing an over-busy week\">\n",
+				"content_text": "And the last week of classes is underway ...\n\n<img src=\"uploads/2022/1ea5fdd2f4.jpg\" width=\"600\" height=\"451\" alt=\"Chalkboard detailing an over-busy week\">\n",
 				"date_published": "2022-12-05T13:50:40-04:00",
 				"url": "https://blog.andrewbelfield.com/2022/12/05/and-the-last.html",
 				"tags": ["reading","theology","teaching"]
@@ -2030,7 +2075,7 @@
 				"id": "http://drewbelf.micro.blog/2022/12/04/god-of-power.html",
 				
 				"content_html": "<p>God of power and mercy,<br>\nopen our hearts in welcome.<br>\nRemove the things that hinder us from receiving Christ with joy,<br>\nso that we may share his wisdom<br>\nand become one with him<br>\nwhen he comes in glory<br>\nfor he lives and reigns with you and the Holy Spirit,<br>\none God, for ever and ever.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "God of power and mercy,  \nopen our hearts in welcome.  \nRemove the things that hinder us from receiving Christ with joy,  \nso that we may share his wisdom  \nand become one with him  \nwhen he comes in glory  \nfor he lives and reigns with you and the Holy Spirit,  \none God, for ever and ever.\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2022/f5261c54d5.jpg\" width=\"600\" height=\"451\" alt=\"\">\n",
+				"content_text": "God of power and mercy,  \nopen our hearts in welcome.  \nRemove the things that hinder us from receiving Christ with joy,  \nso that we may share his wisdom  \nand become one with him  \nwhen he comes in glory  \nfor he lives and reigns with you and the Holy Spirit,  \none God, for ever and ever.\n\n<img src=\"uploads/2022/f5261c54d5.jpg\" width=\"600\" height=\"451\" alt=\"\">\n",
 				"date_published": "2022-12-04T19:36:27-04:00",
 				"url": "https://blog.andrewbelfield.com/2022/12/04/god-of-power.html",
 				"tags": ["theology"]
@@ -2084,7 +2129,7 @@
 				"id": "http://drewbelf.micro.blog/2022/12/01/095206.html",
 				
 				"content_html": "<p>🎵</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "🎵\n\n<a href=\"https://open.spotify.com/playlist/37i9dQZF1F0sijgNaJdgit?si=312c3a9429fb492f\"><img src=\"https://cdn.uploads.micro.blog/57396/2022/c4d669678a.jpg\" width=\"337\" height=\"600\" alt=\"Spotify Wrapped 2022\"></a>\n",
+				"content_text": "🎵\n\n<a href=\"https://open.spotify.com/playlist/37i9dQZF1F0sijgNaJdgit?si=312c3a9429fb492f\"><img src=\"uploads/2022/c4d669678a.jpg\" width=\"337\" height=\"600\" alt=\"Spotify Wrapped 2022\"></a>\n",
 				"date_published": "2022-12-01T10:52:06-04:00",
 				"url": "https://blog.andrewbelfield.com/2022/12/01/095206.html",
 				"tags": ["music"]
@@ -2102,7 +2147,7 @@
 				"id": "http://drewbelf.micro.blog/2022/11/30/today-the-western.html",
 				
 				"content_html": "<p>Today the Christian church celebrates the feast of St. Andrew the Apostle (known to the Eastern church as the First-Called)! I can relate to this portrait of Andrew at study.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Today the Christian church celebrates the feast of St. Andrew the Apostle (known to the Eastern church as the First-Called)! I can relate to this portrait of Andrew at study.\n\n<a href=\"https://commons.wikimedia.org/wiki/File:Artus_Wolffort_-_St_Andrew_-_WGA25857.jpg\"><img src=\"https://cdn.uploads.micro.blog/57396/2022/80b6e04305.jpg\" width=\"467\" height=\"600\" alt=\"Saint Andrew at study\" title=\"Artus Wolffort / Wikimedia Commons / Public Domain\"></a>\n",
+				"content_text": "Today the Christian church celebrates the feast of St. Andrew the Apostle (known to the Eastern church as the First-Called)! I can relate to this portrait of Andrew at study.\n\n<a href=\"https://commons.wikimedia.org/wiki/File:Artus_Wolffort_-_St_Andrew_-_WGA25857.jpg\"><img src=\"uploads/2022/80b6e04305.jpg\" width=\"467\" height=\"600\" alt=\"Saint Andrew at study\" title=\"Artus Wolffort / Wikimedia Commons / Public Domain\"></a>\n",
 				"date_published": "2022-11-30T14:09:28-04:00",
 				"url": "https://blog.andrewbelfield.com/2022/11/30/today-the-western.html",
 				"tags": ["theology"]
@@ -2137,7 +2182,7 @@
 				"id": "http://drewbelf.micro.blog/2022/11/27/allpowerful-god-increase.html",
 				
 				"content_html": "<p>All-powerful God,<br>\nincrease our strength of will for doing good<br>\nthat Christ may find an eager welcome at his coming<br>\nand call us to his side in the kingdom of heaven,<br>\nwhere he lives and reigns with you and the Holy Spirit,<br>\none God, for ever and ever.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "All-powerful God,  \nincrease our strength of will for doing good  \nthat Christ may find an eager welcome at his coming  \nand call us to his side in the kingdom of heaven,  \nwhere he lives and reigns with you and the Holy Spirit,  \none God, for ever and ever.\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2022/9c04bbbc66.jpg\" width=\"600\" height=\"451\" alt=\"\">\n",
+				"content_text": "All-powerful God,  \nincrease our strength of will for doing good  \nthat Christ may find an eager welcome at his coming  \nand call us to his side in the kingdom of heaven,  \nwhere he lives and reigns with you and the Holy Spirit,  \none God, for ever and ever.\n\n<img src=\"uploads/2022/9c04bbbc66.jpg\" width=\"600\" height=\"451\" alt=\"\">\n",
 				"date_published": "2022-11-27T21:29:02-04:00",
 				"url": "https://blog.andrewbelfield.com/2022/11/27/allpowerful-god-increase.html",
 				"tags": ["theology"]
@@ -2164,7 +2209,7 @@
 				"id": "http://drewbelf.micro.blog/2022/11/24/thanksgiving-bake.html",
 				
 				"content_html": "<p>Thanksgiving bake 🍞</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Thanksgiving bake 🍞\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2022/d0929cbf8e.jpg\" width=\"600\" height=\"451\" alt=\"\">\n",
+				"content_text": "Thanksgiving bake 🍞\n\n<img src=\"uploads/2022/d0929cbf8e.jpg\" width=\"600\" height=\"451\" alt=\"\">\n",
 				"date_published": "2022-11-24T11:04:50-04:00",
 				"url": "https://blog.andrewbelfield.com/2022/11/24/thanksgiving-bake.html",
 				"tags": ["breads"]
@@ -2173,7 +2218,7 @@
 				"id": "http://drewbelf.micro.blog/2022/11/23/sourdough-schedule.html",
 				
 				"content_html": "<p>Sourdough schedule 🍞</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Sourdough schedule 🍞\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2022/890198a136.jpg\" width=\"451\" height=\"600\" alt=\"\">\n",
+				"content_text": "Sourdough schedule 🍞\n\n<img src=\"uploads/2022/890198a136.jpg\" width=\"451\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-11-23T19:18:55-04:00",
 				"url": "https://blog.andrewbelfield.com/2022/11/23/sourdough-schedule.html",
 				"tags": ["breads"]
@@ -2182,7 +2227,7 @@
 				"id": "http://drewbelf.micro.blog/2022/11/22/at-the-reilly.html",
 				
 				"content_html": "<p>At the Reilly Center for a <a href=\"https://gobonnies.com/sidearmstats/mbball/summary;team=away\">St. Bonaventure men&rsquo;s basketball game against the University of Southern Indiana</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "At the Reilly Center for a [St. Bonaventure men's basketball game against the University of Southern Indiana](https://gobonnies.com/sidearmstats/mbball/summary;team=away)\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2022/cf692ef4bc.jpg\" width=\"600\" height=\"451\" alt=\"\">\n",
+				"content_text": "At the Reilly Center for a [St. Bonaventure men's basketball game against the University of Southern Indiana](https://gobonnies.com/sidearmstats/mbball/summary;team=away)\n\n<img src=\"uploads/2022/cf692ef4bc.jpg\" width=\"600\" height=\"451\" alt=\"\">\n",
 				"date_published": "2022-11-22T20:42:15-04:00",
 				"url": "https://blog.andrewbelfield.com/2022/11/22/at-the-reilly.html"
 			},
@@ -2217,7 +2262,7 @@
 				"id": "http://drewbelf.micro.blog/2022/11/19/salvadoran-pupsra.html",
 				
 				"content_html": "<p>Salvadoran Pupusería 📷🎞️</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Salvadoran Pupusería 📷🎞️\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2022/b5ab94070a.jpg\" width=\"600\" height=\"397\" alt=\"\">\n",
+				"content_text": "Salvadoran Pupusería 📷🎞️\n\n<img src=\"uploads/2022/b5ab94070a.jpg\" width=\"600\" height=\"397\" alt=\"\">\n",
 				"date_published": "2022-11-19T23:20:49-04:00",
 				"url": "https://blog.andrewbelfield.com/2022/11/19/salvadoran-pupsra.html",
 				"tags": ["film","travel"]
@@ -2280,7 +2325,7 @@
 				"id": "http://drewbelf.micro.blog/2022/11/13/this-is-not.html",
 				
 				"content_html": "<p>(This is not a black and white photo.)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "(This is not a black and white photo.)\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2022/591e5fedb5.jpg\" width=\"600\" height=\"451\" alt=\"Gray landscape\">\n",
+				"content_text": "(This is not a black and white photo.)\n\n<img src=\"uploads/2022/591e5fedb5.jpg\" width=\"600\" height=\"451\" alt=\"Gray landscape\">\n",
 				"date_published": "2022-11-13T18:38:06-04:00",
 				"url": "https://blog.andrewbelfield.com/2022/11/13/this-is-not.html"
 			},
@@ -2288,7 +2333,7 @@
 				"id": "http://drewbelf.micro.blog/2022/11/13/snow-in-upstate.html",
 				
 				"content_html": "<p>Snow in upstate NY</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Snow in upstate NY\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2022/1505df807d.jpg\" width=\"600\" height=\"451\" alt=\"Snowy day\" />\n",
+				"content_text": "Snow in upstate NY\n\n<img src=\"uploads/2022/1505df807d.jpg\" width=\"600\" height=\"451\" alt=\"Snowy day\" />\n",
 				"date_published": "2022-11-13T12:32:47-04:00",
 				"url": "https://blog.andrewbelfield.com/2022/11/13/snow-in-upstate.html"
 			},
@@ -2296,7 +2341,7 @@
 				"id": "http://drewbelf.micro.blog/2022/11/12/the-first-loaf.html",
 				
 				"content_html": "<p>The first loaf of sourdough I&rsquo;ve baked in almost a year. I&rsquo;m not entirely satisfied with the rise, but it was nice to bake again 🍞</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The first loaf of sourdough I've baked in almost a year. I'm not entirely satisfied with the rise, but it was nice to bake again 🍞\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2022/66d0de406d.jpg\" width=\"600\" height=\"451\" alt=\"A loaf of sourdough bread\">\n",
+				"content_text": "The first loaf of sourdough I've baked in almost a year. I'm not entirely satisfied with the rise, but it was nice to bake again 🍞\n\n<img src=\"uploads/2022/66d0de406d.jpg\" width=\"600\" height=\"451\" alt=\"A loaf of sourdough bread\">\n",
 				"date_published": "2022-11-12T16:23:41-04:00",
 				"url": "https://blog.andrewbelfield.com/2022/11/12/the-first-loaf.html",
 				"tags": ["breads"]
@@ -2323,7 +2368,7 @@
 				"id": "http://drewbelf.micro.blog/2022/11/11/today-is-the.html",
 				
 				"content_html": "<p>Today the Western churches celebrate the feast of St. Martin of Tours. Here is El Greco&rsquo;s painting depicting St. Martin cutting a portion of his cloak for a beggar, an episode which would inspire Christians (including Francis of Assisi) for centuries. In medieval Europe, &ldquo;Martinmas&rdquo; would also initiate a forty-day period of fasting until Epiphany (excluding Saturdays and Sundays).</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Today the Western churches celebrate the feast of St. Martin of Tours. Here is El Greco's painting depicting St. Martin cutting a portion of his cloak for a beggar, an episode which would inspire Christians (including Francis of Assisi) for centuries. In medieval Europe, \"Martinmas\" would also initiate a forty-day period of fasting until Epiphany (excluding Saturdays and Sundays).\n\n<a href=\"https://commons.m.wikimedia.org/wiki/File:El_Greco_-_San_Mart%C3%ADn_y_el_mendigo.jpg\"><img src=\"https://cdn.uploads.micro.blog/57396/2022/864fbe21fd.jpg\" width=\"323\" height=\"600\" title=\"El Greco / Wikimedia Commons / Public Domain\" alt=\"San Martín y el mendigo\"></a>\n",
+				"content_text": "Today the Western churches celebrate the feast of St. Martin of Tours. Here is El Greco's painting depicting St. Martin cutting a portion of his cloak for a beggar, an episode which would inspire Christians (including Francis of Assisi) for centuries. In medieval Europe, \"Martinmas\" would also initiate a forty-day period of fasting until Epiphany (excluding Saturdays and Sundays).\n\n<a href=\"https://commons.m.wikimedia.org/wiki/File:El_Greco_-_San_Mart%C3%ADn_y_el_mendigo.jpg\"><img src=\"uploads/2022/864fbe21fd.jpg\" width=\"323\" height=\"600\" title=\"El Greco / Wikimedia Commons / Public Domain\" alt=\"San Martín y el mendigo\"></a>\n",
 				"date_published": "2022-11-11T17:30:47-04:00",
 				"url": "https://blog.andrewbelfield.com/2022/11/11/today-is-the.html",
 				"tags": ["theology"]
@@ -2332,7 +2377,7 @@
 				"id": "http://drewbelf.micro.blog/2022/11/10/currently-reading-saint.html",
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781476706832\">Saint Francis</a> by Nikos Kazantzakis 📚 I&rsquo;m looking forward to this one (Kazantzakis also wrote <a href=\"https://micro.blog/books/9781439144589\">The Last Temptation of Christ</a>, which was the basis of Martin Scorsese&rsquo;s 1988 film adaptation)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Currently reading: [Saint Francis](https://micro.blog/books/9781476706832) by Nikos Kazantzakis 📚 I'm looking forward to this one (Kazantzakis also wrote [The Last Temptation of Christ](https://micro.blog/books/9781439144589), which was the basis of Martin Scorsese's 1988 film adaptation)\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2022/4c66e9e3fd.jpg\" width=\"600\" height=\"796\" alt=\"Title page to Nikos Kazantzakis's Saint Francis\" />\n",
+				"content_text": "Currently reading: [Saint Francis](https://micro.blog/books/9781476706832) by Nikos Kazantzakis 📚 I'm looking forward to this one (Kazantzakis also wrote [The Last Temptation of Christ](https://micro.blog/books/9781439144589), which was the basis of Martin Scorsese's 1988 film adaptation)\n\n<img src=\"uploads/2022/4c66e9e3fd.jpg\" width=\"600\" height=\"796\" alt=\"Title page to Nikos Kazantzakis's Saint Francis\" />\n",
 				"date_published": "2022-11-10T20:10:44-04:00",
 				"url": "https://blog.andrewbelfield.com/2022/11/10/currently-reading-saint.html",
 				"tags": ["reading","theology"]
@@ -2350,7 +2395,7 @@
 				"id": "http://drewbelf.micro.blog/2022/11/08/obligatory-i-voted.html",
 				
 				"content_html": "<p>Obligatory &ldquo;I voted&rdquo; post</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Obligatory \"I voted\" post\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2022/c318bfa9a3.jpg\" width=\"450\" height=\"600\" alt=\"I voted sticker\">\n",
+				"content_text": "Obligatory \"I voted\" post\n\n<img src=\"uploads/2022/c318bfa9a3.jpg\" width=\"450\" height=\"600\" alt=\"I voted sticker\">\n",
 				"date_published": "2022-11-08T13:10:13-04:00",
 				"url": "https://blog.andrewbelfield.com/2022/11/08/obligatory-i-voted.html"
 			},
@@ -2493,7 +2538,7 @@
 				"id": "http://drewbelf.micro.blog/2022/10/28/foggy-morning-in.html",
 				
 				"content_html": "<p>Foggy morning in upstate New York</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Foggy morning in upstate New York\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2022/3742ee9ae6.jpg\" width=\"600\" height=\"451\" alt=\"A foggy downtown\">\n",
+				"content_text": "Foggy morning in upstate New York\n\n<img src=\"uploads/2022/3742ee9ae6.jpg\" width=\"600\" height=\"451\" alt=\"A foggy downtown\">\n",
 				"date_published": "2022-10-28T09:53:18-04:00",
 				"url": "https://blog.andrewbelfield.com/2022/10/28/foggy-morning-in.html"
 			},
@@ -2510,7 +2555,7 @@
 				"id": "http://drewbelf.micro.blog/2022/10/25/jacqueline-and-are.html",
 				
 				"content_html": "<p>Jacqueline and I are CSA shareholders at the local <a href=\"https://www.canticlefarm.org/\">Canticle Farm</a>, sponsored by the Franciscan Sisters of Allegany. Today&rsquo;s pickup included:</p>\n<ul>\n<li>1/2 lbs. of spinach</li>\n<li>2 heads of lettuce</li>\n<li>1/2 lbs. of kale</li>\n<li>1 bok choy</li>\n<li>1 quart of green peppers</li>\n<li>1 shallot</li>\n<li>1 head of garlic</li>\n<li>2 onions</li>\n<li>1 1/2 lbs. of carrots</li>\n<li>2 winter squash</li>\n<li>2 lbs. of potatoes</li>\n</ul>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Jacqueline and I are CSA shareholders at the local [Canticle Farm](https://www.canticlefarm.org/), sponsored by the Franciscan Sisters of Allegany. Today's pickup included:\n\n* 1/2 lbs. of spinach\n* 2 heads of lettuce\n* 1/2 lbs. of kale\n* 1 bok choy\n* 1 quart of green peppers\n* 1 shallot\n* 1 head of garlic\n* 2 onions\n* 1 1/2 lbs. of carrots\n* 2 winter squash\n* 2 lbs. of potatoes\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2022/c9d51992b3.jpg\" width=\"600\" height=\"451\" alt=\"A spread of fresh vegetables\">\n",
+				"content_text": "Jacqueline and I are CSA shareholders at the local [Canticle Farm](https://www.canticlefarm.org/), sponsored by the Franciscan Sisters of Allegany. Today's pickup included:\n\n* 1/2 lbs. of spinach\n* 2 heads of lettuce\n* 1/2 lbs. of kale\n* 1 bok choy\n* 1 quart of green peppers\n* 1 shallot\n* 1 head of garlic\n* 2 onions\n* 1 1/2 lbs. of carrots\n* 2 winter squash\n* 2 lbs. of potatoes\n\n<img src=\"uploads/2022/c9d51992b3.jpg\" width=\"600\" height=\"451\" alt=\"A spread of fresh vegetables\">\n",
 				"date_published": "2022-10-25T19:58:44-04:00",
 				"url": "https://blog.andrewbelfield.com/2022/10/25/jacqueline-and-are.html"
 			},
@@ -2518,7 +2563,7 @@
 				"id": "http://drewbelf.micro.blog/2022/10/25/this-past-weekend.html",
 				
 				"content_html": "<p>This past weekend I participated in the <a href=\"https://www1.villanova.edu/university/liberal-arts-sciences/programs/theology/events/pmr.html\">47th Annual International Patristics, Medieval, and Renaissance Studies Conference</a> at Villanova University. I presented a paper on the christologies of the <em>Summa halensis</em> and Albert the Great, on a panel exploring the shared intellectual culture of Franciscan and Dominican theologians working at the University of Paris in the 1240s. Pictured here are <a href=\"https://www1.villanova.edu/university/liberal-arts-sciences/programs/humanities/faculty/biodetail.html?mail=kevin.hughes@villanova.edu\">Kevin Hughes</a> (Villanova University) and <a href=\"https://www.sbu.edu/news/news-items/2021/07/20/st.-bonaventure-s-franciscan-institute-appoints-franciscan-research-fellow\">Luke Togni</a> (Franciscan Institute, St. Bonaventure University), the organizers of the panel; <a href=\"https://divinity.uchicago.edu/directory/samuel-baudinette-0\">Sam Baudinette</a> (University of Chicago Divinity School), <a href=\"https://seaver.pepperdine.edu/academics/faculty/john-kern/\">John Kern</a> (Pepperdine University) and myself, the panelists; and <a href=\"https://www.bc.edu/bc-web/schools/mcas/departments/theology/people/faculty-directory/boyd-taylor-coolman.html\">Boyd Taylor Coolman</a> (Boston College), the panel&rsquo;s moderator.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This past weekend I participated in the [47th Annual International Patristics, Medieval, and Renaissance Studies Conference](https://www1.villanova.edu/university/liberal-arts-sciences/programs/theology/events/pmr.html) at Villanova University. I presented a paper on the christologies of the *Summa halensis* and Albert the Great, on a panel exploring the shared intellectual culture of Franciscan and Dominican theologians working at the University of Paris in the 1240s. Pictured here are [Kevin Hughes](https://www1.villanova.edu/university/liberal-arts-sciences/programs/humanities/faculty/biodetail.html?mail=kevin.hughes@villanova.edu) (Villanova University) and [Luke Togni](https://www.sbu.edu/news/news-items/2021/07/20/st.-bonaventure-s-franciscan-institute-appoints-franciscan-research-fellow) (Franciscan Institute, St. Bonaventure University), the organizers of the panel; [Sam Baudinette](https://divinity.uchicago.edu/directory/samuel-baudinette-0) (University of Chicago Divinity School), [John Kern](https://seaver.pepperdine.edu/academics/faculty/john-kern/) (Pepperdine University) and myself, the panelists; and [Boyd Taylor Coolman](https://www.bc.edu/bc-web/schools/mcas/departments/theology/people/faculty-directory/boyd-taylor-coolman.html) (Boston College), the panel's moderator.\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2022/bb61dc73bc.jpg\" width=\"600\" height=\"450\" alt=\"Kevin Hughes, Luke Togni, Sam Baudinette, John Kern, Andrew Belfield, and Boyd Taylor Coolman at the PMR, 2022\">\n",
+				"content_text": "This past weekend I participated in the [47th Annual International Patristics, Medieval, and Renaissance Studies Conference](https://www1.villanova.edu/university/liberal-arts-sciences/programs/theology/events/pmr.html) at Villanova University. I presented a paper on the christologies of the *Summa halensis* and Albert the Great, on a panel exploring the shared intellectual culture of Franciscan and Dominican theologians working at the University of Paris in the 1240s. Pictured here are [Kevin Hughes](https://www1.villanova.edu/university/liberal-arts-sciences/programs/humanities/faculty/biodetail.html?mail=kevin.hughes@villanova.edu) (Villanova University) and [Luke Togni](https://www.sbu.edu/news/news-items/2021/07/20/st.-bonaventure-s-franciscan-institute-appoints-franciscan-research-fellow) (Franciscan Institute, St. Bonaventure University), the organizers of the panel; [Sam Baudinette](https://divinity.uchicago.edu/directory/samuel-baudinette-0) (University of Chicago Divinity School), [John Kern](https://seaver.pepperdine.edu/academics/faculty/john-kern/) (Pepperdine University) and myself, the panelists; and [Boyd Taylor Coolman](https://www.bc.edu/bc-web/schools/mcas/departments/theology/people/faculty-directory/boyd-taylor-coolman.html) (Boston College), the panel's moderator.\n\n<img src=\"uploads/2022/bb61dc73bc.jpg\" width=\"600\" height=\"450\" alt=\"Kevin Hughes, Luke Togni, Sam Baudinette, John Kern, Andrew Belfield, and Boyd Taylor Coolman at the PMR, 2022\">\n",
 				"date_published": "2022-10-25T15:16:07-04:00",
 				"url": "https://blog.andrewbelfield.com/2022/10/25/this-past-weekend.html",
 				"tags": ["theology","travel"]
@@ -2599,7 +2644,7 @@
 				"id": "http://drewbelf.micro.blog/2022/09/18/enthusiastic-dog-owners.html",
 				
 				"content_html": "<p>Enthusiastic dog owners at Letchworth State Park</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Enthusiastic dog owners at Letchworth State Park\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2022/ae6b186866.jpg\" width=\"600\" height=\"400\" alt=\"Man photographs his dog on a stump\" />\n",
+				"content_text": "Enthusiastic dog owners at Letchworth State Park\n\n<img src=\"uploads/2022/ae6b186866.jpg\" width=\"600\" height=\"400\" alt=\"Man photographs his dog on a stump\" />\n",
 				"date_published": "2022-09-18T17:04:04-04:00",
 				"url": "https://blog.andrewbelfield.com/2022/09/18/enthusiastic-dog-owners.html",
 				"tags": ["film","travel"]
@@ -2635,7 +2680,7 @@
 				"id": "http://drewbelf.micro.blog/2022/09/07/195702.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2022/49b8068b61.jpg\" width=\"600\" height=\"400\" alt=\"Toy man on a bench\" />\n",
+				"content_text": "\n\n<img src=\"uploads/2022/49b8068b61.jpg\" width=\"600\" height=\"400\" alt=\"Toy man on a bench\" />\n",
 				"date_published": "2022-09-07T19:57:02-04:00",
 				"url": "https://blog.andrewbelfield.com/2022/09/07/195702.html",
 				"tags": ["film","travel"]
@@ -2644,7 +2689,7 @@
 				"id": "http://drewbelf.micro.blog/2022/09/04/is-this-apostolic.html",
 				
 				"content_html": "<p>Is this <em>Apostolic Fathers</em> book (a scholarly collection of writings significant to early Christian history) deliberately designed to resemble the design of the <em>Left Behind</em> series (a flatfootedly literal and theologically unsophisticated fever dream of what the end of the world would look like &ldquo;according to&rdquo; the book of Revelation)?</p>\n<!-- raw HTML omitted -->\n<p>For reference:</p>\n<!-- raw HTML omitted -->\n<p>Strange choice, if so.</p>\n",
-				"content_text": "Is this *Apostolic Fathers* book (a scholarly collection of writings significant to early Christian history) deliberately designed to resemble the design of the *Left Behind* series (a flatfootedly literal and theologically unsophisticated fever dream of what the end of the world would look like \"according to\" the book of Revelation)?\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2022/6b0d2e20e8.jpg\" width=\"600\" height=\"451\" alt=\"Spines of The Apostolic Fathers and other library books\" />\n\n\nFor reference:\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2022/afb02c49d7.jpg\" width=\"600\" height=\"374\" alt=\"Spines of the books in the Left Behind series\" />\n\n\nStrange choice, if so.\n",
+				"content_text": "Is this *Apostolic Fathers* book (a scholarly collection of writings significant to early Christian history) deliberately designed to resemble the design of the *Left Behind* series (a flatfootedly literal and theologically unsophisticated fever dream of what the end of the world would look like \"according to\" the book of Revelation)?\n\n<img src=\"uploads/2022/6b0d2e20e8.jpg\" width=\"600\" height=\"451\" alt=\"Spines of The Apostolic Fathers and other library books\" />\n\n\nFor reference:\n\n<img src=\"uploads/2022/afb02c49d7.jpg\" width=\"600\" height=\"374\" alt=\"Spines of the books in the Left Behind series\" />\n\n\nStrange choice, if so.\n",
 				"date_published": "2022-09-04T18:18:11-04:00",
 				"url": "https://blog.andrewbelfield.com/2022/09/04/is-this-apostolic.html",
 				"tags": ["reading"]
@@ -2653,7 +2698,7 @@
 				"id": "http://drewbelf.micro.blog/2022/09/02/103226.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2022/b88f5e7c51.jpg\" width=\"600\" height=\"599\" alt=\"Title page of the Summa Halensis\" />\n",
+				"content_text": "\n\n<img src=\"uploads/2022/b88f5e7c51.jpg\" width=\"600\" height=\"599\" alt=\"Title page of the Summa Halensis\" />\n",
 				"date_published": "2022-09-02T10:32:26-04:00",
 				"url": "https://blog.andrewbelfield.com/2022/09/02/103226.html",
 				"tags": ["reading","theology"]
@@ -2689,7 +2734,7 @@
 				"id": "http://drewbelf.micro.blog/2022/08/30/hawk-against-the.html",
 				
 				"content_html": "<p>Hawk against the clouds</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Hawk against the clouds\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2022/5ca825edf8.jpg\" width=\"451\" height=\"600\" alt=\"Hawk against clouds\" />\n",
+				"content_text": "Hawk against the clouds\n\n<img src=\"uploads/2022/5ca825edf8.jpg\" width=\"451\" height=\"600\" alt=\"Hawk against clouds\" />\n",
 				"date_published": "2022-08-30T18:05:47-04:00",
 				"url": "https://blog.andrewbelfield.com/2022/08/30/hawk-against-the.html"
 			},
@@ -2697,7 +2742,7 @@
 				"id": "http://drewbelf.micro.blog/2022/08/28/ready-almost-for.html",
 				
 				"content_html": "<p>Ready (almost) for the new semester</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Ready (almost) for the new semester\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2022/c7958c5836.jpg\" width=\"600\" height=\"451\" alt=\"Chalkboard with to-do items mostly checked off\" />\n",
+				"content_text": "Ready (almost) for the new semester\n\n<img src=\"uploads/2022/c7958c5836.jpg\" width=\"600\" height=\"451\" alt=\"Chalkboard with to-do items mostly checked off\" />\n",
 				"date_published": "2022-08-28T08:46:19-04:00",
 				"url": "https://blog.andrewbelfield.com/2022/08/28/ready-almost-for.html"
 			},
@@ -2741,7 +2786,7 @@
 				"id": "http://drewbelf.micro.blog/2022/08/20/the-middle-falls.html",
 				
 				"content_html": "<p>The Middle Falls at Letchworth State Park near Castile, New York 📷</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The Middle Falls at Letchworth State Park near Castile, New York 📷\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2022/c8f491c9c0.jpg\" width=\"600\" height=\"451\" alt=\"Middle Falls at Letchworth State Park\" />\n",
+				"content_text": "The Middle Falls at Letchworth State Park near Castile, New York 📷\n\n<img src=\"uploads/2022/c8f491c9c0.jpg\" width=\"600\" height=\"451\" alt=\"Middle Falls at Letchworth State Park\" />\n",
 				"date_published": "2022-08-20T16:47:47-04:00",
 				"url": "https://blog.andrewbelfield.com/2022/08/20/the-middle-falls.html",
 				"tags": ["travel"]
@@ -2786,7 +2831,7 @@
 				"id": "http://drewbelf.micro.blog/2022/08/11/today-is-the.html",
 				
 				"content_html": "<p>Today is the feast of Saint Clare of Assisi! I like to imagine this portrait, appearing in one of Simone Martini&rsquo;s frescoes in the lower basilica of Saint Francis of Assisi, captures the look Clare would give prelates like Pope Gregory IX when they tried to move her away from a more Franciscan-style rule.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Today is the feast of Saint Clare of Assisi! I like to imagine this portrait, appearing in one of Simone Martini's frescoes in the lower basilica of Saint Francis of Assisi, captures the look Clare would give prelates like Pope Gregory IX when they tried to move her away from a more Franciscan-style rule.\n\n<a href=\"https://commons.wikimedia.org/wiki/File:Simone_Martini_047.jpg\"><img src=\"https://cdn.uploads.micro.blog/57396/2022/f227797695.jpg\" width=\"394\" height=\"480\" title=\"Simone Martini / Wikimedia Commons / Public Domain\" alt=\"Saint Clare of Assisi\" /></a>\n",
+				"content_text": "Today is the feast of Saint Clare of Assisi! I like to imagine this portrait, appearing in one of Simone Martini's frescoes in the lower basilica of Saint Francis of Assisi, captures the look Clare would give prelates like Pope Gregory IX when they tried to move her away from a more Franciscan-style rule.\n\n<a href=\"https://commons.wikimedia.org/wiki/File:Simone_Martini_047.jpg\"><img src=\"uploads/2022/f227797695.jpg\" width=\"394\" height=\"480\" title=\"Simone Martini / Wikimedia Commons / Public Domain\" alt=\"Saint Clare of Assisi\" /></a>\n",
 				"date_published": "2022-08-11T10:56:42-04:00",
 				"url": "https://blog.andrewbelfield.com/2022/08/11/today-is-the.html",
 				"tags": ["theology"]
@@ -2804,7 +2849,7 @@
 				"id": "http://drewbelf.micro.blog/2022/08/10/reviewing-my-first.html",
 				
 				"content_html": "<p>Reviewing my first roll of film photography, and I really like the texture in this one (in both the grain of the film and the splintered trunk).</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Reviewing my first roll of film photography, and I really like the texture in this one (in both the grain of the film and the splintered trunk).\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2022/b7b08f226f.jpg\" width=\"600\" height=\"397\" alt=\"Splintered tree branch\" />\n",
+				"content_text": "Reviewing my first roll of film photography, and I really like the texture in this one (in both the grain of the film and the splintered trunk).\n\n<img src=\"uploads/2022/b7b08f226f.jpg\" width=\"600\" height=\"397\" alt=\"Splintered tree branch\" />\n",
 				"date_published": "2022-08-10T15:21:42-04:00",
 				"url": "https://blog.andrewbelfield.com/2022/08/10/reviewing-my-first.html",
 				"tags": ["film"]
@@ -2876,7 +2921,7 @@
 				"id": "http://drewbelf.micro.blog/2022/08/01/took-my-new.html",
 				
 				"content_html": "<p>Took my new electric bike for its first ride today</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Took my new electric bike for its first ride today\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2022/e533cbd3c6.jpg\" width=\"452\" height=\"600\" alt=\"Electric bike in front of the main entrance of St. Bonaventure University\" />\n",
+				"content_text": "Took my new electric bike for its first ride today\n\n<img src=\"uploads/2022/e533cbd3c6.jpg\" width=\"452\" height=\"600\" alt=\"Electric bike in front of the main entrance of St. Bonaventure University\" />\n",
 				"date_published": "2022-08-01T13:37:16-04:00",
 				"url": "https://blog.andrewbelfield.com/2022/08/01/took-my-new.html"
 			},
@@ -2884,7 +2929,7 @@
 				"id": "http://drewbelf.micro.blog/2022/08/01/the-dock-behind.html",
 				
 				"content_html": "<p>The dock behind Fontainebleau Inn on Cayuta Lake</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The dock behind Fontainebleau Inn on Cayuta Lake\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2022/92a3baa772.jpg\" width=\"600\" height=\"451\" alt=\"Dock in a lake\" />\n",
+				"content_text": "The dock behind Fontainebleau Inn on Cayuta Lake\n\n<img src=\"uploads/2022/92a3baa772.jpg\" width=\"600\" height=\"451\" alt=\"Dock in a lake\" />\n",
 				"date_published": "2022-08-01T08:21:10-04:00",
 				"url": "https://blog.andrewbelfield.com/2022/08/01/the-dock-behind.html",
 				"tags": ["travel"]
@@ -2893,7 +2938,7 @@
 				"id": "http://drewbelf.micro.blog/2022/07/29/fontainebleau-inn-near.html",
 				
 				"content_html": "<p>Cayuta Lake near Watkins Glen, New York</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Cayuta Lake near Watkins Glen, New York\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2022/cf5eedde95.jpg\" width=\"600\" height=\"451\" alt=\"Lake and sky\" />\n",
+				"content_text": "Cayuta Lake near Watkins Glen, New York\n\n<img src=\"uploads/2022/cf5eedde95.jpg\" width=\"600\" height=\"451\" alt=\"Lake and sky\" />\n",
 				"date_published": "2022-07-29T14:09:53-04:00",
 				"url": "https://blog.andrewbelfield.com/2022/07/29/fontainebleau-inn-near.html",
 				"tags": ["travel"]
@@ -2911,7 +2956,7 @@
 				"id": "http://drewbelf.micro.blog/2022/07/21/had-a-great.html",
 				
 				"content_html": "<p>Had a great time <a href=\"https://blog.andrewbelfield.com/2022/07/20/at-ommegang-brewery.html\">last night</a> seeing <a href=\"https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP?si=OLGypsccQvulUh3W-C8SyA\">Lucy Dacus</a> and <a href=\"https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB?si=K5Ur-9eQSIiX40RX9OShBg\">The National</a>. It was, start to finish, one of the best concert experiences I&rsquo;ve ever had. The venue was very well organized, the setting was beatiful, and the crowd was energetic without being obnoxious.</p>\n<!-- raw HTML omitted -->\n<p>Lucy Dacus performing <a href=\"https://open.spotify.com/track/3KRdLDjxlAY7ku93tOG0b1?si=0142c80e456e487e\">&ldquo;Kissing Lessons.”</a></p>\n<!-- raw HTML omitted -->\n<p>I love how dramatic Matt Berninger is.</p>\n<!-- raw HTML omitted -->\n<p><a href=\"https://open.spotify.com/track/5M9U88s5o3qNFN8vq2Z9yb?si=fdf804d4e87d486d\">&ldquo;Conversation 16&rdquo;</a>, which Aaron Dressner introduced as their &ldquo;creepy&rdquo; song. (As Jacqueline pointed out, a <a href=\"https://www.youtube.com/watch?v=zPUe7O3ODHQ\">Disney</a> <a href=\"https://www.youtube.com/watch?v=4ylddTAX8KM\">villain</a> <a href=\"https://www.youtube.com/watch?v=Y0JoW27fxUw\">would approve of</a> <a href=\"https://www.youtube.com/watch?v=g00kEcGh4j8\">the green lighting</a>.)</p>\n<!-- raw HTML omitted -->\n<p>He would often stand on one of the stage monitors and just gaze out into the middle distance.</p>\n<p>You can find setlists for Lucy Dacus and The National <a href=\"https://www.setlist.fm/setlist/lucy-dacus/2022/brewery-ommegang-cooperstown-ny-7bb2f278.html\">here</a> and <a href=\"https://www.setlist.fm/setlist/the-national/2022/brewery-ommegang-cooperstown-ny-53b2ff69.html\">here</a>. 🎵</p>\n",
-				"content_text": "Had a great time [last night](https://blog.andrewbelfield.com/2022/07/20/at-ommegang-brewery.html) seeing [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP?si=OLGypsccQvulUh3W-C8SyA) and [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB?si=K5Ur-9eQSIiX40RX9OShBg). It was, start to finish, one of the best concert experiences I've ever had. The venue was very well organized, the setting was beatiful, and the crowd was energetic without being obnoxious.\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2022/12f4e70cb2.jpg\" width=\"600\" height=\"451\" alt=\"Lucy Dacus on stage\" />\n\nLucy Dacus performing [\"Kissing Lessons.”](https://open.spotify.com/track/3KRdLDjxlAY7ku93tOG0b1?si=0142c80e456e487e)\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2022/c990f7b7d0.jpg\" width=\"600\" height=\"451\" alt=\"The National on stage; Matt Berninger's arm covering his face\" />\n\nI love how dramatic Matt Berninger is.\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2022/f34416360d.jpg\" width=\"600\" height=\"451\" alt=\"The National on stage, with green lights everywhere\" />\n\n[\"Conversation 16\"](https://open.spotify.com/track/5M9U88s5o3qNFN8vq2Z9yb?si=fdf804d4e87d486d), which Aaron Dressner introduced as their \"creepy\" song. (As Jacqueline pointed out, a [Disney](https://www.youtube.com/watch?v=zPUe7O3ODHQ) [villain](https://www.youtube.com/watch?v=4ylddTAX8KM) [would approve of](https://www.youtube.com/watch?v=Y0JoW27fxUw) [the green lighting](https://www.youtube.com/watch?v=g00kEcGh4j8).)\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2022/f02b7a1f73.jpg\" width=\"600\" height=\"451\" alt=\"The National on stage\" />\n\nHe would often stand on one of the stage monitors and just gaze out into the middle distance.\n\nYou can find setlists for Lucy Dacus and The National [here](https://www.setlist.fm/setlist/lucy-dacus/2022/brewery-ommegang-cooperstown-ny-7bb2f278.html) and [here](https://www.setlist.fm/setlist/the-national/2022/brewery-ommegang-cooperstown-ny-53b2ff69.html). 🎵\n",
+				"content_text": "Had a great time [last night](https://blog.andrewbelfield.com/2022/07/20/at-ommegang-brewery.html) seeing [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP?si=OLGypsccQvulUh3W-C8SyA) and [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB?si=K5Ur-9eQSIiX40RX9OShBg). It was, start to finish, one of the best concert experiences I've ever had. The venue was very well organized, the setting was beatiful, and the crowd was energetic without being obnoxious.\n\n<img src=\"uploads/2022/12f4e70cb2.jpg\" width=\"600\" height=\"451\" alt=\"Lucy Dacus on stage\" />\n\nLucy Dacus performing [\"Kissing Lessons.”](https://open.spotify.com/track/3KRdLDjxlAY7ku93tOG0b1?si=0142c80e456e487e)\n\n<img src=\"uploads/2022/c990f7b7d0.jpg\" width=\"600\" height=\"451\" alt=\"The National on stage; Matt Berninger's arm covering his face\" />\n\nI love how dramatic Matt Berninger is.\n\n<img src=\"uploads/2022/f34416360d.jpg\" width=\"600\" height=\"451\" alt=\"The National on stage, with green lights everywhere\" />\n\n[\"Conversation 16\"](https://open.spotify.com/track/5M9U88s5o3qNFN8vq2Z9yb?si=fdf804d4e87d486d), which Aaron Dressner introduced as their \"creepy\" song. (As Jacqueline pointed out, a [Disney](https://www.youtube.com/watch?v=zPUe7O3ODHQ) [villain](https://www.youtube.com/watch?v=4ylddTAX8KM) [would approve of](https://www.youtube.com/watch?v=Y0JoW27fxUw) [the green lighting](https://www.youtube.com/watch?v=g00kEcGh4j8).)\n\n<img src=\"uploads/2022/f02b7a1f73.jpg\" width=\"600\" height=\"451\" alt=\"The National on stage\" />\n\nHe would often stand on one of the stage monitors and just gaze out into the middle distance.\n\nYou can find setlists for Lucy Dacus and The National [here](https://www.setlist.fm/setlist/lucy-dacus/2022/brewery-ommegang-cooperstown-ny-7bb2f278.html) and [here](https://www.setlist.fm/setlist/the-national/2022/brewery-ommegang-cooperstown-ny-53b2ff69.html). 🎵\n",
 				"date_published": "2022-07-21T18:13:50-04:00",
 				"url": "https://blog.andrewbelfield.com/2022/07/21/had-a-great.html",
 				"tags": ["music","travel"]
@@ -2920,7 +2965,7 @@
 				"id": "http://drewbelf.micro.blog/2022/07/20/at-ommegang-brewery.html",
 				
 				"content_html": "<p>At Ommegang Brewery near Cooperstown, NY, to see <a href=\"https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP?si=OLGypsccQvulUh3W-C8SyA\">Lucy Dacus</a> and <a href=\"https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB?si=K5Ur-9eQSIiX40RX9OShBg\">The National</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "At Ommegang Brewery near Cooperstown, NY, to see [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP?si=OLGypsccQvulUh3W-C8SyA) and [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB?si=K5Ur-9eQSIiX40RX9OShBg)\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2022/bdc5927dc0.jpg\" width=\"600\" height=\"451\" alt=\"Stage awaiting live performers\" />\n",
+				"content_text": "At Ommegang Brewery near Cooperstown, NY, to see [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP?si=OLGypsccQvulUh3W-C8SyA) and [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB?si=K5Ur-9eQSIiX40RX9OShBg)\n\n<img src=\"uploads/2022/bdc5927dc0.jpg\" width=\"600\" height=\"451\" alt=\"Stage awaiting live performers\" />\n",
 				"date_published": "2022-07-20T18:12:36-04:00",
 				"url": "https://blog.andrewbelfield.com/2022/07/20/at-ommegang-brewery.html",
 				"tags": ["music","travel"]
@@ -2929,7 +2974,7 @@
 				"id": "http://drewbelf.micro.blog/2022/07/20/some-pictures-of.html",
 				
 				"content_html": "<p>Some pictures of St. Bonaventure University taken with <a href=\"https://blog.andrewbelfield.com/2022/04/15/a-recent-ebay.html\">my Pentax K1000</a> on (I think) Fujicolor 200. I&rsquo;m not entirely satisfied with these pictures; the color is a little underwhelming to me, which may be a consequence of either the film itself or the UV filter I&rsquo;ve used. The color of the sky is especially drab; it should be more blue than gray!</p>\n<!-- raw HTML omitted -->\n<p><a href=\"http://archives.sbu.edu/studentpages/buildings/Friedsam%20Memorial%20Library.htm\">Friedsam Memorial Library</a>, where I spend about <a href=\"https://www.oliverburkeman.com/fourhours\">3 to 4 hours each weekday</a> reading and researching for my book project. (The other hours of the workday are spent collating notes, tracking down citations, planning the research, etc.)</p>\n<!-- raw HTML omitted -->\n<p>The story I&rsquo;d heard told about St. Joseph&rsquo;s Oratory is this: when construction on the dining hall was completed, the University used the leftover bricks to build this oratory for the sisters working in the dining hall so they would have a place for quiet and prayer between meals. (I&rsquo;m not sure that&rsquo;s true now, given that <a href=\"http://archives.sbu.edu/studentpages/buildings/Devereux.htm\">this webpage</a> reports the oratory as a gift from an Olean resident.) When I was a student here it was mostly empty, though in the years after I graduated one of the friars turned it into a chapel for perpetual eucharistic adoration. I don&rsquo;t think it serves that role any longer.</p>\n<!-- raw HTML omitted -->\n<p>The courtyard of <a href=\"http://archives.sbu.edu/studentpages/buildings/Devereux.htm\">Devereux Hall</a>, the oldest building (I think) on campus. Thomas Merton lived here (though on the other side of the building) when he taught at St. Bonaventure just before joining the Trappists. I love how the building almost entirely consumed with ivy.</p>\n<!-- raw HTML omitted -->\n<p>A detail of the ivy that hangs from Devereux Hall. This is, I think, my favorite of the set; the colors here (especially the green of the ivy) are more vibrant, and the light dances off the ivy.</p>\n<!-- raw HTML omitted -->\n<p>The main quad.</p>\n<!-- raw HTML omitted -->\n<p>And finally, the bell tower and <a href=\"http://archives.sbu.edu/chapel/index.htm\">university chapel</a>. The bells are missing (I think they were taken down for some repair).</p>\n",
-				"content_text": "Some pictures of St. Bonaventure University taken with [my Pentax K1000](https://blog.andrewbelfield.com/2022/04/15/a-recent-ebay.html) on (I think) Fujicolor 200. I'm not entirely satisfied with these pictures; the color is a little underwhelming to me, which may be a consequence of either the film itself or the UV filter I've used. The color of the sky is especially drab; it should be more blue than gray!\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2022/922cd12d44.jpg\" width=\"600\" height=\"397\" alt=\"Friedsam Memorial Library\" />\n\n[Friedsam Memorial Library](http://archives.sbu.edu/studentpages/buildings/Friedsam%20Memorial%20Library.htm), where I spend about [3 to 4 hours each weekday](https://www.oliverburkeman.com/fourhours) reading and researching for my book project. (The other hours of the workday are spent collating notes, tracking down citations, planning the research, etc.)\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2022/b716efc624.jpg\" width=\"600\" height=\"904\" alt=\"St. Joseph Oratory\" />\n\nThe story I'd heard told about St. Joseph's Oratory is this: when construction on the dining hall was completed, the University used the leftover bricks to build this oratory for the sisters working in the dining hall so they would have a place for quiet and prayer between meals. (I'm not sure that's true now, given that [this webpage](http://archives.sbu.edu/studentpages/buildings/Devereux.htm) reports the oratory as a gift from an Olean resident.) When I was a student here it was mostly empty, though in the years after I graduated one of the friars turned it into a chapel for perpetual eucharistic adoration. I don't think it serves that role any longer.\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2022/fb4adc8f57.jpg\" width=\"600\" height=\"397\" alt=\"Devereux Hall\" />\n\nThe courtyard of [Devereux Hall](http://archives.sbu.edu/studentpages/buildings/Devereux.htm), the oldest building (I think) on campus. Thomas Merton lived here (though on the other side of the building) when he taught at St. Bonaventure just before joining the Trappists. I love how the building almost entirely consumed with ivy.\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2022/b7de219821.jpg\" width=\"600\" height=\"397\" alt=\"Ivy on Devereux\" />\n\nA detail of the ivy that hangs from Devereux Hall. This is, I think, my favorite of the set; the colors here (especially the green of the ivy) are more vibrant, and the light dances off the ivy.\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2022/0110b65cba.jpg\" width=\"600\" height=\"397\" alt=\"The main quad at St. Bonaventure University\" />\n\nThe main quad.\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2022/ca04356849.jpg\" width=\"600\" height=\"904\" alt=\"\" />\n\nAnd finally, the bell tower and [university chapel](http://archives.sbu.edu/chapel/index.htm). The bells are missing (I think they were taken down for some repair).\n",
+				"content_text": "Some pictures of St. Bonaventure University taken with [my Pentax K1000](https://blog.andrewbelfield.com/2022/04/15/a-recent-ebay.html) on (I think) Fujicolor 200. I'm not entirely satisfied with these pictures; the color is a little underwhelming to me, which may be a consequence of either the film itself or the UV filter I've used. The color of the sky is especially drab; it should be more blue than gray!\n\n<img src=\"uploads/2022/922cd12d44.jpg\" width=\"600\" height=\"397\" alt=\"Friedsam Memorial Library\" />\n\n[Friedsam Memorial Library](http://archives.sbu.edu/studentpages/buildings/Friedsam%20Memorial%20Library.htm), where I spend about [3 to 4 hours each weekday](https://www.oliverburkeman.com/fourhours) reading and researching for my book project. (The other hours of the workday are spent collating notes, tracking down citations, planning the research, etc.)\n\n<img src=\"uploads/2022/b716efc624.jpg\" width=\"600\" height=\"904\" alt=\"St. Joseph Oratory\" />\n\nThe story I'd heard told about St. Joseph's Oratory is this: when construction on the dining hall was completed, the University used the leftover bricks to build this oratory for the sisters working in the dining hall so they would have a place for quiet and prayer between meals. (I'm not sure that's true now, given that [this webpage](http://archives.sbu.edu/studentpages/buildings/Devereux.htm) reports the oratory as a gift from an Olean resident.) When I was a student here it was mostly empty, though in the years after I graduated one of the friars turned it into a chapel for perpetual eucharistic adoration. I don't think it serves that role any longer.\n\n<img src=\"uploads/2022/fb4adc8f57.jpg\" width=\"600\" height=\"397\" alt=\"Devereux Hall\" />\n\nThe courtyard of [Devereux Hall](http://archives.sbu.edu/studentpages/buildings/Devereux.htm), the oldest building (I think) on campus. Thomas Merton lived here (though on the other side of the building) when he taught at St. Bonaventure just before joining the Trappists. I love how the building almost entirely consumed with ivy.\n\n<img src=\"uploads/2022/b7de219821.jpg\" width=\"600\" height=\"397\" alt=\"Ivy on Devereux\" />\n\nA detail of the ivy that hangs from Devereux Hall. This is, I think, my favorite of the set; the colors here (especially the green of the ivy) are more vibrant, and the light dances off the ivy.\n\n<img src=\"uploads/2022/0110b65cba.jpg\" width=\"600\" height=\"397\" alt=\"The main quad at St. Bonaventure University\" />\n\nThe main quad.\n\n<img src=\"uploads/2022/ca04356849.jpg\" width=\"600\" height=\"904\" alt=\"\" />\n\nAnd finally, the bell tower and [university chapel](http://archives.sbu.edu/chapel/index.htm). The bells are missing (I think they were taken down for some repair).\n",
 				"date_published": "2022-07-20T13:03:47-04:00",
 				"url": "https://blog.andrewbelfield.com/2022/07/20/some-pictures-of.html",
 				"tags": ["film"]
@@ -2947,7 +2992,7 @@
 				"id": "http://drewbelf.micro.blog/2022/07/19/nicholas-roerichs-st.html",
 				
 				"content_html": "<p><!-- raw HTML omitted -->Nicholas Roerich<!-- raw HTML omitted -->&rsquo;s &ldquo;St. Francis&rdquo; (1932)</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "<a href=\"https://en.wikipedia.org/wiki/Nicholas_Roerich\">Nicholas Roerich</a>'s \"St. Francis\" (1932)\n\n<a href=\"https://commons.wikimedia.org/wiki/File:St._Francis.jpg\"><img src=\"https://cdn.uploads.micro.blog/57396/2022/618e38d5be.jpg\" width=\"422\" height=\"600\" title=\"Nicholas Roerich / Wikimedia Commons / Public Domain\" alt=\"St. Francis\" /></a>\n",
+				"content_text": "<a href=\"https://en.wikipedia.org/wiki/Nicholas_Roerich\">Nicholas Roerich</a>'s \"St. Francis\" (1932)\n\n<a href=\"https://commons.wikimedia.org/wiki/File:St._Francis.jpg\"><img src=\"uploads/2022/618e38d5be.jpg\" width=\"422\" height=\"600\" title=\"Nicholas Roerich / Wikimedia Commons / Public Domain\" alt=\"St. Francis\" /></a>\n",
 				"date_published": "2022-07-19T11:31:03-04:00",
 				"url": "https://blog.andrewbelfield.com/2022/07/19/nicholas-roerichs-st.html",
 				"tags": ["theology"]
@@ -2965,7 +3010,7 @@
 				"id": "http://drewbelf.micro.blog/2022/07/15/today-is-the.html",
 				
 				"content_html": "<p>Today marks the feast of St. Bonaventure, the patron of my alma mater and the university where I teach. Here is a young Bonaventure receiving the Franciscan habit (from none other than St. Francis himself, allegorically if not literally), as imagined by Francisco Herrera the Elder in 1628.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Today marks the feast of St. Bonaventure, the patron of my alma mater and the university where I teach. Here is a young Bonaventure receiving the Franciscan habit (from none other than St. Francis himself, allegorically if not literally), as imagined by Francisco Herrera the Elder in 1628.\n\n<a href=\"https://commons.wikimedia.org/wiki/File:San_Buenaventura_recibe_el_h%C3%A1bito_de_San_Francisco,_por_Francisco_de_Herrera_el_Viejo.jpg\"><img src=\"https://cdn.uploads.micro.blog/57396/2022/8bf60f34cf.jpg\" width=\"550\" height=\"600\" alt=\"Bonaventure kneels before a line of Franciscan brothers\" title=\"Francisco Herrera the Elder / Wikimedia Commons / Public Domain\"/></a>\n",
+				"content_text": "Today marks the feast of St. Bonaventure, the patron of my alma mater and the university where I teach. Here is a young Bonaventure receiving the Franciscan habit (from none other than St. Francis himself, allegorically if not literally), as imagined by Francisco Herrera the Elder in 1628.\n\n<a href=\"https://commons.wikimedia.org/wiki/File:San_Buenaventura_recibe_el_h%C3%A1bito_de_San_Francisco,_por_Francisco_de_Herrera_el_Viejo.jpg\"><img src=\"uploads/2022/8bf60f34cf.jpg\" width=\"550\" height=\"600\" alt=\"Bonaventure kneels before a line of Franciscan brothers\" title=\"Francisco Herrera the Elder / Wikimedia Commons / Public Domain\"/></a>\n",
 				"date_published": "2022-07-15T15:24:33-04:00",
 				"url": "https://blog.andrewbelfield.com/2022/07/15/today-is-the.html",
 				"tags": ["theology"]
@@ -3001,7 +3046,7 @@
 				"id": "http://drewbelf.micro.blog/2022/07/11/102120.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2022/a26db00aff.jpg\" width=\"599\" height=\"600\" alt=\"Friedsam Memorial Library\" />\n",
+				"content_text": "\n\n<img src=\"uploads/2022/a26db00aff.jpg\" width=\"599\" height=\"600\" alt=\"Friedsam Memorial Library\" />\n",
 				"date_published": "2022-07-11T10:21:20-04:00",
 				"url": "https://blog.andrewbelfield.com/2022/07/11/102120.html"
 			},
@@ -3063,7 +3108,7 @@
 				"id": "http://drewbelf.micro.blog/2022/07/04/steam-rises-from.html",
 				
 				"content_html": "<p>Steam rises from the &ldquo;ausoles más grande de Centroamérica&rdquo; near Ahuachapan, El Salvador.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Steam rises from the \"ausoles más grande de Centroamérica\" near Ahuachapan, El Salvador.\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2022/b00605aa31.jpg\" width=\"600\" height=\"451\" alt=\"Steam rising\" />\n",
+				"content_text": "Steam rises from the \"ausoles más grande de Centroamérica\" near Ahuachapan, El Salvador.\n\n<img src=\"uploads/2022/b00605aa31.jpg\" width=\"600\" height=\"451\" alt=\"Steam rising\" />\n",
 				"date_published": "2022-07-04T23:47:40-04:00",
 				"url": "https://blog.andrewbelfield.com/2022/07/04/steam-rises-from.html",
 				"tags": ["travel"]
@@ -3072,7 +3117,7 @@
 				"id": "http://drewbelf.micro.blog/2022/07/03/catedral-metropolitana-de.html",
 				
 				"content_html": "<p>Catedral Metropolitana de San Salvador</p>\n<p><!-- raw HTML omitted --></p>\n",
-				"content_text": "Catedral Metropolitana de San Salvador\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2022/3ee13912ec.jpg\" width=\"600\" height=\"451\" alt=\"Catedral Metropolitana de San Salvador\n\" />\n",
+				"content_text": "Catedral Metropolitana de San Salvador\n\n<img src=\"uploads/2022/3ee13912ec.jpg\" width=\"600\" height=\"451\" alt=\"Catedral Metropolitana de San Salvador\n\" />\n",
 				"date_published": "2022-07-03T16:22:03-04:00",
 				"url": "https://blog.andrewbelfield.com/2022/07/03/catedral-metropolitana-de.html",
 				"tags": ["travel"]
@@ -3081,7 +3126,7 @@
 				"id": "http://drewbelf.micro.blog/2022/07/03/street-art-in.html",
 				
 				"content_html": "<p>Street art in San Salvador</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Street art in San Salvador\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2022/582aa23d68.jpg\" width=\"600\" height=\"451\" alt=\"\" />\n",
+				"content_text": "Street art in San Salvador\n\n<img src=\"uploads/2022/582aa23d68.jpg\" width=\"600\" height=\"451\" alt=\"\" />\n",
 				"date_published": "2022-07-03T16:20:23-04:00",
 				"url": "https://blog.andrewbelfield.com/2022/07/03/street-art-in.html",
 				"tags": ["travel"]
@@ -3090,7 +3135,7 @@
 				"id": "http://drewbelf.micro.blog/2022/07/03/the-market-in.html",
 				
 				"content_html": "<p>The market in San Salvador</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The market in San Salvador\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2022/d5e5ced0d8.jpg\" width=\"599\" height=\"600\" alt=\"Many booths\" />\n",
+				"content_text": "The market in San Salvador\n\n<img src=\"uploads/2022/d5e5ced0d8.jpg\" width=\"599\" height=\"600\" alt=\"Many booths\" />\n",
 				"date_published": "2022-07-03T15:43:01-04:00",
 				"url": "https://blog.andrewbelfield.com/2022/07/03/the-market-in.html",
 				"tags": ["travel"]
@@ -3099,7 +3144,7 @@
 				"id": "http://drewbelf.micro.blog/2022/06/29/somewhere-between-miami.html",
 				
 				"content_html": "<p>Somewhere between Miami and San Salvador</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Somewhere between Miami and San Salvador\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2022/fe470c0f55.jpg\" width=\"600\" height=\"599\" alt=\"View from an airplane\" />\n",
+				"content_text": "Somewhere between Miami and San Salvador\n\n<img src=\"uploads/2022/fe470c0f55.jpg\" width=\"600\" height=\"599\" alt=\"View from an airplane\" />\n",
 				"date_published": "2022-06-29T22:08:05-04:00",
 				"url": "https://blog.andrewbelfield.com/2022/06/29/somewhere-between-miami.html",
 				"tags": ["travel"]
@@ -3153,7 +3198,7 @@
 				"id": "http://drewbelf.micro.blog/2022/06/23/one-of-the.html",
 				
 				"content_html": "<p>One of the peculiarities of writing a dissertation during 2020–21 was the lack of library access. I was fortunate in owning many of the materials I needed, and the library staff at Boston College did what they could to make their collection available to us. Still, I&rsquo;m glad to have more regular access to a library again (and one as good as the Franciscan Institute&rsquo;s in Friedsam Memorial Library!).</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "One of the peculiarities of writing a dissertation during 2020–21 was the lack of library access. I was fortunate in owning many of the materials I needed, and the library staff at Boston College did what they could to make their collection available to us. Still, I'm glad to have more regular access to a library again (and one as good as the Franciscan Institute's in Friedsam Memorial Library!).\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2022/f14d18c7d2.jpg\" width=\"600\" height=\"599\" alt=\"A line of books\" />\n",
+				"content_text": "One of the peculiarities of writing a dissertation during 2020–21 was the lack of library access. I was fortunate in owning many of the materials I needed, and the library staff at Boston College did what they could to make their collection available to us. Still, I'm glad to have more regular access to a library again (and one as good as the Franciscan Institute's in Friedsam Memorial Library!).\n\n<img src=\"uploads/2022/f14d18c7d2.jpg\" width=\"600\" height=\"599\" alt=\"A line of books\" />\n",
 				"date_published": "2022-06-23T15:15:06-04:00",
 				"url": "https://blog.andrewbelfield.com/2022/06/23/one-of-the.html",
 				"tags": ["reading","theology"]
@@ -3180,7 +3225,7 @@
 				"id": "http://drewbelf.micro.blog/2022/06/16/i-like-this.html",
 				
 				"content_html": "<p>I like this characterization of prayer, in the fourth book of the Franciscan <em>Summa halensis</em> (q.26, m.3, a.7; p. 720 in the 1622 Cologne edition). A quick and rough translation (verging on paraphrase, really):</p>\n<blockquote>\n<p>Properly speaking, prayer is the ascent of the soul to God ordered to the tasting or releasing of something; commonly speaking, prayer is any act of contemplation related to God; most commonly speaking, prayer is any good act.</p>\n</blockquote>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I like this characterization of prayer, in the fourth book of the Franciscan *Summa halensis* (q.26, m.3, a.7; p. 720 in the 1622 Cologne edition). A quick and rough translation (verging on paraphrase, really):\n\n> Properly speaking, prayer is the ascent of the soul to God ordered to the tasting or releasing of something; commonly speaking, prayer is any act of contemplation related to God; most commonly speaking, prayer is any good act.\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2022/9a7ad2e3bd.png\" width=\"600\" height=\"600\" alt=\"A block of text\" />\n",
+				"content_text": "I like this characterization of prayer, in the fourth book of the Franciscan *Summa halensis* (q.26, m.3, a.7; p. 720 in the 1622 Cologne edition). A quick and rough translation (verging on paraphrase, really):\n\n> Properly speaking, prayer is the ascent of the soul to God ordered to the tasting or releasing of something; commonly speaking, prayer is any act of contemplation related to God; most commonly speaking, prayer is any good act.\n\n<img src=\"uploads/2022/9a7ad2e3bd.png\" width=\"600\" height=\"600\" alt=\"A block of text\" />\n",
 				"date_published": "2022-06-16T11:46:10-04:00",
 				"url": "https://blog.andrewbelfield.com/2022/06/16/i-like-this.html",
 				"tags": ["reading","theology"]
@@ -3198,7 +3243,7 @@
 				"id": "http://drewbelf.micro.blog/2022/06/09/130300.html",
 				
 				"content_html": "<p>Bethel A.M.E. Church in Jamaica Plain, Mass.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Bethel A.M.E. Church in Jamaica Plain, Mass.\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2022/d89795749f.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"content_text": "Bethel A.M.E. Church in Jamaica Plain, Mass.\n\n<img src=\"uploads/2022/d89795749f.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
 				"date_published": "2022-06-09T13:03:00-04:00",
 				"url": "https://blog.andrewbelfield.com/2022/06/09/130300.html",
 				"tags": ["travel"]
@@ -3207,7 +3252,7 @@
 				"id": "http://drewbelf.micro.blog/2022/06/09/spotted-yesterday-in.html",
 				
 				"content_html": "<p>Spotted yesterday in Cambridge, Mass.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Spotted yesterday in Cambridge, Mass.\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2022/d84985ea0a.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"content_text": "Spotted yesterday in Cambridge, Mass.\n\n<img src=\"uploads/2022/d84985ea0a.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
 				"date_published": "2022-06-09T11:11:20-04:00",
 				"url": "https://blog.andrewbelfield.com/2022/06/09/spotted-yesterday-in.html",
 				"tags": ["music","travel"]
@@ -3225,7 +3270,7 @@
 				"id": "http://drewbelf.micro.blog/2022/06/06/back-at-boston.html",
 				
 				"content_html": "<p>Back at Boston College for a few days, visiting with friends and doing some research</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Back at Boston College for a few days, visiting with friends and doing some research\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2022/a8dabe461b.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"content_text": "Back at Boston College for a few days, visiting with friends and doing some research\n\n<img src=\"uploads/2022/a8dabe461b.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
 				"date_published": "2022-06-06T20:24:53-04:00",
 				"url": "https://blog.andrewbelfield.com/2022/06/06/back-at-boston.html",
 				"tags": ["travel"]
@@ -3297,7 +3342,7 @@
 				"id": "http://drewbelf.micro.blog/2022/05/29/birding-at-the.html",
 				
 				"content_html": "<p>Birding at the local cemetery. So far I&rsquo;ve seen only <a href=\"https://www.audubon.org/field-guide/bird/american-robin\">American Robins</a> and <a href=\"https://www.audubon.org/field-guide/bird/european-starling\">European Starlings</a>; I&rsquo;ve heard a great many others (including a <a href=\"https://www.audubon.org/field-guide/bird/chipping-sparrow\">Chipping Sparrow</a>), but they elude my eyes.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Birding at the local cemetery. So far I've seen only [American Robins](https://www.audubon.org/field-guide/bird/american-robin) and [European Starlings](https://www.audubon.org/field-guide/bird/european-starling); I've heard a great many others (including a [Chipping Sparrow](https://www.audubon.org/field-guide/bird/chipping-sparrow)), but they elude my eyes.\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2022/5d2edb95e1.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"content_text": "Birding at the local cemetery. So far I've seen only [American Robins](https://www.audubon.org/field-guide/bird/american-robin) and [European Starlings](https://www.audubon.org/field-guide/bird/european-starling); I've heard a great many others (including a [Chipping Sparrow](https://www.audubon.org/field-guide/bird/chipping-sparrow)), but they elude my eyes.\n\n<img src=\"uploads/2022/5d2edb95e1.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
 				"date_published": "2022-05-29T13:39:39-04:00",
 				"url": "https://blog.andrewbelfield.com/2022/05/29/birding-at-the.html"
 			},
@@ -3386,7 +3431,7 @@
 				"id": "http://drewbelf.micro.blog/2022/05/23/my-dissertation-director.html",
 				
 				"content_html": "<p>My dissertation director, Boyd Taylor Coolman, hooding me at my graduation.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My dissertation director, Boyd Taylor Coolman, hooding me at my graduation.\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2022/2e7c98a80e.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"content_text": "My dissertation director, Boyd Taylor Coolman, hooding me at my graduation.\n\n<img src=\"uploads/2022/2e7c98a80e.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-23T15:41:00-04:00",
 				"url": "https://blog.andrewbelfield.com/2022/05/23/my-dissertation-director.html"
 			},
@@ -3403,7 +3448,7 @@
 				"id": "http://drewbelf.micro.blog/2022/05/21/203100.html",
 				
 				"content_html": "<p>The Boston College contingent at Notre Dame&rsquo;s recent conference on medieval philosophy &amp; theology: John Kern (currently at Pepperdine University), Robin Landrith, Kasey Kimball, AJ Holmes, and me.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The Boston College contingent at Notre Dame's recent conference on medieval philosophy & theology: John Kern (currently at Pepperdine University), Robin Landrith, Kasey Kimball, AJ Holmes, and me.\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2022/c718c7a5b3.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"content_text": "The Boston College contingent at Notre Dame's recent conference on medieval philosophy & theology: John Kern (currently at Pepperdine University), Robin Landrith, Kasey Kimball, AJ Holmes, and me.\n\n<img src=\"uploads/2022/c718c7a5b3.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-21T20:31:00-04:00",
 				"url": "https://blog.andrewbelfield.com/2022/05/21/203100.html",
 				"tags": ["theology","philosophy","travel"]
@@ -3412,7 +3457,7 @@
 				"id": "http://drewbelf.micro.blog/2022/05/20/notre-dame-at.html",
 				
 				"content_html": "<p>Notre Dame at night</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Notre Dame at night\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2022/e98db65dd9.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"content_text": "Notre Dame at night\n\n<img src=\"uploads/2022/e98db65dd9.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
 				"date_published": "2022-05-20T22:36:07-04:00",
 				"url": "https://blog.andrewbelfield.com/2022/05/20/notre-dame-at.html",
 				"tags": ["travel"]
@@ -3421,7 +3466,7 @@
 				"id": "http://drewbelf.micro.blog/2022/05/20/my-first-conference.html",
 				
 				"content_html": "<p>My first conference with the St. Bonaventure University affiliation.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My first conference with the St. Bonaventure University affiliation.\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2022/4e6b6b2998.jpg\" width=\"451\" height=\"600\" alt=\"\" />\n",
+				"content_text": "My first conference with the St. Bonaventure University affiliation.\n\n<img src=\"uploads/2022/4e6b6b2998.jpg\" width=\"451\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-20T13:29:50-04:00",
 				"url": "https://blog.andrewbelfield.com/2022/05/20/my-first-conference.html",
 				"tags": ["reading","theology","travel"]
@@ -3475,7 +3520,7 @@
 				"id": "http://drewbelf.micro.blog/2022/05/15/my-view-as.html",
 				
 				"content_html": "<p>My view as Marshall to candidates for a Bachelor of Arts at St. Bonaventure University&rsquo;s 162nd Commencement Exercises.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My view as Marshall to candidates for a Bachelor of Arts at St. Bonaventure University's 162nd Commencement Exercises.\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2022/d5b17e5d0b.jpg\" width=\"451\" height=\"600\" alt=\"\" />\n",
+				"content_text": "My view as Marshall to candidates for a Bachelor of Arts at St. Bonaventure University's 162nd Commencement Exercises.\n\n<img src=\"uploads/2022/d5b17e5d0b.jpg\" width=\"451\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-15T13:46:00-04:00",
 				"url": "https://blog.andrewbelfield.com/2022/05/15/my-view-as.html"
 			},
@@ -3509,7 +3554,7 @@
 				"id": "http://drewbelf.micro.blog/2022/05/06/this-old-church.html",
 				
 				"content_html": "<p>This old church now houses the <a href=\"https://www.cubaculturalcenter.org/\">Cuba Cultural Center</a>.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This old church now houses the [Cuba Cultural Center](https://www.cubaculturalcenter.org/).\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2022/2229d0e642.jpg\" width=\"397\" height=\"600\" alt=\"\" />\n",
+				"content_text": "This old church now houses the [Cuba Cultural Center](https://www.cubaculturalcenter.org/).\n\n<img src=\"uploads/2022/2229d0e642.jpg\" width=\"397\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-06T17:46:42-04:00",
 				"url": "https://blog.andrewbelfield.com/2022/05/06/this-old-church.html",
 				"tags": ["film"]
@@ -3527,7 +3572,7 @@
 				"id": "http://drewbelf.micro.blog/2022/05/06/i-sent-in.html",
 				
 				"content_html": "<p>I sent in my first roll of film to <a href=\"https://www.shotonfilmstore.com/\">the Shot on Film Store</a> last week, and just received digital uploads today. This is one of my favorites from the roll: an old general store (now office space and apartments) in town, O&rsquo;Malley&rsquo;s.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I sent in my first roll of film to [the Shot on Film Store](https://www.shotonfilmstore.com/) last week, and just received digital uploads today. This is one of my favorites from the roll: an old general store (now office space and apartments) in town, O'Malley's.\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2022/a4f70330c8.jpg\" width=\"600\" height=\"397\" alt=\"\" />\n",
+				"content_text": "I sent in my first roll of film to [the Shot on Film Store](https://www.shotonfilmstore.com/) last week, and just received digital uploads today. This is one of my favorites from the roll: an old general store (now office space and apartments) in town, O'Malley's.\n\n<img src=\"uploads/2022/a4f70330c8.jpg\" width=\"600\" height=\"397\" alt=\"\" />\n",
 				"date_published": "2022-05-06T15:22:59-04:00",
 				"url": "https://blog.andrewbelfield.com/2022/05/06/i-sent-in.html",
 				"tags": ["film"]
@@ -3545,7 +3590,7 @@
 				"id": "http://drewbelf.micro.blog/2022/05/04/my-doctoral-gown.html",
 				
 				"content_html": "<p>My doctoral gown (sans hood and tam)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My doctoral gown (sans hood and tam)\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2022/150272597a.jpg\" width=\"451\" height=\"600\" alt=\"\" />\n",
+				"content_text": "My doctoral gown (sans hood and tam)\n\n<img src=\"uploads/2022/150272597a.jpg\" width=\"451\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-04T09:46:00-04:00",
 				"url": "https://blog.andrewbelfield.com/2022/05/04/my-doctoral-gown.html",
 				"tags": ["theology"]
@@ -3563,7 +3608,7 @@
 				"id": "http://drewbelf.micro.blog/2022/04/25/me-some-years.html",
 				
 				"content_html": "<p>Me, some years ago, at Piseco Lake in the southern Adirondacks.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Me, some years ago, at Piseco Lake in the southern Adirondacks.\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2022/23eb6b8b3c.jpg\" width=\"600\" height=\"397\" alt=\"\" />\n",
+				"content_text": "Me, some years ago, at Piseco Lake in the southern Adirondacks.\n\n<img src=\"uploads/2022/23eb6b8b3c.jpg\" width=\"600\" height=\"397\" alt=\"\" />\n",
 				"date_published": "2022-04-25T11:19:00-04:00",
 				"url": "https://blog.andrewbelfield.com/2022/04/25/me-some-years.html",
 				"tags": ["film"]
@@ -3607,7 +3652,7 @@
 				"id": "http://drewbelf.micro.blog/2022/04/15/a-recent-ebay.html",
 				
 				"content_html": "<p>A recent eBay acquisition: a Pentax K1000 35mm film camera. I&rsquo;ve been wanting to get into film photography for a while now, and I was recently struck by an urge to find a good beginner&rsquo;s camera to get started. The K1000 seemed the clear choice for a number of reason: its availability, its price, its simplicity.</p>\n<!-- raw HTML omitted -->\n<p>What I like about this camera is its fully mechanical operation: though it does have a battery, that battery only powers the built-in light meter. Otherwise, the camera operates completely mechanically—and you can really feel it when you release the shutter.</p>\n<p>The camera has basically no features at all, apart from the light meter: manual focus, manual exposure. Its lack of features was another selling point to me. I want little more than the absolute basics as I get into film photography. There&rsquo;s something about the bare bones simplicity of the K1000 that seems to lend the photos it shoots with honesty and integrity.</p>\n<p>I&rsquo;ve taken a few shots just around town, mainly getting a feel for the camera and testing out different exposures. I&rsquo;m hoping to get through a roll in a week or so, so I can send the film off to be developed and see how accurate the light meter is.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A recent eBay acquisition: a Pentax K1000 35mm film camera. I've been wanting to get into film photography for a while now, and I was recently struck by an urge to find a good beginner's camera to get started. The K1000 seemed the clear choice for a number of reason: its availability, its price, its simplicity.\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2022/a30863b516.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n\nWhat I like about this camera is its fully mechanical operation: though it does have a battery, that battery only powers the built-in light meter. Otherwise, the camera operates completely mechanically—and you can really feel it when you release the shutter.\n\nThe camera has basically no features at all, apart from the light meter: manual focus, manual exposure. Its lack of features was another selling point to me. I want little more than the absolute basics as I get into film photography. There's something about the bare bones simplicity of the K1000 that seems to lend the photos it shoots with honesty and integrity.\n\nI've taken a few shots just around town, mainly getting a feel for the camera and testing out different exposures. I'm hoping to get through a roll in a week or so, so I can send the film off to be developed and see how accurate the light meter is.\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2022/4bb1c8db99.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "A recent eBay acquisition: a Pentax K1000 35mm film camera. I've been wanting to get into film photography for a while now, and I was recently struck by an urge to find a good beginner's camera to get started. The K1000 seemed the clear choice for a number of reason: its availability, its price, its simplicity.\n\n<img src=\"uploads/2022/a30863b516.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n\nWhat I like about this camera is its fully mechanical operation: though it does have a battery, that battery only powers the built-in light meter. Otherwise, the camera operates completely mechanically—and you can really feel it when you release the shutter.\n\nThe camera has basically no features at all, apart from the light meter: manual focus, manual exposure. Its lack of features was another selling point to me. I want little more than the absolute basics as I get into film photography. There's something about the bare bones simplicity of the K1000 that seems to lend the photos it shoots with honesty and integrity.\n\nI've taken a few shots just around town, mainly getting a feel for the camera and testing out different exposures. I'm hoping to get through a roll in a week or so, so I can send the film off to be developed and see how accurate the light meter is.\n\n<img src=\"uploads/2022/4bb1c8db99.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-04-15T12:42:00-04:00",
 				"url": "https://blog.andrewbelfield.com/2022/04/15/a-recent-ebay.html",
 				"tags": ["film"]
@@ -3677,7 +3722,7 @@
 				"id": "http://drewbelf.micro.blog/2022/03/14/a-good-mail.html",
 				
 				"content_html": "<p>A good mail day</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A good mail day\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2022/30a419dab3.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "A good mail day\n\n<img src=\"uploads/2022/30a419dab3.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-03-14T16:43:43-04:00",
 				"url": "https://blog.andrewbelfield.com/2022/03/14/a-good-mail.html"
 			},
@@ -3702,7 +3747,7 @@
 				"id": "http://drewbelf.micro.blog/2022/02/26/at-playwrights-horizons.html",
 				
 				"content_html": "<p>At Playwrights Horizons for Tambo &amp; Bones</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "At Playwrights Horizons for Tambo & Bones\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2022/c7bf57dcc5.jpg\" width=\"600\" height=\"449\" alt=\"\" />\n",
+				"content_text": "At Playwrights Horizons for Tambo & Bones\n\n<img src=\"uploads/2022/c7bf57dcc5.jpg\" width=\"600\" height=\"449\" alt=\"\" />\n",
 				"date_published": "2022-02-26T20:53:13-04:00",
 				"url": "https://blog.andrewbelfield.com/2022/02/26/at-playwrights-horizons.html",
 				"tags": ["travel"]
@@ -3720,7 +3765,7 @@
 				"id": "http://drewbelf.micro.blog/2022/02/14/over-the-weekend.html",
 				
 				"content_html": "<p>Over the weekend I picked this chalkboard up from an antique store, so I can write out the week&rsquo;s reading assignments. The chalkboard surface itself is a little rough so I may sand it down and repaint it.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Over the weekend I picked this chalkboard up from an antique store, so I can write out the week's reading assignments. The chalkboard surface itself is a little rough so I may sand it down and repaint it.\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2022/75eab324a1.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Over the weekend I picked this chalkboard up from an antique store, so I can write out the week's reading assignments. The chalkboard surface itself is a little rough so I may sand it down and repaint it.\n\n<img src=\"uploads/2022/75eab324a1.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-02-14T09:20:58-04:00",
 				"url": "https://blog.andrewbelfield.com/2022/02/14/over-the-weekend.html"
 			},
@@ -3754,7 +3799,7 @@
 				"id": "http://drewbelf.micro.blog/2022/02/01/from-yesterdays-mail.html",
 				
 				"content_html": "<p>From yesterday&rsquo;s mail. I defended in October so this isn&rsquo;t exactly news, but it feels good to have the diploma in hand.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "From yesterday's mail. I defended in October so this isn't exactly news, but it feels good to have the diploma in hand.\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2022/cad5457fc1.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "From yesterday's mail. I defended in October so this isn't exactly news, but it feels good to have the diploma in hand.\n\n<img src=\"uploads/2022/cad5457fc1.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-02-01T13:17:00-04:00",
 				"url": "https://blog.andrewbelfield.com/2022/02/01/from-yesterdays-mail.html"
 			},
@@ -3771,7 +3816,7 @@
 				"id": "http://drewbelf.micro.blog/2022/01/18/dispatches-from-the.html",
 				
 				"content_html": "<p>Dispatches from the southern tier of New York, taken around 6:45 this morning</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Dispatches from the southern tier of New York, taken around 6:45 this morning\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2022/6418cb291b.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Dispatches from the southern tier of New York, taken around 6:45 this morning\n\n<img src=\"uploads/2022/6418cb291b.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-01-18T19:49:00-04:00",
 				"url": "https://blog.andrewbelfield.com/2022/01/18/dispatches-from-the.html"
 			},
@@ -3833,7 +3878,7 @@
 				"id": "http://drewbelf.micro.blog/2022/01/03/todays-mail-an.html",
 				
 				"content_html": "<p>Today&rsquo;s mail: the first issue of a gift subscription to <a href=\"https://geezmagazine.org/\">Geez Magazine</a>, gifted to me to mark the successful defense of my doctoral dissertation. Laurel is a very dear friend of mine&mdash;we were graduate students together at Boston College, and we even lived together in an intentional community&mdash;and I&rsquo;m grateful for her thoughtful gift here.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Today's mail: the first issue of a gift subscription to [Geez Magazine](https://geezmagazine.org/), gifted to me to mark the successful defense of my doctoral dissertation. Laurel is a very dear friend of mine---we were graduate students together at Boston College, and we even lived together in an intentional community---and I'm grateful for her thoughtful gift here.\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2022/49db8cb3dc.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Today's mail: the first issue of a gift subscription to [Geez Magazine](https://geezmagazine.org/), gifted to me to mark the successful defense of my doctoral dissertation. Laurel is a very dear friend of mine---we were graduate students together at Boston College, and we even lived together in an intentional community---and I'm grateful for her thoughtful gift here.\n\n<img src=\"uploads/2022/49db8cb3dc.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-01-03T21:29:00-04:00",
 				"url": "https://blog.andrewbelfield.com/2022/01/03/todays-mail-an.html",
 				"tags": ["reading"]
@@ -3905,7 +3950,7 @@
 				"id": "http://drewbelf.micro.blog/2021/12/28/at-the-george.html",
 				
 				"content_html": "<p>At the George Eastman Museum&rsquo;s <a href=\"https://www.eastman.org/dryden-theatre\">Dryden Theatre</a> in Rochester, N.Y., for a showing of <em>The Fellowship of the Ring</em>. For the twentieth anniversary of <em>Fellowship</em> they&rsquo;re showing all three movies across three nights on 35mm film.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "At the George Eastman Museum's [Dryden Theatre](https://www.eastman.org/dryden-theatre) in Rochester, N.Y., for a showing of *The Fellowship of the Ring*. For the twentieth anniversary of *Fellowship* they're showing all three movies across three nights on 35mm film.\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2021/0b75bbb599.jpg\" width=\"600\" height=\"449\" alt=\"\" />\n",
+				"content_text": "At the George Eastman Museum's [Dryden Theatre](https://www.eastman.org/dryden-theatre) in Rochester, N.Y., for a showing of *The Fellowship of the Ring*. For the twentieth anniversary of *Fellowship* they're showing all three movies across three nights on 35mm film.\n\n<img src=\"uploads/2021/0b75bbb599.jpg\" width=\"600\" height=\"449\" alt=\"\" />\n",
 				"date_published": "2021-12-28T20:26:00-04:00",
 				"url": "https://blog.andrewbelfield.com/2021/12/28/at-the-george.html",
 				"tags": ["watching","travel"]
@@ -3950,7 +3995,7 @@
 				"id": "http://drewbelf.micro.blog/2021/12/24/sourdough-cinnamon-rolls.html",
 				
 				"content_html": "<p>Sourdough cinnamon rolls, baked and iced</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Sourdough cinnamon rolls, baked and iced\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2021/614ac36961.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Sourdough cinnamon rolls, baked and iced\n\n<img src=\"uploads/2021/614ac36961.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-12-24T13:57:00-04:00",
 				"url": "https://blog.andrewbelfield.com/2021/12/24/sourdough-cinnamon-rolls.html",
 				"tags": ["breads"]
@@ -3968,7 +4013,7 @@
 				"id": "http://drewbelf.micro.blog/2021/12/23/200909.html",
 				
 				"content_html": "<p>Sourdough cinnamon rolls for Christmas Eve brunch tomorrow morning</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Sourdough cinnamon rolls for Christmas Eve brunch tomorrow morning\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2021/07b12fa4a9.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Sourdough cinnamon rolls for Christmas Eve brunch tomorrow morning\n\n<img src=\"uploads/2021/07b12fa4a9.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-12-23T21:09:00-04:00",
 				"url": "https://blog.andrewbelfield.com/2021/12/23/200909.html",
 				"tags": ["breads"]
@@ -4003,7 +4048,7 @@
 				"id": "http://drewbelf.micro.blog/2021/12/23/it-took-me.html",
 				
 				"content_html": "<p>It took me a semester, but I finally got some art on my office door. This means—I believe—I&rsquo;m a real professor now.</p>\n<p>I really like how <em>Raiders</em>, <em>Arrival</em>, and Francis of Assisi look together. Dorothy Day upsets the aesthetic balance a bit, but that picture is too good not to include.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "It took me a semester, but I finally got some art on my office door. This means—I believe—I'm a real professor now.\n\nI really like how *Raiders*, *Arrival*, and Francis of Assisi look together. Dorothy Day upsets the aesthetic balance a bit, but that picture is too good not to include.\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2021/4019b0583b.jpg\" width=\"600\" height=\"449\" alt=\"\" />\n",
+				"content_text": "It took me a semester, but I finally got some art on my office door. This means—I believe—I'm a real professor now.\n\nI really like how *Raiders*, *Arrival*, and Francis of Assisi look together. Dorothy Day upsets the aesthetic balance a bit, but that picture is too good not to include.\n\n<img src=\"uploads/2021/4019b0583b.jpg\" width=\"600\" height=\"449\" alt=\"\" />\n",
 				"date_published": "2021-12-23T10:11:00-04:00",
 				"url": "https://blog.andrewbelfield.com/2021/12/23/it-took-me.html"
 			},
@@ -4038,7 +4083,7 @@
 				"id": "http://drewbelf.micro.blog/2021/12/22/i-tried-a.html",
 				
 				"content_html": "<p>I tried a different scoring pattern on today’s loaf, to somewhat disappointing results. Rather than my usual single, long score, slightly off-center, I tried four smaller strokes in a roughly cruciform pattern. I had intended the four scores to open up more evenly, hoping for a more balanced rise. Really only two of the scores opened as fully as I&rsquo;d hoped, but the loaf rose pretty evenly all the same.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "I tried a different scoring pattern on today’s loaf, to somewhat disappointing results. Rather than my usual single, long score, slightly off-center, I tried four smaller strokes in a roughly cruciform pattern. I had intended the four scores to open up more evenly, hoping for a more balanced rise. Really only two of the scores opened as fully as I'd hoped, but the loaf rose pretty evenly all the same.\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2021/7818e81341.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://cdn.uploads.micro.blog/57396/2021/827677f7c5.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "I tried a different scoring pattern on today’s loaf, to somewhat disappointing results. Rather than my usual single, long score, slightly off-center, I tried four smaller strokes in a roughly cruciform pattern. I had intended the four scores to open up more evenly, hoping for a more balanced rise. Really only two of the scores opened as fully as I'd hoped, but the loaf rose pretty evenly all the same.\n\n<img src=\"uploads/2021/7818e81341.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/827677f7c5.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-12-22T10:54:00-04:00",
 				"url": "https://blog.andrewbelfield.com/2021/12/22/i-tried-a.html",
 				"tags": ["breads"]
