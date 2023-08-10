@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://drewbelf.micro.blog/2023/08/10/finished-reading-breviloquium.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781576591994\">Breviloquium</a> by Bonaventure 📚</p>\n",
+				"content_text": "Finished reading: [Breviloquium](https://micro.blog/books/9781576591994) by Bonaventure 📚\n",
+				"date_published": "2023-08-10T12:30:21-04:00",
+				"url": "https://blog.andrewbelfield.com/2023/08/10/finished-reading-breviloquium.html",
+				"tags": ["reading","theology","teaching"]
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2023/08/05/deus-absconditus.html",
+				
+				"content_html": "<p>Deus absconditus</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Deus absconditus\n\n<img src=\"uploads/2023/04021656ef.jpg\" width=\"600\" height=\"400\" alt=\"Three plastic chairs, empty, arranged in a triangle.\">\n",
+				"date_published": "2023-08-05T15:09:31-04:00",
+				"url": "https://blog.andrewbelfield.com/2023/08/05/deus-absconditus.html",
+				"tags": ["theology"]
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2023/08/05/currently-reading-the.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781926743691\">The Utility of Boredom: Essays on Baseball</a> by Andrew Forbes 📚</p>\n",
+				"content_text": "Currently reading: [The Utility of Boredom: Essays on Baseball](https://micro.blog/books/9781926743691) by Andrew Forbes 📚\n",
+				"date_published": "2023-08-05T10:15:25-04:00",
+				"url": "https://blog.andrewbelfield.com/2023/08/05/currently-reading-the.html",
+				"tags": ["reading"]
+			},
+			{
 				"id": "http://drewbelf.micro.blog/2023/08/04/finished-reading-the.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781982170073\">The World Cannot Give</a> by Tara Isabella Burton 📚</p>\n",
