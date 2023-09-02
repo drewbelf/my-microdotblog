@@ -7,10 +7,46 @@
 	"items": [
 		
 			{
+				"id": "http://drewbelf.micro.blog/2023/09/02/rereading-thomas-mertons.html",
+				
+				"content_html": "<p>Rereading Thomas Merton&rsquo;s &ldquo;Things in Their Identity&rdquo; for class on Monday, and it&rsquo;s making me want to reread <em>New Seeds of Contemplation</em> in full.</p>\n<blockquote>\n<p>Our vocation is not simply to <em>be</em>, but to work together with God in the creation of our own life, our own identity, our own destiny. We are free beings and sons of God. This means to say that we should not passively exist, but actively participate in His creative freedom, in our own lives, and in the lives of others, by choosing the truth. To put it better, we are even called to share with God the work of <em>creating</em> the truth of our identity.</p>\n</blockquote>\n",
+				"content_text": "Rereading Thomas Merton's \"Things in Their Identity\" for class on Monday, and it's making me want to reread *New Seeds of Contemplation* in full.\n\n> Our vocation is not simply to *be*, but to work together with God in the creation of our own life, our own identity, our own destiny. We are free beings and sons of God. This means to say that we should not passively exist, but actively participate in His creative freedom, in our own lives, and in the lives of others, by choosing the truth. To put it better, we are even called to share with God the work of *creating* the truth of our identity.\n",
+				"date_published": "2023-09-02T09:04:04-04:00",
+				"url": "https://blog.andrewbelfield.com/2023/09/02/rereading-thomas-mertons.html",
+				"tags": ["reading","theology","teaching"]
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2023/08/29/albert-einstein-on.html",
+				
+				"content_html": "<p>Albert Einstein on a liberal arts education:</p>\n<blockquote>\n<p>The value of an education in a liberal arts college is not the learning of many facts but the training of the mind to think something that cannot be learned from textbooks.</p>\n</blockquote>\n<p>I haven&rsquo;t been able to verify the authenticity of the quote (<a href=\"https://quoteinvestigator.com/2016/05/28/not-facts/\">Quote Investigator finds the quotation in Phlipp Frank&rsquo;s biography of Einstein</a>); whether Einstein said it or not, it&rsquo;s true.</p>\n",
+				"content_text": "Albert Einstein on a liberal arts education:\r\n\r\n> The value of an education in a liberal arts college is not the learning of many facts but the training of the mind to think something that cannot be learned from textbooks.\r\n\r\nI haven't been able to verify the authenticity of the quote ([Quote Investigator finds the quotation in Phlipp Frank's biography of Einstein](https://quoteinvestigator.com/2016/05/28/not-facts/)); whether Einstein said it or not, it's true.\n",
+				"date_published": "2023-08-29T09:17:52-04:00",
+				"url": "https://blog.andrewbelfield.com/2023/08/29/albert-einstein-on.html",
+				"tags": ["teaching"]
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2023/08/28/currently-reading-there.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780307389763\">There Is Power in a Union: The Epic Story of Labor in America</a> by Philip Dray 📚</p>\n",
+				"content_text": "Currently reading: [There Is Power in a Union: The Epic Story of Labor in America](https://micro.blog/books/9780307389763) by Philip Dray 📚\n",
+				"date_published": "2023-08-28T21:42:12-04:00",
+				"url": "https://blog.andrewbelfield.com/2023/08/28/currently-reading-there.html",
+				"tags": ["reading"]
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2023/08/28/finished-reading-talking.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780465094240\">Talking Pictures</a> by Ann Hornaday 📚</p>\n",
+				"content_text": "Finished reading: [Talking Pictures](https://micro.blog/books/9780465094240) by Ann Hornaday 📚\n",
+				"date_published": "2023-08-28T21:03:05-04:00",
+				"url": "https://blog.andrewbelfield.com/2023/08/28/finished-reading-talking.html",
+				"tags": ["reading"]
+			},
+			{
 				"id": "http://drewbelf.micro.blog/2023/08/28/today-is-the.html",
 				
-				"content_html": "<p>Today is the feast of Saint Augustine; an auspicious start for the new academic year!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Today is the feast of Saint Augustine; an auspicious start for the new academic year!\n\n<img src=\"uploads/2023/nuremberg-chroniclesaugustine-cxxxvir.jpg\" width=\"431\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>Today is the feast of Saint Augustine; an auspicious start for the new academic year!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Today is the feast of Saint Augustine; an auspicious start for the new academic year!\n\n<a href=\"https://en.wikipedia.org/wiki/File:Nuremberg_chronicles_-_Augustine_(CXXXVIr).jpg\"><img src=\"uploads/2023/nuremberg-chroniclesaugustine-cxxxvir.jpg\" width=\"431\" height=\"600\" alt=\"A sketch of Augustine in an illuminated manuscript; wearing his bishop's miter, he has one hand on the page and one hand raised in prayer.\"></a>\n",
 				"date_published": "2023-08-28T08:31:33-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/08/28/today-is-the.html",
 				"tags": ["theology","philosophy","teaching"]
@@ -64,7 +100,7 @@
 				"id": "http://drewbelf.micro.blog/2023/08/23/i-finally-got.html",
 				
 				"content_html": "<p>I finally got my diploma from Boston College framed &amp; mounted on my office wall. My dad made the frame for me (cut the wood down to size &amp; fastened the pieces together into a frame). The colors match my regalia very well, which you can just see peeking out from behind my door (see them in action <a href=\"https://flic.kr/p/2oAgaza\">here</a>).</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "I finally got my diploma from Boston College framed & mounted on my office wall. My dad made the frame for me (cut the wood down to size & fastened the pieces together into a frame). The colors match my regalia very well, which you can just see peeking out from behind my door (see them in action [here](https://flic.kr/p/2oAgaza)).\n\n<img src=\"uploads/2023/7333f74c70.jpg\" width=\"451\" height=\"600\" alt=\"My doctoral diploma frame, on the wall next to my bookshelf.\"><img src=\"uploads/2023/6df09cdf38.jpg\" width=\"600\" height=\"451\" alt=\"Detail of diploma frame: black frame, gold trim, and maroon mat.\">\n",
+				"content_text": "I finally got my diploma from Boston College framed & mounted on my office wall. My dad made the frame for me (cut the wood down to size & fastened the pieces together into a frame). The colors match my regalia very well, which you can just see peeking out from behind my door (see them in action [here](https://flic.kr/p/2oAgaza)).\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2023/7333f74c70.jpg\" width=\"451\" height=\"600\" alt=\"My doctoral diploma frame, on the wall next to my bookshelf.\"><img src=\"https://cdn.uploads.micro.blog/57396/2023/6df09cdf38.jpg\" width=\"600\" height=\"451\" alt=\"Detail of diploma frame: black frame, gold trim, and maroon mat.\">\n",
 				"date_published": "2023-08-23T19:03:58-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/08/23/i-finally-got.html"
 			},
