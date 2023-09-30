@@ -7,6 +7,31 @@
 	"items": [
 		
 			{
+				"id": "http://drewbelf.micro.blog/2023/09/30/a-couple-shots.html",
+				
+				"content_html": "<p>A couple shots from a recent trip to Niagara Falls.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "A couple shots from a recent trip to Niagara Falls.\n\n<img src=\"uploads/2023/dscf9511.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"uploads/2023/dscf9514.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"date_published": "2023-09-30T15:51:41-04:00",
+				"url": "https://blog.andrewbelfield.com/2023/09/30/a-couple-shots.html"
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2023/09/29/its-cool-to.html",
+				
+				"content_html": "<p>It&rsquo;s cool to get <a href=\"https://www.youtube.com/watch?v=ZawP8SNUyi4\">new music from blink-182</a> (especially with Tom DeLonge back), but <a href=\"https://www.youtube.com/watch?v=fSKQRDq3RkM\">their new material</a> just sends me back to their absolutely masterful <a href=\"https://songwhip.com/blink-182/blink1822003\">self-titled album</a>.</p>\n",
+				"content_text": "It's cool to get [new music from blink-182](https://www.youtube.com/watch?v=ZawP8SNUyi4) (especially with Tom DeLonge back), but [their new material](https://www.youtube.com/watch?v=fSKQRDq3RkM) just sends me back to their absolutely masterful [self-titled album](https://songwhip.com/blink-182/blink1822003).\n",
+				"date_published": "2023-09-29T10:06:36-04:00",
+				"url": "https://blog.andrewbelfield.com/2023/09/29/its-cool-to.html",
+				"tags": ["music"]
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2023/09/29/from-losses-to.html",
+				
+				"content_html": "<p>From 100 losses to <a href=\"https://www.youtube.com/watch?v=76OTZl9KhVc\">100 wins</a> in just two years. Go Orioles!</p>\n",
+				"content_text": "From 100 losses to [100 wins](https://www.youtube.com/watch?v=76OTZl9KhVc) in just two years. Go Orioles!\n",
+				"date_published": "2023-09-29T08:34:29-04:00",
+				"url": "https://blog.andrewbelfield.com/2023/09/29/from-losses-to.html"
+			},
+			{
 				"id": "http://drewbelf.micro.blog/2023/09/25/herbert-mccabe-the.html",
 				
 				"content_html": "<p>Herbert McCabe:</p>\n<blockquote>\n<p>The Incarnation remains a mystery. But, perhaps, Aquinas can help us to see that we don&rsquo;t therefore have to talk nonsense about it.</p>\n</blockquote>\n<p>I would add (&amp; I&rsquo;m certain McCabe would agree) that this goes for not only Aquinas but for any good theology. Indeed, that&rsquo;s not a bad way to put the task of theology: learning how not to speak nonsense about mystery.</p>\n",
