@@ -7,10 +7,55 @@
 	"items": [
 		
 			{
+				"id": "http://drewbelf.micro.blog/2023/10/05/finished-reading-call.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780374707729\">Call Me by Your Name</a> by André Aciman 📚</p>\n",
+				"content_text": "Finished reading: [Call Me by Your Name](https://micro.blog/books/9780374707729) by André Aciman 📚\n",
+				"date_published": "2023-10-05T22:44:33-04:00",
+				"url": "https://blog.andrewbelfield.com/2023/10/05/finished-reading-call.html",
+				"tags": ["reading"]
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2023/10/03/requiescat-in-pace.html",
+				
+				"content_html": "<p>Requiescat in pace, <a href=\"https://www.southbendtribune.com/obituaries/psbn0585534?fbclid=IwAR0Q9E3fwyLqxGwc22YWjqqbdzyn3L0rNVehHHqJVno5VQZUwbLKZnhnzUQ\">David Burrell</a>.</p>\n",
+				"content_text": "Requiescat in pace, [David Burrell](https://www.southbendtribune.com/obituaries/psbn0585534?fbclid=IwAR0Q9E3fwyLqxGwc22YWjqqbdzyn3L0rNVehHHqJVno5VQZUwbLKZnhnzUQ).\n",
+				"date_published": "2023-10-03T18:35:19-04:00",
+				"url": "https://blog.andrewbelfield.com/2023/10/03/requiescat-in-pace.html",
+				"tags": ["theology"]
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2023/10/03/aaron-riches-the.html",
+				
+				"content_html": "<p><a href=\"https://micro.blog/books/9781467445443?title=Ecce+Homo&amp;author=Aaron+Riches&amp;cover_id=116534\">Aaron Riches</a>:</p>\n<blockquote>\n<p>The asymmetry of the Logos&mdash;through whom all things were made&mdash;in relation to created being means that the act of incarnation overdetermines every finite becoming; the transformative reality of the Son resides for us wholly in the Incarnate fact of his being <em>ex Maria</em>. What the Son receives <em>ex Maria</em> does not change the eternal Son; rather it unleashes the transformative power of his divine being into our human world. This is more or less what <a href=\"https://isidore.co/aquinas/summa/TP/TP002.html#TPQ2A7THEP1\">the mixed relation ensures in Thomas</a>: the whole becoming, the whole drama of the eternal &ldquo;is&rdquo; of the Logos resides in the life of Jesus, thus foreclosing (1) every simple transition from the Incarnate Son to the (as if temporally &ldquo;before”) pre-Incarnate Son, while ensuring that (2) it is precisely our human reality that is changed by his divine act.</p>\n</blockquote>\n",
+				"content_text": "[Aaron Riches](https://micro.blog/books/9781467445443?title=Ecce+Homo&author=Aaron+Riches&cover_id=116534):\r\n\r\n> The asymmetry of the Logos---through whom all things were made---in relation to created being means that the act of incarnation overdetermines every finite becoming; the transformative reality of the Son resides for us wholly in the Incarnate fact of his being *ex Maria*. What the Son receives *ex Maria* does not change the eternal Son; rather it unleashes the transformative power of his divine being into our human world. This is more or less what [the mixed relation ensures in Thomas](https://isidore.co/aquinas/summa/TP/TP002.html#TPQ2A7THEP1): the whole becoming, the whole drama of the eternal \"is\" of the Logos resides in the life of Jesus, thus foreclosing (1) every simple transition from the Incarnate Son to the (as if temporally \"before”) pre-Incarnate Son, while ensuring that (2) it is precisely our human reality that is changed by his divine act.\n",
+				"date_published": "2023-10-03T09:23:11-04:00",
+				"url": "https://blog.andrewbelfield.com/2023/10/03/aaron-riches-the.html",
+				"tags": ["reading","theology"]
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2023/09/30/jacqueline-i-went.html",
+				
+				"content_html": "<p>Jacqueline &amp; I went to see <a href=\"https://youtu.be/ex3C1-5Dhb8?si=9kVJx7lvIylFN6dZ\">The Creator</a> (Gareth Edwards, 2023) tonight. We agreed it was really disappointing. The visuals were cool &amp; John David Washington delivered a decent performance, but overall the writing was flat &amp; surprisingly generic.</p>\n",
+				"content_text": "Jacqueline & I went to see [The Creator](https://youtu.be/ex3C1-5Dhb8?si=9kVJx7lvIylFN6dZ) (Gareth Edwards, 2023) tonight. We agreed it was really disappointing. The visuals were cool & John David Washington delivered a decent performance, but overall the writing was flat & surprisingly generic.\n",
+				"date_published": "2023-09-30T23:04:10-04:00",
+				"url": "https://blog.andrewbelfield.com/2023/09/30/jacqueline-i-went.html",
+				"tags": ["watching"]
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2023/09/30/currently-reading-breviloquium.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781576591994\">Breviloquium</a> by Bonaventure 📚</p>\n<p>I forgot to post this earlier this week, but I&rsquo;m getting into this with my Bonaventure class for the rest of the semester.</p>\n",
+				"content_text": "Currently reading: [Breviloquium](https://micro.blog/books/9781576591994) by Bonaventure 📚\r\n\r\nI forgot to post this earlier this week, but I'm getting into this with my Bonaventure class for the rest of the semester.\n",
+				"date_published": "2023-09-30T16:09:20-04:00",
+				"url": "https://blog.andrewbelfield.com/2023/09/30/currently-reading-breviloquium.html",
+				"tags": ["reading","theology","philosophy","teaching"]
+			},
+			{
 				"id": "http://drewbelf.micro.blog/2023/09/30/a-couple-shots.html",
 				
-				"content_html": "<p>A couple shots from a recent trip to Niagara Falls.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "A couple shots from a recent trip to Niagara Falls.\n\n<img src=\"uploads/2023/dscf9511.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"uploads/2023/dscf9514.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"content_html": "<p>A couple shots from a recent trip to Niagara Falls.</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "A couple shots from a recent trip to Niagara Falls.\n\n<img src=\"uploads/2023/dscf9511.jpg\" width=\"600\" height=\"400\" alt=\"A portion of the Toronto skyline is partially obscured by mist rising from Niagara Falls\">\n\n<img src=\"uploads/2023/dscf9514.jpg\" width=\"600\" height=\"400\" alt=\"More mist rises from the falls, while a small crowd of people gaze out over the falls\">\n",
 				"date_published": "2023-09-30T15:51:41-04:00",
 				"url": "https://blog.andrewbelfield.com/2023/09/30/a-couple-shots.html"
 			},
