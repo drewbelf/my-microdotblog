@@ -7,6 +7,41 @@
 	"items": [
 		
 			{
+				"id": "http://drewbelf.micro.blog/2023/10/18/i-dont-like.html",
+				
+				"content_html": "<p>I don&rsquo;t like him as much as I used to, but Lewis&rsquo;s <em>Screwtape Letters</em> has some wildly funny moments. Like this one, as Screwtape acknowledges evil as a <em>privatio boni</em>.</p>\n<blockquote>\n<p>Never forget that when we are dealing with any pleasure in its healthy &amp; normal &amp; satisfying form, we are, in a sense, on the Enemy&rsquo;s ground. I know we have won many a soul through pleasure. All the same, it is His invention, not ours. He made the pleasures: all our research so far has not enabled us to produce one.</p>\n</blockquote>\n<p>What a funny image: demons toiling away in some lab, trying &amp; failing to invent some new pleasure.</p>\n",
+				"content_text": "I don't like him as much as I used to, but Lewis's *Screwtape Letters* has some wildly funny moments. Like this one, as Screwtape acknowledges evil as a *privatio boni*.\n\n> Never forget that when we are dealing with any pleasure in its healthy & normal & satisfying form, we are, in a sense, on the Enemy's ground. I know we have won many a soul through pleasure. All the same, it is His invention, not ours. He made the pleasures: all our research so far has not enabled us to produce one.\n\nWhat a funny image: demons toiling away in some lab, trying & failing to invent some new pleasure.\n",
+				"date_published": "2023-10-18T22:16:10-04:00",
+				"url": "https://blog.andrewbelfield.com/2023/10/18/i-dont-like.html",
+				"tags": ["reading","theology"]
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2023/10/13/currently-reading-the.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780062299086\">The Screwtape Letters: Annotated Edition</a> by C. S. Lewis 📚</p>\n",
+				"content_text": "Currently reading: [The Screwtape Letters: Annotated Edition](https://micro.blog/books/9780062299086) by C. S. Lewis 📚\n",
+				"date_published": "2023-10-13T23:11:30-04:00",
+				"url": "https://blog.andrewbelfield.com/2023/10/13/currently-reading-the.html",
+				"tags": ["reading"]
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2023/10/12/finished-reading-we.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780143134831\">We Have Always Lived in the Castle</a> by Shirley Jackson 📚</p>\n<p>That first paragraph is just so good:</p>\n<blockquote>\n<p>My name is Mary Katherine Blackwood. I am eighteen years old, and I live with my sister Constance. I have often thought that with any luck at all I could have been born a werewolf, because the two middle fingers on both my hands are the same length, but I have had to be content with what I had. I dislike washing myself, and dogs, and noise. I like my sister Constance, and Richard Plantagenet, and <em>Amanita phalloides</em>, the death-cup mushroom. Everyone else in my family is dead.</p>\n</blockquote>\n",
+				"content_text": "Finished reading: [We Have Always Lived in the Castle](https://micro.blog/books/9780143134831) by Shirley Jackson 📚\n\nThat first paragraph is just so good:\n\n> My name is Mary Katherine Blackwood. I am eighteen years old, and I live with my sister Constance. I have often thought that with any luck at all I could have been born a werewolf, because the two middle fingers on both my hands are the same length, but I have had to be content with what I had. I dislike washing myself, and dogs, and noise. I like my sister Constance, and Richard Plantagenet, and *Amanita phalloides*, the death-cup mushroom. Everyone else in my family is dead.\n",
+				"date_published": "2023-10-12T22:33:39-04:00",
+				"url": "https://blog.andrewbelfield.com/2023/10/12/finished-reading-we.html",
+				"tags": ["reading"]
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2023/10/12/laudate-deum-not.html",
+				
+				"content_html": "<p><em><a href=\"https://www.vatican.va/content/francesco/en/apost_exhortations/documents/20231004-laudate-deum.html\">Laudate deum</a></em>:</p>\n<blockquote>\n<p>Not every increase in power represents progress for humanity. We need only think of the “admirable” technologies that were employed to decimate populations, drop atomic bombs and annihilate ethnic groups. There were historical moments where our admiration at progress blinded us to the horror of its consequences. But that risk is always present, because “<a href=\"https://www.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html\">our immense technological development has not been accompanied by a development in human responsibility, values and conscience</a> &hellip; We stand naked and exposed in the face of our ever-increasing power, lacking the wherewithal to control it.”</p>\n</blockquote>\n",
+				"content_text": "*[Laudate deum](https://www.vatican.va/content/francesco/en/apost_exhortations/documents/20231004-laudate-deum.html)*:\n\n> Not every increase in power represents progress for humanity. We need only think of the “admirable” technologies that were employed to decimate populations, drop atomic bombs and annihilate ethnic groups. There were historical moments where our admiration at progress blinded us to the horror of its consequences. But that risk is always present, because “[our immense technological development has not been accompanied by a development in human responsibility, values and conscience](https://www.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html) ... We stand naked and exposed in the face of our ever-increasing power, lacking the wherewithal to control it.”\n",
+				"date_published": "2023-10-12T07:40:12-04:00",
+				"url": "https://blog.andrewbelfield.com/2023/10/12/laudate-deum-not.html"
+			},
+			{
 				"id": "http://drewbelf.micro.blog/2023/10/11/do-any-windowslinux.html",
 				
 				"content_html": "<p>Do any Windows/Linux users have a good &ldquo;workflow&rdquo; (for lack of a better term) for posting to micro.blog? I find it really unpleasant to write especially longer blog posts when I&rsquo;m doing it on the web interface. I gather there are <a href=\"https://redsweater.com/marsedit/\">some solutions for Mac</a>; what about Windows &amp; Linux?</p>\n",
@@ -4134,12 +4169,12 @@
 			},
 			{
 				"id": "http://drewbelf.micro.blog/2022/05/30/yesterday-i-saw.html",
-				
+				"title": "A personal canon (in progress)",
 				"content_html": "<p>Yesterday I saw a tweet floating around asking for your &ldquo;personal canon,&rdquo; that is, which are the books that you have used to understand the world? Limiting myself only to written works (and not, say, music or film), here&rsquo;s what I would say, roughly ordered according to when I encountered these books:</p>\n<ul>\n<li>The gospel according to Luke</li>\n<li>The book of Revelation</li>\n<li><em><a href=\"https://micro.blog/books/9780553116090\">A Wizard of Earthsea</a></em> by Ursula K. Le Guin</li>\n<li><em><a href=\"https://micro.blog/books/9780785825173\">A Christmas Carol</a></em> by Charles Dickens</li>\n<li><em><a href=\"https://micro.blog/books/9780812974263\">Les Misérables</a></em> by Victor Hugo</li>\n<li><em><a href=\"https://micro.blog/books/9780307589521\">Conjectures of a Guilty Bystander</a></em> by Thomas Merton</li>\n<li><em><a href=\"https://micro.blog/books/9780872205659\">Proslogion</a></em> by Anselm of Canterbury</li>\n<li><em><a href=\"https://micro.blog/books/9780307827807\">The Plague</a></em> by Albert Camus</li>\n<li><em><a href=\"https://micro.blog/books/9780060936990\">The Prophets</a></em> by Abraham J. Heschel</li>\n<li><em><a href=\"https://micro.blog/books/9781250082244\">Silence</a></em> by Shūsaku Endō</li>\n<li><em><a href=\"https://micro.blog/books/9783559253561\">Notes of a Native Son</a></em> by James Baldwin</li>\n<li><em><a href=\"https://micro.blog/books/9781608331246\">On Job: God-Talk and the Suffering of the Innocent</a></em> by Gustavo Gutiérrez</li>\n</ul>\n<p>I don&rsquo;t have much reading from my childhood represented; I&rsquo;m not sure that much reading from before college has stuck with me in this world-shaping way. My list also skews decidedly modern (only three premodern texts), which is a little embarassing for me as a medieval theologian.</p>\n<p>I might develop this into a fuller blog post, detailing why each of these books belong to my canon and how they inform my understanding of the world. I&rsquo;m sure I&rsquo;ll think of other books to add, too (and maybe, upon further refletion, remove some of these).</p>\n",
 				"content_text": "Yesterday I saw a tweet floating around asking for your \"personal canon,\" that is, which are the books that you have used to understand the world? Limiting myself only to written works (and not, say, music or film), here's what I would say, roughly ordered according to when I encountered these books:\n\n* The gospel according to Luke\n* The book of Revelation\n* *[A Wizard of Earthsea](https://micro.blog/books/9780553116090)* by Ursula K. Le Guin\n* *[A Christmas Carol](https://micro.blog/books/9780785825173)* by Charles Dickens\n* *[Les Misérables](https://micro.blog/books/9780812974263)* by Victor Hugo\n* *[Conjectures of a Guilty Bystander](https://micro.blog/books/9780307589521)* by Thomas Merton\n* *[Proslogion](https://micro.blog/books/9780872205659)* by Anselm of Canterbury\n* *[The Plague](https://micro.blog/books/9780307827807)* by Albert Camus\n* *[The Prophets](https://micro.blog/books/9780060936990)* by Abraham J. Heschel\n* *[Silence](https://micro.blog/books/9781250082244)* by Shūsaku Endō\n* *[Notes of a Native Son](https://micro.blog/books/9783559253561)* by James Baldwin\n* *[On Job: God-Talk and the Suffering of the Innocent](https://micro.blog/books/9781608331246)* by Gustavo Gutiérrez\n\nI don't have much reading from my childhood represented; I'm not sure that much reading from before college has stuck with me in this world-shaping way. My list also skews decidedly modern (only three premodern texts), which is a little embarassing for me as a medieval theologian.\n\nI might develop this into a fuller blog post, detailing why each of these books belong to my canon and how they inform my understanding of the world. I'm sure I'll think of other books to add, too (and maybe, upon further refletion, remove some of these).\n",
 				"date_published": "2022-05-30T12:37:46-04:00",
 				"url": "https://blog.andrewbelfield.com/2022/05/30/yesterday-i-saw.html",
-				"tags": ["reading","theology","justice","philosophy"]
+				"tags": ["reading","theology","justice","philosophy","longform"]
 			},
 			{
 				"id": "http://drewbelf.micro.blog/2022/05/29/birding-at-the.html",
