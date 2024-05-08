@@ -7,6 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://drewbelf.micro.blog/2024/05/07/finished-reading-a.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780809123193\">A Life of Jesus</a> by Shūsaku Endō 📚</p>\n",
+				"content_text": "Finished reading: [A Life of Jesus](https://micro.blog/books/9780809123193) by Shūsaku Endō 📚\n",
+				"date_published": "2024-05-07T22:36:39-04:00",
+				"url": "https://micro.andrewbelfield.com/2024/05/07/finished-reading-a.html",
+				"tags": ["reading","theology"]
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2024/05/05/currently-reading-a.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780809123193\">A Life of Jesus</a> by Shūsaku Endō 📚</p>\n",
+				"content_text": "Currently reading: [A Life of Jesus](https://micro.blog/books/9780809123193) by Shūsaku Endō 📚\n",
+				"date_published": "2024-05-05T20:43:34-04:00",
+				"url": "https://micro.andrewbelfield.com/2024/05/05/currently-reading-a.html",
+				"tags": ["reading","theology"]
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2024/05/05/finished-reading-sir.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780571303588\">Sir Gawain and the Green Knight</a>, translated by Simon Armitage 📚</p>\n",
+				"content_text": "Finished reading: [Sir Gawain and the Green Knight](https://micro.blog/books/9780571303588), translated by Simon Armitage 📚\n",
+				"date_published": "2024-05-05T19:31:06-04:00",
+				"url": "https://micro.andrewbelfield.com/2024/05/05/finished-reading-sir.html",
+				"tags": ["reading"]
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2024/05/04/i-love-john.html",
+				
+				"content_html": "<p>I love John Cavadini&rsquo;s account of mystery <a href=\"https://churchlifejournal.nd.edu/articles/research-and-the-catholic-intellectual-tradition/\">here</a>:</p>\n<blockquote>\n<p>This does not mean a puzzle that we will eventually solve, but a reality that is not reducible to reason, &amp; yet, once received in faith, is hospitable to reason. It is a “mystery” in the sense that it cannot be fully resolved into the terms of reason alone, fully explained—for that would be to explain it away, &amp; ultimately to reject it. &hellip; The use of reason is to come to understand the mystery precisely <em>as</em> mystery &amp; appreciate it as such; it does not attenuate the mystery but allows the wonder of it to be specified, articulated, &amp; received more fully.</p>\n</blockquote>\n",
+				"content_text": "I love John Cavadini's account of mystery [here](https://churchlifejournal.nd.edu/articles/research-and-the-catholic-intellectual-tradition/):\r\n\r\n> This does not mean a puzzle that we will eventually solve, but a reality that is not reducible to reason, & yet, once received in faith, is hospitable to reason. It is a “mystery” in the sense that it cannot be fully resolved into the terms of reason alone, fully explained—for that would be to explain it away, & ultimately to reject it. ... The use of reason is to come to understand the mystery precisely *as* mystery & appreciate it as such; it does not attenuate the mystery but allows the wonder of it to be specified, articulated, & received more fully.\n",
+				"date_published": "2024-05-04T09:33:13-04:00",
+				"url": "https://micro.andrewbelfield.com/2024/05/04/i-love-john.html",
+				"tags": ["theology","philosophy"]
+			},
+			{
 				"id": "http://drewbelf.micro.blog/2024/05/02/incredible-find-on.html",
 				
 				"content_html": "<p>Incredible find on the free books table</p>\n<!-- raw HTML omitted -->\n",
