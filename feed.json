@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://drewbelf.micro.blog/2024/07/18/after-craigmillar-castle.html",
+				
+				"content_html": "<p>After <a href=\"https://micro.andrewbelfield.com/2024/07/11/a-few-pictures.html\">Craigmillar Castle</a>, we went to Hollyrood Park &amp; hiked up Arthur&rsquo;s Seat.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "After [Craigmillar Castle](https://micro.andrewbelfield.com/2024/07/11/a-few-pictures.html), we went to Hollyrood Park & hiked up Arthur's Seat.\n\n<img src=\"uploads/2024/dscf9820-3.jpg\" width=\"600\" height=\"600\" alt=\"A hiker sits down to rest, with a view of the St. Anthony Chapel ruins on a hill in the distance. Black and white.\"><img src=\"uploads/2024/dscf9824.jpg\" width=\"600\" height=\"400\" alt=\"A walking trail cuts across the hills in the landscape. Black and white.\"><img src=\"uploads/2024/dscf9830-1.jpg\" width=\"600\" height=\"450\" alt=\"A couple of boys sit among the rocks in front of St. Anthony Chapel ruins.\">\n",
+				"date_published": "2024-07-18T12:47:42-04:00",
+				"url": "https://micro.andrewbelfield.com/2024/07/18/after-craigmillar-castle.html",
+				"tags": ["travel","photography"]
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2024/07/11/a-few-pictures.html",
+				
+				"content_html": "<p>A few pictures from our visit to Craigmillar Castle outside of Edinburgh, Scotland. I went all-in on black &amp; white for most of this trip.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "A few pictures from our visit to Craigmillar Castle outside of Edinburgh, Scotland. I went all-in on black & white for most of this trip.\n\n<img src=\"uploads/2024/dscf9728-1.jpg\" width=\"600\" height=\"400\" alt=\"Craigmillar Castle at a distance in black and white, framed by trees and grass.\"><img src=\"uploads/2024/dscf9750-1.jpg\" width=\"600\" height=\"400\" alt=\"One of the gates to the castle in black and white, with tall grasses in the foreground.\"><img src=\"uploads/2024/dscf9755-1.jpg\" width=\"600\" height=\"400\" alt=\"A tower at the corner of a castle building in black and white, casting shadows on the lower wall.\"><img src=\"uploads/2024/dscf9770-2.jpg\" width=\"600\" height=\"400\" alt=\"A view of what used to be the roof wall of the castle in black and white, viewed through a window with grates.\"><img src=\"uploads/2024/dscf9800-1.jpg\" width=\"600\" height=\"400\" alt=\"Jacqueline standing on a corner of the castle wall in black and white.\"><img src=\"uploads/2024/dscf9788-1.jpg\" width=\"600\" height=\"400\" alt=\"A tree in the middle ground, with mountains in the background and framed in the foregroudn by walls of a castle window (in black and white).\"><img src=\"uploads/2024/dscf9809-1.jpg\" width=\"600\" height=\"400\" alt=\"A woman stands on a wall of the castle, gazing into the distance, in black and white.\">\n",
+				"date_published": "2024-07-11T11:46:54-04:00",
+				"url": "https://micro.andrewbelfield.com/2024/07/11/a-few-pictures.html",
+				"tags": ["travel","photography"]
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2024/07/10/i-wrote-a.html",
+				
+				"content_html": "<p>I wrote a (long-ish) post <a href=\"https://blog.andrewbelfield.com/posts/2024/0710_jerusalem-bibles/\">about the Jerusalem Bible family of translations &amp; comparing some passages in the New Jerusalem Bible &amp; the Revised New Jerusalem Bible</a>.</p>\n",
+				"content_text": "I wrote a (long-ish) post [about the Jerusalem Bible family of translations & comparing some passages in the New Jerusalem Bible & the Revised New Jerusalem Bible](https://blog.andrewbelfield.com/posts/2024/0710_jerusalem-bibles/).\n",
+				"date_published": "2024-07-10T15:22:16-04:00",
+				"url": "https://micro.andrewbelfield.com/2024/07/10/i-wrote-a.html",
+				"tags": ["theology"]
+			},
+			{
 				"id": "http://drewbelf.micro.blog/2024/07/07/jacqueline-i-got.html",
 				
 				"content_html": "<p>Jacqueline &amp; I got home late last night from about a week &amp; a half in the UK. We were in Edinburgh, York, Leeds (for <a href=\"https://www.imc.leeds.ac.uk/imc-2024/imc-2024-cfp/\">the International Medieval Congress</a>), &amp; Whitby. Here we are on the West Pier in Whitby.</p>\n<!-- raw HTML omitted -->\n",
