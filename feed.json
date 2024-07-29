@@ -7,10 +7,82 @@
 	"items": [
 		
 			{
+				"id": "http://drewbelf.micro.blog/2024/07/29/kirkstall-abbey-a.html",
+				
+				"content_html": "<p>Kirkstall Abbey, a remarkably well-preserved ruined monastery just outside Leeds.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Kirkstall Abbey, a remarkably well-preserved ruined monastery just outside Leeds.\n\n<img src=\"uploads/2024/dscf9969-1.jpg\" width=\"600\" height=\"450\" alt=\"Abbey ruins in black and white, framed by tree branches around the borders of the frame.\">\n",
+				"date_published": "2024-07-29T10:23:01-04:00",
+				"url": "https://micro.andrewbelfield.com/2024/07/29/kirkstall-abbey-a.html",
+				"tags": ["travel","photography"]
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2024/07/22/st-marys-abbey.html",
+				
+				"content_html": "<p>St. Mary&rsquo;s Abbey ruins in the rain</p>\n<!-- raw HTML omitted -->\n<p>This is one of my favorite shots of the entire trip.</p>\n",
+				"content_text": "St. Mary's Abbey ruins in the rain\n\n<img src=\"uploads/2024/dscf9947-1.jpg\" width=\"450\" height=\"600\" alt=\"A couple, an umbrella overhead, pass beneath the dilapidated archway of what was once a Gothic monastery.\">\n\nThis is one of my favorite shots of the entire trip.\n",
+				"date_published": "2024-07-22T18:02:31-04:00",
+				"url": "https://micro.andrewbelfield.com/2024/07/22/st-marys-abbey.html",
+				"tags": ["travel","photography"]
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2024/07/22/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780226410432\">The Silence of Sodom: Homosexuality in Modern Catholicism</a> by Mark D. Jordan 📚</p>\n<p>A little dated in certain respects, but perhaps not as much as one might think.</p>\n",
+				"content_text": "Finished reading: [The Silence of Sodom: Homosexuality in Modern Catholicism](https://micro.blog/books/9780226410432) by Mark D. Jordan 📚\r\n\r\nA little dated in certain respects, but perhaps not as much as one might think.\n",
+				"date_published": "2024-07-22T13:05:15-04:00",
+				"url": "https://micro.andrewbelfield.com/2024/07/22/finished-reading-the.html",
+				"tags": ["reading","theology","justice"]
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2024/07/22/hells-harrowing-in.html",
+				
+				"content_html": "<p>Hell&rsquo;s harrowing, in the crypt at York Minster</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Hell's harrowing, in the crypt at York Minster\n\n<img src=\"uploads/2024/d0b47b6a23.jpg\" width=\"600\" height=\"400\" alt=\"Creepy demonic-esque figures carved into a stone relief, viewed through an iron grate in black and white.\">\n",
+				"date_published": "2024-07-22T12:53:29-04:00",
+				"url": "https://micro.andrewbelfield.com/2024/07/22/hells-harrowing-in.html",
+				"tags": ["travel","photography"]
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2024/07/21/york-minster-again.html",
+				
+				"content_html": "<p>York Minster again</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "York Minster again\n\n<img src=\"uploads/2024/47de7f298c.jpg\" width=\"400\" height=\"600\" alt=\"Looking up from beneath the darkness of the Gothic arches, the gaze rests on the light and airy heights of the cathedral.\">\n",
+				"date_published": "2024-07-21T17:48:21-04:00",
+				"url": "https://micro.andrewbelfield.com/2024/07/21/york-minster-again.html",
+				"tags": ["travel","photography"]
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2024/07/21/i-know-this.html",
+				
+				"content_html": "<p>I know this is an odd position for a Catholic, but practices of eucharistic adoration like at <a href=\"https://www.nytimes.com/2024/07/21/us/national-eucharist-congress-catholics.html\">the recent National Eucharistic Congress</a> make little theological sense to me.<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup> Christ&rsquo;s real presence in the celebration of the sacrament follows from the performance of the sacrament (<em>ex opere operato</em>)&mdash;that is to say, Christ is present in the sharing of the ritual meal that the eucharist is. The change in context that eucharistic adoration brings about (from meal to devotion) seems to undo the logic upon which sacramental validity&mdash;&amp; thus the real presence of Christ&mdash;rests.</p>\n<section class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\" role=\"doc-endnote\">\n<p>Also, I know the New York Times&rsquo;s coverage of religion is generally terrible.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</section>\n",
+				"content_text": "I know this is an odd position for a Catholic, but practices of eucharistic adoration like at [the recent National Eucharistic Congress](https://www.nytimes.com/2024/07/21/us/national-eucharist-congress-catholics.html) make little theological sense to me.[^1] Christ's real presence in the celebration of the sacrament follows from the performance of the sacrament (*ex opere operato*)---that is to say, Christ is present in the sharing of the ritual meal that the eucharist is. The change in context that eucharistic adoration brings about (from meal to devotion) seems to undo the logic upon which sacramental validity---& thus the real presence of Christ---rests.\r\n\r\n[^1]: Also, I know the New York Times's coverage of religion is generally terrible.\n",
+				"date_published": "2024-07-21T13:27:28-04:00",
+				"url": "https://micro.andrewbelfield.com/2024/07/21/i-know-this.html",
+				"tags": ["theology"]
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2024/07/21/another-photograph-from.html",
+				
+				"content_html": "<p>Another photograph from the Chapter House at York Minster</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Another photograph from the Chapter House at York Minster\n\n<img src=\"uploads/2024/395844043f.jpg\" width=\"400\" height=\"600\" alt=\"Jacqueline gazes up at a stained glass window that stretches above her. Black and white.\">\n",
+				"date_published": "2024-07-21T11:29:46-04:00",
+				"url": "https://micro.andrewbelfield.com/2024/07/21/another-photograph-from.html",
+				"tags": ["travel","photography"]
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2024/07/20/chapter-house-ceilingyork.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>Chapter House Ceiling<br>\nYork Minster<br>\nYork, UK</p>\n",
+				"content_text": "<img src=\"uploads/2024/a762f20988.jpg\" width=\"400\" height=\"600\" alt=\"The top arch of a stained glass window points up to the central point of a high, vaulted ceiling, in black and white.\">\n\nChapter House Ceiling  \nYork Minster  \nYork, UK\n",
+				"date_published": "2024-07-20T10:05:50-04:00",
+				"url": "https://micro.andrewbelfield.com/2024/07/20/chapter-house-ceilingyork.html",
+				"tags": ["travel","photography"]
+			},
+			{
 				"id": "http://drewbelf.micro.blog/2024/07/18/after-craigmillar-castle.html",
 				
-				"content_html": "<p>After <a href=\"https://micro.andrewbelfield.com/2024/07/11/a-few-pictures.html\">Craigmillar Castle</a>, we went to Hollyrood Park &amp; hiked up Arthur&rsquo;s Seat.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "After [Craigmillar Castle](https://micro.andrewbelfield.com/2024/07/11/a-few-pictures.html), we went to Hollyrood Park & hiked up Arthur's Seat.\n\n<img src=\"uploads/2024/dscf9820-3.jpg\" width=\"600\" height=\"600\" alt=\"A hiker sits down to rest, with a view of the St. Anthony Chapel ruins on a hill in the distance. Black and white.\"><img src=\"uploads/2024/dscf9824.jpg\" width=\"600\" height=\"400\" alt=\"A walking trail cuts across the hills in the landscape. Black and white.\"><img src=\"uploads/2024/dscf9830-1.jpg\" width=\"600\" height=\"450\" alt=\"A couple of boys sit among the rocks in front of St. Anthony Chapel ruins.\">\n",
+				"content_html": "<p>After <a href=\"https://micro.andrewbelfield.com/2024/07/11/a-few-pictures.html\">Craigmillar Castle</a>, we went to Hollyrood Park &amp; hiked up Arthur&rsquo;s Seat, passing by the St. Anthony&rsquo;s Chapel ruins on the way.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "After [Craigmillar Castle](https://micro.andrewbelfield.com/2024/07/11/a-few-pictures.html), we went to Hollyrood Park & hiked up Arthur's Seat, passing by the St. Anthony's Chapel ruins on the way.\n\n<img src=\"uploads/2024/dscf9820-3.jpg\" width=\"600\" height=\"600\" alt=\"A hiker sits down to rest, with a view of the St. Anthony Chapel ruins on a hill in the distance. Black and white.\"><img src=\"uploads/2024/dscf9824.jpg\" width=\"600\" height=\"400\" alt=\"A walking trail cuts across the hills in the landscape. Black and white.\"><img src=\"uploads/2024/dscf9830-1.jpg\" width=\"600\" height=\"450\" alt=\"A couple of boys sit among the rocks in front of St. Anthony Chapel ruins.\">\n",
 				"date_published": "2024-07-18T12:47:42-04:00",
 				"url": "https://micro.andrewbelfield.com/2024/07/18/after-craigmillar-castle.html",
 				"tags": ["travel","photography"]
