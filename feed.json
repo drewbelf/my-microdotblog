@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://drewbelf.micro.blog/2024/08/08/waves-in-whitby.html",
+				
+				"content_html": "<p>Waves in Whitby</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Waves in Whitby\n\n<img src=\"uploads/2024/dscf0101-1.jpg\" width=\"600\" height=\"399\" alt=\"Waves break against a sea wall, in black and white\">\n",
+				"date_published": "2024-08-08T18:53:00-04:00",
+				"url": "https://micro.andrewbelfield.com/2024/08/08/waves-in-whitby.html",
+				"tags": ["travel","photography"]
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2024/08/08/the-beach-at.html",
+				
+				"content_html": "<p>The beach at Whitby</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The beach at Whitby\n\n<img src=\"uploads/2024/dscf0085-2.jpg\" width=\"600\" height=\"450\" alt=\"A young girl runs on the beach toward her mother, who stands at the edge of the water.\">\n",
+				"date_published": "2024-08-08T14:59:45-04:00",
+				"url": "https://micro.andrewbelfield.com/2024/08/08/the-beach-at.html",
+				"tags": ["travel","photography"]
+			},
+			{
 				"id": "http://drewbelf.micro.blog/2024/08/03/adobe-acrobat-is.html",
 				
 				"content_html": "<p>Adobe Acrobat is practically unusable. The constant pop-ups for Acrobat Pro only seem to be getting worse, &amp; now Adobe is trying to bully me into using &ldquo;AI Assistant.&rdquo; Any recommendations for a simple, feature-poor Windows PDF reader? I don&rsquo;t need any bells or whistles&mdash;just show me my documents!</p>\n",
@@ -26,7 +44,7 @@
 				"id": "http://drewbelf.micro.blog/2024/07/30/one-more-from.html",
 				
 				"content_html": "<p>One more from Kirkstall Abbey</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "One more from Kirkstall Abbey\n\n<img src=\"uploads/2024/dscf0023-1.jpg\" width=\"400\" height=\"600\" alt=\"A long hallway with tall stone archways, Jacqueline turns to the left to walk between two stone columns\">\n",
+				"content_text": "One more from Kirkstall Abbey\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2024/dscf0023-1.jpg\" width=\"400\" height=\"600\" alt=\"A long hallway with tall stone archways, Jacqueline turns to the left to walk between two stone columns\">\n",
 				"date_published": "2024-07-30T16:31:06-04:00",
 				"url": "https://micro.andrewbelfield.com/2024/07/30/one-more-from.html",
 				"tags": ["travel","photography"]
@@ -35,7 +53,7 @@
 				"id": "http://drewbelf.micro.blog/2024/07/29/another-view-of.html",
 				
 				"content_html": "<p>Another view of Kirkstall Abbey</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Another view of Kirkstall Abbey\n\n<img src=\"uploads/2024/dscf9981-1.jpg\" width=\"450\" height=\"600\" alt=\"The ruined walls of the monastery arise in the background, with trees and a dilapidated brick wall in the foreground and an iron-wrought fence in the foreground\">\n",
+				"content_text": "Another view of Kirkstall Abbey\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2024/dscf9981-1.jpg\" width=\"450\" height=\"600\" alt=\"The ruined walls of the monastery arise in the background, with trees and a dilapidated brick wall in the foreground and an iron-wrought fence in the foreground\">\n",
 				"date_published": "2024-07-29T17:44:11-04:00",
 				"url": "https://micro.andrewbelfield.com/2024/07/29/another-view-of.html",
 				"tags": ["travel","photography"]
