@@ -7,6 +7,32 @@
 	"items": [
 		
 			{
+				"id": "http://drewbelf.micro.blog/2024/09/28/i-wrote-about.html",
+				
+				"content_html": "<p>I wrote about <a href=\"https://blog.andrewbelfield.com/posts/2024/0928_three-things/\">my blogging habits, RSS feeds, &amp; writing labs</a>.</p>\n",
+				"content_text": "I wrote about [my blogging habits, RSS feeds, & writing labs](https://blog.andrewbelfield.com/posts/2024/0928_three-things/).\n",
+				"date_published": "2024-09-28T10:55:50-04:00",
+				"url": "https://micro.andrewbelfield.com/2024/09/28/i-wrote-about.html"
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2024/09/22/yard-saleing-on.html",
+				
+				"content_html": "<p>Yard sale-ing on route 16</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Yard sale-ing on route 16\n\n\n<img src=\"uploads/2024/dscf0335.jpg\" width=\"600\" height=\"399\" alt=\"A rural scene features a house, a church, a barn structure with a silo, and a speed limit sign along a road.\"><img src=\"uploads/2024/dscf0338.jpg\" width=\"600\" height=\"399\" alt=\"A pile of cardboard boxes lies scattered on the ground beneath trees in a park-like setting.\"><img src=\"uploads/2024/dscf0341-1.jpg\" width=\"600\" height=\"399\" alt=\"Three people are walking toward a small outdoor market setup near a garage on a sunny day.\"><img src=\"uploads/2024/dscf0344.jpg\" width=\"600\" height=\"399\" alt=\"A winding road leads through a rural landscape with houses, power lines, and trees under a clear sky.\"><img src=\"uploads/2024/dscf0350-1.jpg\" width=\"600\" height=\"399\" alt=\"A vintage car with a For Sale sign is parked on a grassy lawn surrounded by various items and a house in the background.\">\n",
+				"date_published": "2024-09-22T19:25:15-04:00",
+				"url": "https://micro.andrewbelfield.com/2024/09/22/yard-saleing-on.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2024/09/21/scenes-from-the.html",
+				
+				"content_html": "<p>Scenes from the Cuba Garlic Fest</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Scenes from the Cuba Garlic Fest\n\n<img src=\"uploads/2024/dscf0313-1.jpg\" width=\"600\" height=\"450\" alt=\"People are gathered at a booth with jars on display under a white tent; the salesperson wears a hat shaped like a head of garlic.\"><img src=\"uploads/2024/dscf0317.jpg\" width=\"600\" height=\"399\" alt=\"A person is smiling while holding a pickle at an outdoor event with tents and a crowd in the background.\">\n",
+				"date_published": "2024-09-21T19:04:49-04:00",
+				"url": "https://micro.andrewbelfield.com/2024/09/21/scenes-from-the.html",
+				"tags": ["photography"]
+			},
+			{
 				"id": "http://drewbelf.micro.blog/2024/09/20/daniel-walden-on.html",
 				
 				"content_html": "<p><a href=\"https://danielwalden.substack.com/p/on-criticism-and-on-this-newsletter\">Daniel Walden on criticism</a> as “loving attention”:</p>\n<blockquote>\n<p>But that attention also needs to be loving. To me, this means exercising negative capability &amp; trying to see what a book, a song, or a performance is aiming at, even &amp; especially when it misses. It’s love both for the humanity of effort &amp; for the best that can be done. I think that only with both of these modes of loving firmly in mind &amp; heart can a critic hope to write usefully.</p>\n</blockquote>\n<p>I probably don&rsquo;t quite do this myself (&amp; I don&rsquo;t claim to be a critic), but I like this account of criticism.</p>\n",
