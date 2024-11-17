@@ -7,10 +7,19 @@
 	"items": [
 		
 			{
+				"id": "http://drewbelf.micro.blog/2024/11/17/ruins-of-whitby.html",
+				
+				"content_html": "<p>Ruins of Whitby Abbey</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Ruins of Whitby Abbey\r\n\n\n<img src=\"uploads/2024/dscf0234-1.jpg\" width=\"600\" height=\"400\" alt=\"Gothic stone arches and columns stand against a clear sky, the remnants of Whitby Abbey.\">\n",
+				"date_published": "2024-11-17T11:30:10-05:00",
+				"url": "https://micro.andrewbelfield.com/2024/11/17/ruins-of-whitby.html",
+				"tags": ["travel","photography"]
+			},
+			{
 				"id": "http://drewbelf.micro.blog/2024/11/03/thomas-merton-on.html",
 				
-				"content_html": "<p>Thomas Merton on “blessed are the meek”:</p>\n<blockquote>\n<p>Faith of course tells us that we live in a time of eschatological struggle, facing a fierce combat which marshalls all the forces of evil &amp; darkness against the still invisible truth, yet this combat is already decided by the victory of Christ over death &amp; over sin. The Christian can renounce the protection of violence and risk being humble, therefore <em>vulnerable</em>, not because he trusts in the supposed efficacy of a gentle &amp; persuasive tactic that will disarm hatred &amp; tame cruelty, but because he believes that the hidden power of the Gospel is demanding to be manifested in &amp; through his own poor person.</p>\n</blockquote>\n",
-				"content_text": "Thomas Merton on “blessed are the meek”:\n\n> Faith of course tells us that we live in a time of eschatological struggle, facing a fierce combat which marshalls all the forces of evil & darkness against the still invisible truth, yet this combat is already decided by the victory of Christ over death & over sin. The Christian can renounce the protection of violence and risk being humble, therefore *vulnerable*, not because he trusts in the supposed efficacy of a gentle & persuasive tactic that will disarm hatred & tame cruelty, but because he believes that the hidden power of the Gospel is demanding to be manifested in & through his own poor person.\n",
+				"content_html": "<p>Thomas Merton on “blessed are the meek”:</p>\n<blockquote>\n<p>Faith of course tells us that we live in a time of eschatological struggle, facing a fierce combat which marshalls all the forces of evil &amp; darkness against the still invisible truth, yet this combat is already decided by the victory of Christ over death &amp; over sin. The Christian can renounce the protection of violence &amp; risk being humble, therefore <em>vulnerable</em>, not because he trusts in the supposed efficacy of a gentle &amp; persuasive tactic that will disarm hatred &amp; tame cruelty, but because he believes that the hidden power of the Gospel is demanding to be manifested in &amp; through his own poor person.</p>\n</blockquote>\n",
+				"content_text": "Thomas Merton on “blessed are the meek”:\n\n> Faith of course tells us that we live in a time of eschatological struggle, facing a fierce combat which marshalls all the forces of evil & darkness against the still invisible truth, yet this combat is already decided by the victory of Christ over death & over sin. The Christian can renounce the protection of violence & risk being humble, therefore *vulnerable*, not because he trusts in the supposed efficacy of a gentle & persuasive tactic that will disarm hatred & tame cruelty, but because he believes that the hidden power of the Gospel is demanding to be manifested in & through his own poor person.\n",
 				"date_published": "2024-11-03T21:51:14-05:00",
 				"url": "https://micro.andrewbelfield.com/2024/11/03/thomas-merton-on.html"
 			},
