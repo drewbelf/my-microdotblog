@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://drewbelf.micro.blog/2024/11/25/should-i-sit.html",
+				
+				"content_html": "<p><a href=\"https://www.nytimes.com/2024/11/25/movies/movies-closing-credits-etiquette.html\">Should I sit through the closing credits?</a> Yes.</p>\n",
+				"content_text": "[Should I sit through the closing credits?](https://www.nytimes.com/2024/11/25/movies/movies-closing-credits-etiquette.html) Yes.\n",
+				"date_published": "2024-11-25T09:03:01-05:00",
+				"url": "https://micro.andrewbelfield.com/2024/11/25/should-i-sit.html"
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2024/11/20/thank-god-for.html",
+				
+				"content_html": "<p><a href=\"https://www.theguardian.com/books/2024/nov/20/we-who-wrestle-with-god-by-jordan-b-peterson-review-a-culture-warrior-out-of-his-depth\">Thank God for Rowan Williams.</a></p>\n",
+				"content_text": "[Thank God for Rowan Williams.](https://www.theguardian.com/books/2024/nov/20/we-who-wrestle-with-god-by-jordan-b-peterson-review-a-culture-warrior-out-of-his-depth)\n",
+				"date_published": "2024-11-20T21:32:42-05:00",
+				"url": "https://micro.andrewbelfield.com/2024/11/20/thank-god-for.html"
+			},
+			{
+				"id": "http://drewbelf.micro.blog/2024/11/18/theres-nothing-quite.html",
+				
+				"content_html": "<p>There&rsquo;s nothing quite like the stress of not being able to sleep.</p>\n",
+				"content_text": "There's nothing quite like the stress of not being able to sleep.\n",
+				"date_published": "2024-11-18T00:40:11-05:00",
+				"url": "https://micro.andrewbelfield.com/2024/11/18/theres-nothing-quite.html"
+			},
+			{
 				"id": "http://drewbelf.micro.blog/2024/11/17/ruins-of-whitby.html",
 				
 				"content_html": "<p>Ruins of Whitby Abbey</p>\n<!-- raw HTML omitted -->\n",
@@ -43,7 +67,7 @@
 				"id": "http://drewbelf.micro.blog/2024/10/14/when-dracula-arrives.html",
 				
 				"content_html": "<p>When Dracula arrives in England, he, taking the form of a large dog, bounds up the 199 steps leading to this graveyard near St. Mary&rsquo;s Church in Whitby</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "When Dracula arrives in England, he, taking the form of a large dog, bounds up the 199 steps leading to this graveyard near St. Mary's Church in Whitby\n\n<img src=\"uploads/2024/dscf0133-1.jpg\" width=\"600\" height=\"400\" alt=\"A graveyard with old tombstones overlooks a distant sea under a cloudy sky.\">\n",
+				"content_text": "When Dracula arrives in England, he, taking the form of a large dog, bounds up the 199 steps leading to this graveyard near St. Mary's Church in Whitby\n\n<img src=\"https://cdn.uploads.micro.blog/57396/2024/dscf0133-1.jpg\" width=\"600\" height=\"400\" alt=\"A graveyard with old tombstones overlooks a distant sea under a cloudy sky.\">\n",
 				"date_published": "2024-10-14T17:50:44-05:00",
 				"url": "https://micro.andrewbelfield.com/2024/10/14/when-dracula-arrives.html",
 				"tags": ["travel","photography"]
