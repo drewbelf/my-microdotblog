@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://drewbelf.micro.blog/2025/01/05/seattle.html",
+				
+				"content_html": "<p>Seattle, 2019</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Seattle, 2019\n\n<img src=\"uploads/2025/amgb7743-1.jpg\" width=\"600\" height=\"400\" alt=\"Two parked vehicles in front of a colorful wall with large text promoting live music this weekend.\">\n",
+				"date_published": "2025-01-05T15:10:41-05:00",
+				"url": "https://micro.andrewbelfield.com/2025/01/05/seattle.html",
+				"tags": ["travel","photography"]
+			},
+			{
 				"id": "http://drewbelf.micro.blog/2024/12/25/113219.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
