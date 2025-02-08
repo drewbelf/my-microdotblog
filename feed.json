@@ -7,10 +7,19 @@
 	"items": [
 		
 			{
+				"id": "http://drewbelf.micro.blog/2025/02/08/a-philosopher-assesses-assessment-a.html",
+				
+				"content_html": "<p>A philosopher <a href=\"https://www.insidehighered.com/opinion/views/2025/02/03/against-assessment-regime-opinion\">assesses assessment</a>. A little polemical, but much of it rings true for me.</p>\n<blockquote>\n<p>If we want to ensure high standards of education, the best thing to do isn’t to micromanage what professors do in their courses—it is to hire more full-time faculty, decrease busywork, offer positive incentives for reflecting on their courses and give them better job security. This would enable faculty to do the kind of on-the-ground evaluation and improvement that conscientious teachers want to do anyway and exercise their expert judgment without being worried about upsetting a student or administrator.</p>\n</blockquote>\n",
+				"content_text": "A philosopher [assesses assessment](https://www.insidehighered.com/opinion/views/2025/02/03/against-assessment-regime-opinion). A little polemical, but much of it rings true for me.\n\n> If we want to ensure high standards of education, the best thing to do isn’t to micromanage what professors do in their courses—it is to hire more full-time faculty, decrease busywork, offer positive incentives for reflecting on their courses and give them better job security. This would enable faculty to do the kind of on-the-ground evaluation and improvement that conscientious teachers want to do anyway and exercise their expert judgment without being worried about upsetting a student or administrator.\n",
+				"date_published": "2025-02-08T14:18:24-05:00",
+				"url": "https://micro.andrewbelfield.com/2025/02/08/a-philosopher-assesses-assessment-a.html",
+				"tags": ["teaching"]
+			},
+			{
 				"id": "http://drewbelf.micro.blog/2025/02/02/for-the-first-time-in.html",
 				
-				"content_html": "<p>For the first time in a long time I shot a roll of film: Kodak 400Tri-X on my Canonet. The light wasn&rsquo;t particularly interesting, but I&rsquo;m excited about some compositions. I&rsquo;ll take the roll to my local developer, <a href=\"https://www.rocphotosupply.com/\">Scott&rsquo;s Rochester Photo Supply</a>, next weekend for development (&amp; a few more rolls).</p>\n",
-				"content_text": "For the first time in a long time I shot a roll of film: Kodak 400Tri-X on my Canonet. The light wasn't particularly interesting, but I'm excited about some compositions. I'll take the roll to my local developer, [Scott's Rochester Photo Supply](https://www.rocphotosupply.com/), next weekend for development (& a few more rolls).\n",
+				"content_html": "<p>For the first time in a long time I shot a roll of film: Kodak 400 Tri-X on my Canonet. The light wasn&rsquo;t particularly interesting, but I&rsquo;m excited about some compositions. I&rsquo;ll take the roll to my local developer, <a href=\"https://www.rocphotosupply.com/\">Scott&rsquo;s Rochester Photo Supply</a>, next weekend for development (&amp; a few more rolls).</p>\n",
+				"content_text": "For the first time in a long time I shot a roll of film: Kodak 400 Tri-X on my Canonet. The light wasn't particularly interesting, but I'm excited about some compositions. I'll take the roll to my local developer, [Scott's Rochester Photo Supply](https://www.rocphotosupply.com/), next weekend for development (& a few more rolls).\n",
 				"date_published": "2025-02-02T13:48:21-05:00",
 				"url": "https://micro.andrewbelfield.com/2025/02/02/for-the-first-time-in.html"
 			},
