@@ -7,10 +7,19 @@
 	"items": [
 		
 			{
+				"id": "http://drewbelf.micro.blog/2025/06/22/if-any-one-says-i.html",
+				
+				"content_html": "<blockquote>\n<p>If any one <a href=\"https://www.cnn.com/2025/06/21/politics/video/trump-iran-strikes-remarks-digvid\">says, “I love God,”</a> &amp; hates his brother, he is a liar; for he who does not love his brother whom he has seen, cannot love God whom he has not seen. (1 John 4:20)</p>\n</blockquote>\n",
+				"content_text": "> If any one [says, “I love God,”](https://www.cnn.com/2025/06/21/politics/video/trump-iran-strikes-remarks-digvid) & hates his brother, he is a liar; for he who does not love his brother whom he has seen, cannot love God whom he has not seen. (1 John 4:20)\n",
+				"date_published": "2025-06-22T09:08:21-04:00",
+				"url": "https://micro.andrewbelfield.com/2025/06/22/if-any-one-says-i.html",
+				"tags": ["justice"]
+			},
+			{
 				"id": "http://drewbelf.micro.blog/2025/06/22/pope-leo-xiv-on-the.html",
 				
-				"content_html": "<p>Pope Leo XIV on <a href=\"https://www.ncronline.org/vatican/stop-tragedy-war-pope-says-after-us-bombs-iran\">the tragedy of war</a>:</p>\n<blockquote>\n<p>Every member of the international community has a moral responsibility: Stop the tragedy of war before it becomes an irreparable abyss.</p>\n<p>War does not solve problems, but rather it amplifies them &amp; produces deep wounds in the history of people that take generations to heal. No armed victory can compensate for the pain of mothers, the fear of children, the stolen future.</p>\n<p>Let diplomacy silence the weapons. Let nations chart their future with works of peace, not with violence and bloody conflicts!</p>\n</blockquote>\n",
-				"content_text": "Pope Leo XIV on [the tragedy of war](https://www.ncronline.org/vatican/stop-tragedy-war-pope-says-after-us-bombs-iran):\n\n> Every member of the international community has a moral responsibility: Stop the tragedy of war before it becomes an irreparable abyss.\n> \n> War does not solve problems, but rather it amplifies them & produces deep wounds in the history of people that take generations to heal. No armed victory can compensate for the pain of mothers, the fear of children, the stolen future.\n> \n> Let diplomacy silence the weapons. Let nations chart their future with works of peace, not with violence and bloody conflicts!\n",
+				"content_html": "<p>Pope Leo XIV <a href=\"https://www.ncronline.org/vatican/stop-tragedy-war-pope-says-after-us-bombs-iran\">on the tragedy of war</a>:</p>\n<blockquote>\n<p>Every member of the international community has a moral responsibility: Stop the tragedy of war before it becomes an irreparable abyss.</p>\n<p>War does not solve problems, but rather it amplifies them &amp; produces deep wounds in the history of people that take generations to heal. No armed victory can compensate for the pain of mothers, the fear of children, the stolen future.</p>\n<p>Let diplomacy silence the weapons. Let nations chart their future with works of peace, not with violence &amp; bloody conflicts!</p>\n</blockquote>\n",
+				"content_text": "Pope Leo XIV [on the tragedy of war](https://www.ncronline.org/vatican/stop-tragedy-war-pope-says-after-us-bombs-iran):\n\n> Every member of the international community has a moral responsibility: Stop the tragedy of war before it becomes an irreparable abyss.\n> \n> War does not solve problems, but rather it amplifies them & produces deep wounds in the history of people that take generations to heal. No armed victory can compensate for the pain of mothers, the fear of children, the stolen future.\n> \n> Let diplomacy silence the weapons. Let nations chart their future with works of peace, not with violence & bloody conflicts!\n",
 				"date_published": "2025-06-22T08:55:44-04:00",
 				"url": "https://micro.andrewbelfield.com/2025/06/22/pope-leo-xiv-on-the.html",
 				"tags": ["justice"]
@@ -27,11 +36,11 @@
 			{
 				"id": "http://drewbelf.micro.blog/2025/06/14/no-kings-rochester-ny-june.html",
 				
-				"content_html": "<p>No kings. Rochester, NY, June 2025</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "No kings. Rochester, NY, June 2025\n\n<img src=\"uploads/2025/dscf0817.jpg\" width=\"600\" height=\"400\" alt=\"A group of protesters with signs is gathered along a street while a car with a &quot;Resist Autocracy&quot; sign passes by.\">\n",
+				"content_html": "<p>No kings. Rochester, NY, June 2025</p>\n<p>&lt;img src=&ldquo;uploads/2025/dscf0817.jpg&rdquo; width=&ldquo;600&rdquo; height=&ldquo;400&rdquo; alt=&ldquo;A group of protesters with signs is gathered along a street while a car with a &ldquo;Resist Autocracy&rdquo; sign passes by.&quot;&gt;</p>\n",
+				"content_text": "No kings. Rochester, NY, June 2025\n\n<img src=\"uploads/2025/dscf0817.jpg\" width=\"600\" height=\"400\" alt=\"A group of protesters with signs is gathered along a street while a car with a \"Resist Autocracy\" sign passes by.\">\n",
 				"date_published": "2025-06-14T20:44:36-04:00",
 				"url": "https://micro.andrewbelfield.com/2025/06/14/no-kings-rochester-ny-june.html",
-				"tags": ["justice","philosophy"]
+				"tags": ["justice","philosophy","photography"]
 			},
 			{
 				"id": "http://drewbelf.micro.blog/2025/06/10/dan-walden-on-the-impossibility.html",
